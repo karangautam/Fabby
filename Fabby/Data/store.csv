@@ -1,0 +1,4 @@
+"store_id","address_line1","address_line2","city_name","country_code","created_by","created_dt","email_id","logo_url","postal_code","store_name","store_status","account_no","store_login_id","store_login_pass"
+"1","\N","\N","\N","\N","\N","\N","\N","\N","\N","Seven Eleven","Y","76985492586","10000510","April"
+"3","\N","\N","\N","\N","\N","\N","\N","\N","\N","Target","N","76985492588","10000512","April"
+"2","\N","\N","\N","\N","\N","\N","\N","https://s3-eu-west-1.amazonaws.com/mob-private-bckt-dev/merchant/offers/myStore.png","\N","MyStore","Y","53012345675","10000511","April"

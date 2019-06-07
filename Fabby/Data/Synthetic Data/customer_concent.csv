@@ -1,0 +1,1001 @@
+concent_id,concent,is_face_authentication_blocked,merchant_desc,merchant_dist,merchant_id,merchant_logo,merchant_nm,merchant_status,merchant_time,mobile,primary_authenticated,secondary_authenticated,ssn
+1,false,false,"Strosin, McGlynn and Goyette",99.48,1001,http://dummyimage.com/240x246.jpg/ff4444/ffffff,Trilia,Close,7:01 PM,284-547-0780,false,true,559-63-4183
+2,true,false,Graham-Kozey,67.57,1020,http://dummyimage.com/112x213.png/cc0000/ffffff,Quatz,Close,10:52 PM,876-399-8689,true,true,129-22-1158
+3,true,true,Pagac LLC,77.77,1014,http://dummyimage.com/197x143.bmp/ff4444/ffffff,Wikibox,Close,7:31 PM,883-272-8430,true,true,840-22-0711
+4,true,true,Jacobson-Reichel,63.2,1022,http://dummyimage.com/117x227.jpg/5fa2dd/ffffff,Feedspan,Close,10:29 PM,260-313-1361,false,false,568-62-6343
+5,true,false,Goodwin Inc,46.0,1019,http://dummyimage.com/250x199.png/cc0000/ffffff,Zoombox,Close,6:57 PM,788-385-2399,true,false,137-43-5819
+6,false,true,Pacocha-Koepp,20.59,1013,http://dummyimage.com/187x204.jpg/ff4444/ffffff,Lazz,Open,7:38 PM,160-489-7801,true,false,716-52-8038
+7,true,false,"Cummerata, Sawayn and Pouros",35.03,1014,http://dummyimage.com/214x201.jpg/cc0000/ffffff,Skipfire,Open,9:20 PM,387-532-5882,false,false,782-05-4745
+8,false,false,"Bahringer, Predovic and Cole",21.98,1017,http://dummyimage.com/158x220.jpg/ff4444/ffffff,Livetube,Close,10:21 PM,508-609-9361,false,false,608-48-2410
+9,false,false,Koelpin-Wuckert,37.93,1022,http://dummyimage.com/202x240.bmp/dddddd/000000,Kare,Open,11:57 PM,552-616-8147,false,true,283-17-6103
+10,false,false,Mohr LLC,90.91,1017,http://dummyimage.com/135x250.bmp/ff4444/ffffff,Demizz,Close,7:12 PM,491-113-0233,false,false,840-75-9684
+11,true,true,"Ward, Upton and Rempel",92.56,1021,http://dummyimage.com/164x246.bmp/cc0000/ffffff,Youspan,Close,9:07 PM,292-727-7002,true,true,576-64-8475
+12,true,false,Gutmann-Lynch,19.73,1004,http://dummyimage.com/246x235.bmp/dddddd/000000,Topicstorm,Close,6:55 PM,132-920-9023,false,true,458-13-0639
+13,false,true,Harber-Kerluke,13.45,1009,http://dummyimage.com/186x207.bmp/5fa2dd/ffffff,Mynte,Close,9:12 PM,259-590-7170,true,true,720-74-9173
+14,false,false,Medhurst LLC,19.22,1021,http://dummyimage.com/204x126.bmp/cc0000/ffffff,Edgeblab,Open,8:56 PM,476-880-6003,true,true,550-52-2288
+15,false,true,Witting LLC,17.73,1000,http://dummyimage.com/177x208.png/5fa2dd/ffffff,Bluezoom,Close,10:37 PM,907-639-2476,false,true,466-97-9487
+16,false,true,Towne Inc,33.07,1008,http://dummyimage.com/158x105.bmp/ff4444/ffffff,Kanoodle,Open,6:41 PM,717-628-3493,true,true,304-16-5482
+17,true,true,Leuschke LLC,71.2,1015,http://dummyimage.com/250x138.png/5fa2dd/ffffff,Riffpedia,Close,7:49 PM,229-734-7483,false,true,740-43-6403
+18,false,false,"Jenkins, Jones and Stamm",95.85,1022,http://dummyimage.com/102x196.jpg/cc0000/ffffff,Tagfeed,Close,9:01 PM,872-121-1175,false,false,899-62-8177
+19,true,true,Roob-Schaden,38.38,1005,http://dummyimage.com/207x138.jpg/cc0000/ffffff,Dabtype,Close,9:29 PM,715-777-4051,true,true,429-01-1106
+20,true,true,"Schowalter, Walter and Windler",41.2,1003,http://dummyimage.com/112x215.jpg/cc0000/ffffff,Talane,Close,10:51 PM,800-856-3335,true,true,334-94-3317
+21,false,false,"Harber, Will and Ziemann",55.83,1017,http://dummyimage.com/170x120.bmp/5fa2dd/ffffff,Abata,Open,7:59 PM,383-872-5085,false,true,522-64-3758
+22,false,true,"Gottlieb, VonRueden and Wolff",16.7,1002,http://dummyimage.com/213x198.jpg/cc0000/ffffff,Tekfly,Close,6:50 PM,584-751-3758,true,false,727-95-9014
+23,true,true,"Larson, Jerde and Turner",66.52,1009,http://dummyimage.com/156x150.jpg/dddddd/000000,Eire,Close,8:06 PM,663-817-6808,true,true,595-45-4555
+24,false,true,Bruen Inc,12.93,1003,http://dummyimage.com/197x177.png/cc0000/ffffff,Trudeo,Open,10:30 PM,859-426-5901,false,false,739-42-4194
+25,false,false,"Koch, Corwin and Bernhard",3.33,1023,http://dummyimage.com/227x188.jpg/dddddd/000000,Meevee,Close,6:59 PM,822-383-7343,false,false,825-64-3885
+26,true,true,Fadel Inc,9.65,1023,http://dummyimage.com/238x235.jpg/5fa2dd/ffffff,Aibox,Open,10:41 PM,116-716-5999,false,true,402-74-0540
+27,true,true,Kulas-Hermann,78.1,1025,http://dummyimage.com/208x129.bmp/dddddd/000000,Voomm,Open,7:13 PM,238-656-3961,true,true,496-28-0008
+28,false,false,"Boyer, Cremin and Bechtelar",57.63,1004,http://dummyimage.com/178x115.bmp/dddddd/000000,Edgewire,Close,7:46 PM,746-848-3266,false,true,357-90-5147
+29,false,false,"Hodkiewicz, Dickinson and Medhurst",97.8,1004,http://dummyimage.com/167x214.jpg/cc0000/ffffff,Yodel,Close,11:29 PM,584-597-7854,true,false,133-29-6943
+30,false,false,Johns and Sons,12.09,1016,http://dummyimage.com/209x217.png/ff4444/ffffff,Fatz,Close,10:20 PM,454-440-7855,false,false,395-58-9172
+31,true,false,Homenick-Schmidt,74.5,1019,http://dummyimage.com/245x146.bmp/5fa2dd/ffffff,Realbuzz,Close,11:22 PM,623-371-4394,true,true,151-22-5306
+32,true,false,"Yundt, Strosin and Hammes",18.37,1022,http://dummyimage.com/123x126.jpg/dddddd/000000,Quimba,Close,11:10 PM,393-498-0815,false,true,609-68-1510
+33,true,true,Metz Inc,81.21,1020,http://dummyimage.com/142x244.jpg/5fa2dd/ffffff,JumpXS,Close,11:10 PM,857-901-4427,true,true,485-25-5335
+34,true,false,"Bailey, Kshlerin and Gottlieb",72.8,1025,http://dummyimage.com/207x239.bmp/dddddd/000000,Wordware,Open,10:27 PM,398-476-8387,false,false,169-90-0131
+35,true,false,Yundt Group,37.66,1001,http://dummyimage.com/201x203.png/cc0000/ffffff,Edgeclub,Open,7:20 PM,918-714-8937,false,false,241-04-0421
+36,false,true,"Boyer, McCullough and Carroll",63.14,1002,http://dummyimage.com/104x181.bmp/5fa2dd/ffffff,Quatz,Close,6:20 PM,321-756-2337,false,false,541-74-6370
+37,true,false,Walter-Hahn,84.29,1005,http://dummyimage.com/132x209.bmp/5fa2dd/ffffff,Yata,Open,8:43 PM,321-268-4190,true,true,300-02-2978
+38,false,false,Ullrich Group,25.17,1015,http://dummyimage.com/103x231.bmp/ff4444/ffffff,Mynte,Close,6:18 PM,848-117-6122,false,true,425-69-1960
+39,false,true,"Hackett, Beer and Sawayn",15.04,1006,http://dummyimage.com/216x158.bmp/5fa2dd/ffffff,Browseblab,Open,8:22 PM,122-604-0503,true,false,607-99-9943
+40,false,true,Brown and Sons,2.38,1017,http://dummyimage.com/232x204.jpg/5fa2dd/ffffff,Divavu,Close,8:50 PM,278-980-0870,false,true,524-49-2165
+41,true,true,"D'Amore, Konopelski and Treutel",40.4,1013,http://dummyimage.com/245x110.bmp/cc0000/ffffff,Leexo,Open,7:27 PM,231-342-8512,false,true,698-91-7133
+42,false,true,Maggio-Legros,10.42,1000,http://dummyimage.com/118x168.png/cc0000/ffffff,Centizu,Open,10:26 PM,668-921-7157,false,true,412-28-9236
+43,false,true,"Jerde, Braun and Nienow",88.65,1008,http://dummyimage.com/104x121.bmp/5fa2dd/ffffff,Topicware,Open,10:33 PM,344-755-1721,true,true,342-84-8669
+44,true,true,"Prohaska, Schmitt and Willms",97.57,1013,http://dummyimage.com/112x214.bmp/cc0000/ffffff,Agimba,Close,11:09 PM,363-821-0221,true,false,885-70-5176
+45,true,false,Hegmann-Bashirian,60.94,1015,http://dummyimage.com/187x219.png/dddddd/000000,Buzzdog,Close,8:57 PM,437-580-0231,false,false,882-39-4354
+46,true,false,Nitzsche-Reichel,93.84,1012,http://dummyimage.com/129x207.png/ff4444/ffffff,Edgeify,Open,9:36 PM,342-190-5499,false,false,228-37-8952
+47,true,true,"Powlowski, Kris and Koelpin",15.06,1019,http://dummyimage.com/137x114.png/cc0000/ffffff,Npath,Open,11:00 PM,485-166-2237,false,false,717-02-2705
+48,true,true,Jacobson-Rempel,54.53,1008,http://dummyimage.com/217x222.png/cc0000/ffffff,LiveZ,Open,6:44 PM,623-501-0421,true,false,414-45-0958
+49,true,false,Huel Inc,28.46,1012,http://dummyimage.com/136x221.jpg/ff4444/ffffff,Wikizz,Open,6:00 PM,858-744-5107,true,true,456-02-4737
+50,true,true,"Stokes, Grady and Roob",32.56,1014,http://dummyimage.com/186x118.png/dddddd/000000,LiveZ,Close,10:52 PM,519-443-8853,false,true,267-15-5188
+51,true,true,Muller Group,70.77,1012,http://dummyimage.com/150x181.jpg/5fa2dd/ffffff,Lazzy,Close,7:21 PM,321-458-0708,true,true,254-05-0860
+52,true,false,Mosciski and Sons,29.88,1004,http://dummyimage.com/180x179.bmp/dddddd/000000,Divanoodle,Open,11:02 PM,558-108-9097,true,false,376-69-7939
+53,true,true,"Greenholt, Wolff and Murray",83.16,1000,http://dummyimage.com/103x216.bmp/ff4444/ffffff,Rhybox,Open,7:57 PM,552-755-8938,false,false,399-83-2629
+54,false,true,"McKenzie, Hartmann and Kihn",26.39,1019,http://dummyimage.com/169x145.jpg/ff4444/ffffff,Tagpad,Open,6:00 PM,977-521-1948,true,true,367-74-3919
+55,true,false,Conn Group,25.37,1011,http://dummyimage.com/154x191.png/dddddd/000000,Jabbersphere,Close,10:43 PM,275-437-0352,false,false,805-73-1315
+56,true,false,"Roob, Kreiger and Olson",10.55,1025,http://dummyimage.com/147x182.bmp/cc0000/ffffff,Kwimbee,Open,6:42 PM,304-858-1203,false,true,537-39-1782
+57,false,false,Kassulke Group,27.23,1009,http://dummyimage.com/213x230.bmp/ff4444/ffffff,Kimia,Open,9:07 PM,303-659-5470,false,false,321-56-1940
+58,false,true,"Schimmel, Crooks and Hickle",66.13,1013,http://dummyimage.com/126x190.bmp/5fa2dd/ffffff,Brainverse,Close,9:35 PM,628-800-5571,false,true,329-99-6796
+59,false,true,Hyatt Inc,80.6,1006,http://dummyimage.com/161x248.bmp/5fa2dd/ffffff,Realmix,Close,10:26 PM,881-702-3113,true,true,842-66-6065
+60,false,true,Walker Inc,44.76,1003,http://dummyimage.com/167x130.bmp/5fa2dd/ffffff,Edgeblab,Open,10:12 PM,297-696-3260,false,true,610-87-2546
+61,true,false,"Raynor, Harber and Wilderman",12.12,1007,http://dummyimage.com/136x225.png/dddddd/000000,Cogilith,Close,10:14 PM,995-292-8215,true,true,852-22-1144
+62,true,false,Crooks Inc,13.92,1017,http://dummyimage.com/232x240.bmp/dddddd/000000,Snaptags,Close,6:12 PM,341-910-4820,false,false,286-20-8445
+63,false,true,"Durgan, Witting and Parker",38.61,1002,http://dummyimage.com/232x193.jpg/dddddd/000000,Twitterworks,Close,11:12 PM,132-113-2387,false,true,304-46-1421
+64,false,false,"Leannon, Schaden and Johns",99.35,1015,http://dummyimage.com/193x128.bmp/5fa2dd/ffffff,Blogtags,Close,8:00 PM,878-157-5593,false,false,703-87-0384
+65,true,true,Zieme-Toy,19.69,1025,http://dummyimage.com/234x136.png/dddddd/000000,Thoughtbeat,Open,7:35 PM,916-469-7530,false,true,232-44-9781
+66,true,false,"Quitzon, Wilkinson and Huels",42.89,1002,http://dummyimage.com/206x197.bmp/dddddd/000000,Realpoint,Close,7:08 PM,375-943-6667,false,true,541-12-9226
+67,false,false,"Kiehn, Bashirian and Yundt",55.55,1019,http://dummyimage.com/145x206.bmp/cc0000/ffffff,Avamm,Open,8:09 PM,115-720-1766,false,true,420-11-3316
+68,false,true,Schaden-Lubowitz,80.32,1016,http://dummyimage.com/144x248.bmp/cc0000/ffffff,Skimia,Close,9:39 PM,735-592-9931,true,true,333-51-8990
+69,false,false,"Howe, Weber and Tremblay",61.24,1014,http://dummyimage.com/139x116.png/5fa2dd/ffffff,Lazzy,Open,8:00 PM,951-227-4269,false,false,773-68-4469
+70,true,true,Wilkinson-Wunsch,89.14,1014,http://dummyimage.com/135x128.bmp/dddddd/000000,Rooxo,Close,7:54 PM,178-321-1229,false,true,135-74-9677
+71,false,false,"Harvey, Kutch and Kling",82.12,1010,http://dummyimage.com/147x202.png/ff4444/ffffff,Myworks,Open,11:38 PM,537-376-3826,false,false,485-43-6867
+72,true,false,Rice Group,82.98,1020,http://dummyimage.com/215x197.bmp/dddddd/000000,Rhyloo,Open,7:56 PM,627-413-5059,false,false,322-83-1874
+73,false,true,O'Connell-Rowe,69.9,1000,http://dummyimage.com/189x146.png/5fa2dd/ffffff,Cogilith,Open,10:06 PM,265-384-2551,false,true,195-74-3070
+74,true,false,"Runolfsson, McLaughlin and Gleichner",88.48,1013,http://dummyimage.com/116x134.jpg/cc0000/ffffff,Quimba,Close,10:51 PM,904-165-8973,true,true,291-29-0724
+75,true,true,"Kilback, O'Kon and Hartmann",5.63,1001,http://dummyimage.com/106x184.jpg/dddddd/000000,Yakitri,Open,11:01 PM,231-914-5895,true,false,663-62-2502
+76,true,true,Bauch and Sons,77.51,1013,http://dummyimage.com/209x202.png/cc0000/ffffff,Npath,Open,11:13 PM,276-876-7958,false,false,477-14-7472
+77,true,false,Cruickshank Group,51.06,1005,http://dummyimage.com/137x123.jpg/5fa2dd/ffffff,Gigabox,Close,10:06 PM,416-739-1113,false,false,863-19-9197
+78,true,false,Marks-Hills,1.69,1011,http://dummyimage.com/234x243.jpg/5fa2dd/ffffff,Miboo,Close,9:03 PM,349-561-2033,true,false,386-39-8576
+79,true,false,Wintheiser Inc,6.32,1017,http://dummyimage.com/218x127.bmp/dddddd/000000,Topicblab,Close,11:41 PM,430-796-7236,false,true,811-73-2180
+80,false,true,Dietrich Inc,36.49,1016,http://dummyimage.com/156x244.jpg/dddddd/000000,Lazz,Open,8:07 PM,361-450-8788,true,true,420-48-0888
+81,false,false,Bechtelar-Kerluke,53.95,1021,http://dummyimage.com/182x182.bmp/dddddd/000000,Thoughtstorm,Close,8:47 PM,648-758-6891,true,true,601-72-0553
+82,false,false,Mann-Schowalter,82.84,1023,http://dummyimage.com/114x220.png/ff4444/ffffff,Photofeed,Open,6:54 PM,997-713-3012,false,false,403-81-4331
+83,false,true,"Witting, Doyle and Kozey",71.97,1007,http://dummyimage.com/229x219.bmp/ff4444/ffffff,Meembee,Close,11:07 PM,418-397-4803,true,true,212-55-4366
+84,false,true,Klein-Fritsch,88.66,1020,http://dummyimage.com/146x114.png/ff4444/ffffff,Plajo,Open,11:15 PM,620-580-2451,true,false,387-30-0750
+85,true,true,Padberg and Sons,30.73,1013,http://dummyimage.com/141x237.jpg/cc0000/ffffff,Einti,Open,11:02 PM,343-906-9167,true,true,515-21-0359
+86,true,false,"Steuber, Reynolds and Hoppe",59.79,1009,http://dummyimage.com/200x109.bmp/ff4444/ffffff,Buzzshare,Close,9:20 PM,342-165-9253,true,true,405-91-5329
+87,false,false,"Rempel, Schmidt and Buckridge",85.76,1024,http://dummyimage.com/123x191.bmp/cc0000/ffffff,Tagchat,Open,8:23 PM,419-784-7988,true,false,735-67-8480
+88,true,false,Ruecker LLC,25.89,1018,http://dummyimage.com/150x199.png/5fa2dd/ffffff,Gabvine,Open,10:51 PM,174-835-6096,true,false,593-20-7858
+89,true,false,Doyle-Lesch,67.42,1001,http://dummyimage.com/207x235.bmp/cc0000/ffffff,Voonyx,Open,9:35 PM,877-261-1894,false,false,495-93-3438
+90,false,true,Bednar and Sons,48.34,1023,http://dummyimage.com/215x164.jpg/dddddd/000000,Topicstorm,Open,9:33 PM,293-745-9413,false,true,529-78-1583
+91,true,true,Satterfield and Sons,70.16,1021,http://dummyimage.com/198x199.bmp/ff4444/ffffff,Fatz,Close,9:35 PM,401-856-8701,true,false,386-77-6743
+92,true,true,Stokes-Cole,38.99,1014,http://dummyimage.com/196x119.png/5fa2dd/ffffff,Quaxo,Close,7:59 PM,748-349-8988,false,false,231-29-8638
+93,false,true,Erdman-Corwin,36.27,1008,http://dummyimage.com/199x176.bmp/ff4444/ffffff,Zoomdog,Close,9:26 PM,446-119-0316,true,true,421-73-4179
+94,false,false,Gleason-Crist,18.11,1011,http://dummyimage.com/183x154.png/5fa2dd/ffffff,Demizz,Open,8:51 PM,193-455-1647,false,false,410-96-9450
+95,true,true,Bergnaum Group,90.34,1008,http://dummyimage.com/184x223.png/ff4444/ffffff,Mybuzz,Close,9:59 PM,581-391-1746,true,true,484-58-4435
+96,true,false,Haag Group,6.4,1022,http://dummyimage.com/247x149.jpg/cc0000/ffffff,Realpoint,Open,11:35 PM,251-787-8827,true,false,585-58-1349
+97,true,true,McClure-Luettgen,59.3,1006,http://dummyimage.com/205x244.bmp/cc0000/ffffff,Ailane,Close,9:15 PM,943-216-6472,true,false,338-76-4755
+98,false,true,Mills and Sons,23.03,1015,http://dummyimage.com/126x188.png/dddddd/000000,Yoveo,Open,6:20 PM,799-879-7614,false,true,465-73-7089
+99,false,true,Jaskolski Group,8.63,1003,http://dummyimage.com/100x225.png/ff4444/ffffff,Mymm,Close,11:36 PM,930-357-5310,true,false,329-72-4261
+100,true,false,Casper-Kunde,2.82,1003,http://dummyimage.com/209x142.jpg/ff4444/ffffff,Realblab,Close,6:12 PM,143-201-6815,false,true,857-94-8723
+101,true,true,Wiegand-Carter,9.21,1010,http://dummyimage.com/131x153.bmp/5fa2dd/ffffff,Cogidoo,Open,6:40 PM,198-843-1823,false,false,135-56-8538
+102,false,true,"Turcotte, Purdy and Dicki",70.26,1014,http://dummyimage.com/243x160.jpg/5fa2dd/ffffff,Realblab,Close,9:36 PM,713-696-9977,false,true,115-36-4588
+103,false,true,Roob-Schinner,87.51,1023,http://dummyimage.com/208x178.bmp/ff4444/ffffff,Lajo,Close,8:20 PM,720-889-4152,false,false,704-65-0279
+104,false,false,Jacobs LLC,11.57,1011,http://dummyimage.com/229x152.bmp/5fa2dd/ffffff,Twitterlist,Close,6:52 PM,378-547-6033,false,false,279-50-0784
+105,false,true,"Johns, Lang and Rosenbaum",15.11,1015,http://dummyimage.com/166x223.jpg/cc0000/ffffff,Livefish,Open,9:03 PM,972-747-2076,false,true,172-43-3588
+106,true,true,Hudson Inc,18.44,1022,http://dummyimage.com/234x173.bmp/cc0000/ffffff,Topiclounge,Close,11:22 PM,389-213-9049,true,true,507-75-8169
+107,true,true,Carter-Romaguera,40.02,1007,http://dummyimage.com/141x123.bmp/ff4444/ffffff,Kare,Open,7:57 PM,631-342-5729,false,true,288-15-0772
+108,true,true,Quitzon-Dickens,10.31,1020,http://dummyimage.com/139x233.jpg/ff4444/ffffff,Quamba,Close,10:55 PM,290-869-4932,false,false,585-78-7658
+109,true,true,"Abernathy, Kris and Braun",77.88,1004,http://dummyimage.com/129x175.png/cc0000/ffffff,Twitterbridge,Open,7:22 PM,625-534-2147,false,false,690-49-9349
+110,false,true,Roob-Gottlieb,78.69,1006,http://dummyimage.com/113x128.png/dddddd/000000,Eayo,Open,7:44 PM,226-791-6754,true,false,683-57-0607
+111,true,true,Feil Group,73.1,1002,http://dummyimage.com/137x211.bmp/ff4444/ffffff,Twimbo,Open,10:59 PM,240-877-1762,false,true,558-01-7535
+112,false,true,Ferry and Sons,71.48,1022,http://dummyimage.com/147x213.jpg/cc0000/ffffff,Zoonder,Close,9:46 PM,421-339-9931,true,true,119-27-7781
+113,false,true,Mayer and Sons,18.15,1009,http://dummyimage.com/153x189.png/dddddd/000000,Gigabox,Open,7:15 PM,914-136-5979,true,false,788-39-5178
+114,false,true,O'Connell Inc,63.98,1005,http://dummyimage.com/189x188.png/cc0000/ffffff,Tambee,Close,11:43 PM,273-929-5961,false,true,779-40-7347
+115,false,true,Dicki-Toy,49.77,1000,http://dummyimage.com/187x220.png/dddddd/000000,Vimbo,Close,7:46 PM,642-864-8756,true,false,297-41-9572
+116,true,true,Green-Adams,21.13,1024,http://dummyimage.com/163x131.jpg/dddddd/000000,Topicblab,Open,7:15 PM,160-336-3492,false,true,673-21-3170
+117,false,false,"Hansen, Larson and O'Connell",68.25,1022,http://dummyimage.com/172x199.jpg/5fa2dd/ffffff,Fiveclub,Open,7:43 PM,416-928-0829,false,false,550-01-4058
+118,true,false,Gibson Group,64.64,1017,http://dummyimage.com/227x207.jpg/ff4444/ffffff,Tagtune,Open,6:57 PM,559-573-2437,true,true,197-64-5704
+119,true,true,Blanda-Gutkowski,46.76,1017,http://dummyimage.com/144x108.png/5fa2dd/ffffff,Innotype,Close,8:56 PM,342-522-0048,false,false,193-16-2810
+120,false,false,Nicolas LLC,32.14,1016,http://dummyimage.com/247x225.jpg/5fa2dd/ffffff,Aivee,Close,7:30 PM,911-755-3748,false,false,440-88-6559
+121,false,true,"Howe, Farrell and Reichel",12.21,1009,http://dummyimage.com/242x130.bmp/ff4444/ffffff,Yozio,Open,8:37 PM,726-219-3980,false,false,868-60-1233
+122,true,false,Renner-Hyatt,68.37,1006,http://dummyimage.com/161x234.bmp/ff4444/ffffff,Skipstorm,Close,9:28 PM,283-820-7011,true,true,407-12-1449
+123,false,true,Cronin LLC,28.55,1005,http://dummyimage.com/221x101.png/ff4444/ffffff,Divape,Close,9:05 PM,724-847-3543,false,true,685-85-3670
+124,false,false,"Gislason, Jacobson and Predovic",78.12,1016,http://dummyimage.com/119x104.bmp/cc0000/ffffff,Bluezoom,Open,10:01 PM,548-271-2965,true,false,774-39-9859
+125,false,true,Bradtke LLC,33.63,1011,http://dummyimage.com/174x243.png/cc0000/ffffff,Realcube,Open,10:33 PM,759-674-4201,true,true,777-53-8991
+126,false,false,Satterfield Group,89.13,1024,http://dummyimage.com/110x120.bmp/ff4444/ffffff,Skalith,Open,9:41 PM,610-741-8460,true,false,866-60-0044
+127,true,true,Mosciski LLC,49.43,1001,http://dummyimage.com/216x247.bmp/5fa2dd/ffffff,Youtags,Open,11:31 PM,500-933-7641,true,false,819-52-3493
+128,true,true,Schultz Group,49.59,1002,http://dummyimage.com/210x117.png/cc0000/ffffff,Zazio,Close,11:01 PM,600-812-2215,true,false,884-23-3429
+129,false,true,Raynor and Sons,64.18,1005,http://dummyimage.com/120x193.bmp/cc0000/ffffff,Meemm,Close,6:07 PM,422-334-5243,true,false,678-79-7025
+130,false,true,Reinger LLC,37.75,1007,http://dummyimage.com/179x152.bmp/5fa2dd/ffffff,Skiba,Open,8:59 PM,780-849-9714,false,true,380-21-7045
+131,true,false,"Turner, Auer and Keeling",82.39,1012,http://dummyimage.com/154x115.png/5fa2dd/ffffff,Devpoint,Close,9:42 PM,824-493-8327,false,true,394-24-5268
+132,false,true,"Will, Crona and Kunze",18.01,1006,http://dummyimage.com/212x131.png/cc0000/ffffff,Dynabox,Open,9:58 PM,419-906-5666,false,true,565-46-2597
+133,true,false,Murphy Inc,32.5,1014,http://dummyimage.com/173x231.bmp/ff4444/ffffff,Skibox,Close,7:15 PM,892-896-9454,true,false,611-57-1741
+134,true,false,Daniel and Sons,39.46,1016,http://dummyimage.com/155x243.png/cc0000/ffffff,Rhynyx,Open,10:24 PM,251-395-4189,false,true,582-77-8445
+135,false,false,"Koelpin, Prohaska and Block",50.68,1014,http://dummyimage.com/125x101.jpg/ff4444/ffffff,Linklinks,Open,10:28 PM,437-618-1560,false,true,840-57-5861
+136,true,false,"Rath, Wolf and Ankunding",47.88,1004,http://dummyimage.com/146x187.jpg/cc0000/ffffff,Twiyo,Close,7:49 PM,857-902-6168,false,true,291-24-6127
+137,true,true,"Schaefer, Lubowitz and Wiza",89.53,1006,http://dummyimage.com/176x244.jpg/dddddd/000000,Mycat,Open,6:02 PM,207-836-0226,false,true,659-85-5113
+138,true,true,"Feeney, Turner and Parker",33.0,1025,http://dummyimage.com/248x229.png/cc0000/ffffff,Wikizz,Open,11:24 PM,747-395-9968,true,false,748-22-0079
+139,false,false,Deckow Group,93.94,1002,http://dummyimage.com/169x239.bmp/ff4444/ffffff,Linktype,Open,9:11 PM,247-355-9359,false,false,354-52-0072
+140,false,false,"Kertzmann, Dickens and Ankunding",2.43,1007,http://dummyimage.com/142x169.bmp/ff4444/ffffff,Fivespan,Close,6:33 PM,249-649-4374,false,true,889-51-6726
+141,false,true,Gutkowski-Gerlach,81.51,1016,http://dummyimage.com/221x108.png/5fa2dd/ffffff,Zazio,Open,6:56 PM,337-565-0469,false,false,194-11-6462
+142,true,false,Wisoky-Kertzmann,42.82,1018,http://dummyimage.com/139x160.bmp/dddddd/000000,Mudo,Close,8:39 PM,641-731-1107,true,true,620-23-7556
+143,false,true,Carroll-Rath,82.13,1000,http://dummyimage.com/141x230.png/cc0000/ffffff,Photospace,Open,9:01 PM,690-939-5045,false,false,318-17-7655
+144,true,false,"Harvey, Schroeder and Wolf",50.05,1010,http://dummyimage.com/185x166.png/ff4444/ffffff,Brainverse,Close,7:17 PM,334-713-4714,true,true,332-56-5023
+145,true,true,Berge-Ullrich,34.65,1002,http://dummyimage.com/164x183.bmp/5fa2dd/ffffff,Buzzbean,Close,7:38 PM,514-706-8207,false,false,621-59-3918
+146,true,false,MacGyver and Sons,19.94,1002,http://dummyimage.com/211x106.bmp/ff4444/ffffff,Jayo,Close,10:24 PM,913-280-7262,false,true,327-45-6646
+147,true,true,"Bode, Feeney and Zemlak",54.03,1012,http://dummyimage.com/117x109.bmp/dddddd/000000,Digitube,Close,9:40 PM,118-155-8942,true,true,245-29-2486
+148,true,false,McLaughlin LLC,49.69,1017,http://dummyimage.com/226x195.png/dddddd/000000,Twinder,Close,6:36 PM,929-684-8928,true,false,587-56-0642
+149,true,true,Klocko-Jakubowski,83.1,1001,http://dummyimage.com/116x168.bmp/5fa2dd/ffffff,Kwimbee,Close,10:15 PM,125-912-6829,false,true,148-56-5687
+150,true,true,"Skiles, Eichmann and Lakin",40.08,1017,http://dummyimage.com/236x137.jpg/5fa2dd/ffffff,Katz,Open,8:18 PM,257-607-3565,false,true,543-13-4327
+151,true,false,"Williamson, Smitham and Grimes",88.55,1023,http://dummyimage.com/134x233.bmp/cc0000/ffffff,Wordpedia,Open,6:06 PM,679-917-2919,false,false,714-44-7427
+152,false,false,Toy LLC,32.69,1007,http://dummyimage.com/153x126.bmp/ff4444/ffffff,Tazz,Open,10:39 PM,554-921-4684,false,true,452-86-0206
+153,true,true,Kertzmann Inc,56.5,1018,http://dummyimage.com/184x156.jpg/5fa2dd/ffffff,Midel,Close,11:44 PM,825-589-2764,true,true,571-82-1778
+154,false,true,McDermott LLC,90.84,1006,http://dummyimage.com/231x214.png/dddddd/000000,Oozz,Close,7:32 PM,545-664-3825,false,true,798-59-6345
+155,false,false,Brown LLC,22.75,1009,http://dummyimage.com/105x148.png/cc0000/ffffff,Ozu,Open,9:53 PM,160-986-5617,true,true,334-18-9326
+156,true,true,Ledner Group,79.12,1007,http://dummyimage.com/162x248.png/cc0000/ffffff,Kazu,Close,6:24 PM,235-265-1265,false,true,400-75-6521
+157,true,false,Thompson-Labadie,75.53,1017,http://dummyimage.com/138x201.bmp/cc0000/ffffff,Brightbean,Open,7:01 PM,535-988-3148,true,true,229-60-3020
+158,true,false,Cummings-Ferry,41.67,1007,http://dummyimage.com/231x216.jpg/ff4444/ffffff,Dabshots,Close,6:09 PM,269-343-2379,false,false,415-37-7007
+159,false,true,Kemmer-Little,29.98,1022,http://dummyimage.com/191x208.bmp/ff4444/ffffff,Tekfly,Open,9:23 PM,709-602-6212,false,false,614-47-1272
+160,false,true,Gislason-McDermott,81.96,1013,http://dummyimage.com/136x141.bmp/ff4444/ffffff,Thoughtmix,Close,11:50 PM,764-380-9421,true,false,501-50-5661
+161,true,true,Champlin Group,81.76,1023,http://dummyimage.com/203x179.bmp/dddddd/000000,Plajo,Open,8:45 PM,129-254-0969,true,false,103-38-5249
+162,true,true,Brekke-Orn,88.58,1005,http://dummyimage.com/193x135.bmp/ff4444/ffffff,Trilia,Open,9:00 PM,239-968-5503,true,false,382-91-7281
+163,true,true,McKenzie-Reichert,83.52,1000,http://dummyimage.com/246x152.bmp/ff4444/ffffff,Mudo,Close,10:43 PM,122-222-7792,false,false,271-28-0678
+164,true,false,Hudson LLC,42.83,1020,http://dummyimage.com/180x165.png/cc0000/ffffff,Skiptube,Open,11:21 PM,342-797-0465,false,true,730-76-0681
+165,false,false,Hauck-Rohan,5.76,1011,http://dummyimage.com/171x102.bmp/5fa2dd/ffffff,Oyoloo,Open,11:30 PM,588-204-1479,false,true,565-19-2570
+166,true,false,"Tromp, Hickle and Treutel",42.01,1020,http://dummyimage.com/182x112.bmp/5fa2dd/ffffff,Eire,Open,6:26 PM,681-539-8064,false,true,698-55-1476
+167,false,true,O'Connell Group,24.85,1015,http://dummyimage.com/217x206.png/ff4444/ffffff,Meetz,Open,10:52 PM,124-983-2673,false,true,565-24-9833
+168,true,false,Shanahan-Hessel,64.67,1021,http://dummyimage.com/233x187.jpg/cc0000/ffffff,Centimia,Open,11:09 PM,477-459-7634,false,false,235-24-6412
+169,false,false,Kulas LLC,42.54,1022,http://dummyimage.com/112x162.bmp/ff4444/ffffff,Quire,Close,11:54 PM,958-277-7089,false,false,794-41-5834
+170,false,true,Lang-Rutherford,85.05,1016,http://dummyimage.com/240x214.jpg/5fa2dd/ffffff,Riffpath,Open,9:26 PM,251-926-4695,true,true,592-32-4269
+171,true,false,"Cassin, Hirthe and Purdy",52.85,1017,http://dummyimage.com/192x190.bmp/dddddd/000000,Jetpulse,Close,11:37 PM,439-462-9986,false,false,493-06-0812
+172,true,false,"Bosco, Botsford and Ryan",22.04,1001,http://dummyimage.com/154x184.png/ff4444/ffffff,Shufflester,Open,10:13 PM,498-929-6400,true,false,605-12-2570
+173,true,true,Yundt and Sons,32.69,1000,http://dummyimage.com/232x137.bmp/dddddd/000000,Photobug,Open,7:01 PM,322-367-6241,false,false,795-36-0585
+174,false,true,"Sauer, Murazik and Vandervort",45.71,1018,http://dummyimage.com/234x127.jpg/5fa2dd/ffffff,Kwideo,Close,7:50 PM,141-285-7523,true,false,335-55-1971
+175,false,true,"Hammes, Berge and Stanton",52.85,1007,http://dummyimage.com/178x152.png/5fa2dd/ffffff,Agivu,Open,11:32 PM,715-112-5116,false,false,229-53-9621
+176,false,false,Pfeffer Inc,40.07,1002,http://dummyimage.com/199x222.bmp/cc0000/ffffff,Mydeo,Close,9:56 PM,938-387-7565,false,false,309-16-6264
+177,true,true,Batz LLC,18.38,1014,http://dummyimage.com/126x193.bmp/dddddd/000000,Oyoloo,Open,10:27 PM,781-706-4709,true,false,241-56-9977
+178,false,true,Walter Group,52.45,1008,http://dummyimage.com/237x168.jpg/ff4444/ffffff,Twitterwire,Open,11:31 PM,768-422-4246,true,false,640-43-2874
+179,false,true,Erdman-Cummings,27.87,1020,http://dummyimage.com/138x184.jpg/dddddd/000000,Chatterpoint,Close,9:13 PM,828-220-6989,false,true,852-88-6338
+180,false,true,Donnelly-Tromp,14.37,1016,http://dummyimage.com/123x169.png/dddddd/000000,Cogidoo,Open,11:10 PM,350-204-7215,false,false,497-48-3954
+181,false,true,Gorczany Group,61.35,1017,http://dummyimage.com/208x103.bmp/ff4444/ffffff,Eabox,Close,11:13 PM,774-335-5419,false,false,773-55-4645
+182,true,false,"Rolfson, Corkery and Ondricka",81.28,1005,http://dummyimage.com/221x211.jpg/dddddd/000000,Jabberbean,Open,9:47 PM,914-739-7344,false,true,647-18-8091
+183,true,true,Jenkins-D'Amore,24.84,1017,http://dummyimage.com/235x166.bmp/ff4444/ffffff,Avamm,Open,9:23 PM,961-666-0939,false,true,615-10-6558
+184,true,false,"Kerluke, Carter and Gorczany",81.88,1024,http://dummyimage.com/249x133.jpg/cc0000/ffffff,Thoughtsphere,Open,9:20 PM,861-175-6757,false,true,199-56-1614
+185,true,false,Murray-Schmidt,13.92,1022,http://dummyimage.com/140x235.bmp/5fa2dd/ffffff,Youopia,Close,8:44 PM,979-242-5619,true,true,657-43-4108
+186,false,true,"Mosciski, Cassin and Bahringer",32.81,1013,http://dummyimage.com/166x151.jpg/cc0000/ffffff,Twitterbridge,Close,11:18 PM,599-982-5627,false,false,353-93-9101
+187,true,false,"Haag, Blanda and Kovacek",16.67,1020,http://dummyimage.com/124x162.bmp/cc0000/ffffff,Realmix,Open,7:16 PM,754-685-2920,false,true,768-30-6388
+188,false,true,Witting-Larson,87.03,1000,http://dummyimage.com/244x201.bmp/5fa2dd/ffffff,Dazzlesphere,Open,6:16 PM,274-743-6426,false,true,661-19-1383
+189,true,false,Marks-Aufderhar,3.48,1013,http://dummyimage.com/114x216.bmp/5fa2dd/ffffff,Youspan,Open,11:26 PM,400-148-8049,true,false,470-22-5786
+190,true,false,Kreiger-Russel,46.04,1000,http://dummyimage.com/170x212.jpg/5fa2dd/ffffff,Mita,Open,10:00 PM,271-945-8124,true,false,293-93-9682
+191,false,false,Cummings-Jacobs,98.55,1007,http://dummyimage.com/110x156.png/5fa2dd/ffffff,Tagpad,Open,10:53 PM,482-760-6164,false,false,624-49-0889
+192,false,false,Johns-Hegmann,65.09,1011,http://dummyimage.com/161x139.jpg/5fa2dd/ffffff,Chatterpoint,Close,10:32 PM,141-928-9410,false,false,712-11-7210
+193,false,false,O'Reilly Group,33.23,1003,http://dummyimage.com/136x250.jpg/dddddd/000000,Oyonder,Close,7:40 PM,360-990-7620,true,false,542-08-2437
+194,false,true,"Russel, Ferry and Rath",49.28,1006,http://dummyimage.com/214x166.bmp/5fa2dd/ffffff,Brainlounge,Open,9:00 PM,159-924-4408,false,true,655-40-7409
+195,true,false,Keebler Inc,22.49,1012,http://dummyimage.com/126x247.bmp/ff4444/ffffff,Gigashots,Close,6:31 PM,929-831-4222,false,true,537-77-2911
+196,false,true,"Roob, Moen and Fadel",93.72,1020,http://dummyimage.com/217x179.png/ff4444/ffffff,Lazz,Open,9:59 PM,798-970-1360,false,true,416-77-6174
+197,false,false,"Sipes, Mertz and Simonis",65.85,1025,http://dummyimage.com/111x112.png/ff4444/ffffff,Skimia,Open,7:36 PM,675-818-7448,true,false,797-19-3643
+198,true,false,Kunde Inc,29.9,1014,http://dummyimage.com/102x226.png/ff4444/ffffff,Rhybox,Open,11:55 PM,691-259-8715,true,true,114-46-6136
+199,true,true,Bode-Zboncak,88.13,1009,http://dummyimage.com/114x199.jpg/5fa2dd/ffffff,Gabspot,Open,10:33 PM,665-437-1873,true,true,893-84-1111
+200,false,false,Monahan Group,45.13,1003,http://dummyimage.com/228x168.bmp/cc0000/ffffff,Demivee,Open,8:23 PM,829-909-3826,false,false,762-16-8883
+201,true,false,Ankunding-Harber,58.27,1005,http://dummyimage.com/219x214.bmp/dddddd/000000,Buzzdog,Close,8:23 PM,259-723-9367,true,false,699-23-2586
+202,false,true,Wintheiser-Osinski,28.98,1021,http://dummyimage.com/234x101.bmp/cc0000/ffffff,Flashspan,Open,10:50 PM,760-656-6826,true,true,473-84-0696
+203,true,true,"Wisozk, Heidenreich and Schumm",92.44,1002,http://dummyimage.com/167x233.jpg/5fa2dd/ffffff,Skimia,Open,11:50 PM,486-582-5750,false,false,649-31-8052
+204,true,false,"Larkin, O'Reilly and King",12.41,1021,http://dummyimage.com/236x182.jpg/ff4444/ffffff,Jetpulse,Open,7:33 PM,242-197-0468,false,true,668-97-1162
+205,true,false,Wintheiser-Murazik,62.08,1007,http://dummyimage.com/241x132.bmp/ff4444/ffffff,Quire,Open,8:22 PM,712-577-7562,false,false,679-93-0478
+206,true,false,Vandervort LLC,36.41,1002,http://dummyimage.com/177x113.bmp/ff4444/ffffff,Skilith,Open,9:49 PM,100-938-3161,false,true,292-64-0929
+207,true,true,Keeling-Quitzon,65.4,1004,http://dummyimage.com/179x164.jpg/ff4444/ffffff,Thoughtbeat,Open,6:39 PM,137-196-5727,true,false,259-78-9225
+208,false,false,"Lueilwitz, Balistreri and Torp",48.47,1016,http://dummyimage.com/116x129.png/dddddd/000000,Brainbox,Close,7:03 PM,541-797-2440,false,true,885-66-3400
+209,false,false,Herzog-Dare,91.59,1024,http://dummyimage.com/124x211.jpg/dddddd/000000,Jabbercube,Close,7:09 PM,881-395-2325,false,false,488-97-8575
+210,false,false,"Lueilwitz, Welch and Kozey",23.67,1022,http://dummyimage.com/175x245.png/ff4444/ffffff,Dabvine,Close,8:48 PM,621-498-7524,false,true,163-39-2366
+211,false,true,Buckridge and Sons,75.7,1005,http://dummyimage.com/103x220.bmp/5fa2dd/ffffff,Tazz,Close,7:52 PM,796-540-5696,false,true,451-51-3450
+212,false,false,"Price, Hilpert and Wunsch",63.4,1013,http://dummyimage.com/216x165.bmp/ff4444/ffffff,Yombu,Open,11:40 PM,847-375-1165,false,true,691-15-8349
+213,false,false,Gottlieb LLC,81.76,1014,http://dummyimage.com/122x238.bmp/cc0000/ffffff,Zooveo,Close,9:50 PM,846-197-1317,false,true,811-33-9056
+214,false,true,"Labadie, Hoppe and Mueller",27.62,1024,http://dummyimage.com/187x214.jpg/cc0000/ffffff,Skalith,Close,9:12 PM,873-646-3144,true,false,683-80-7660
+215,false,false,Daugherty-Kunde,40.18,1013,http://dummyimage.com/242x230.jpg/dddddd/000000,Skinder,Open,6:27 PM,826-346-9333,false,true,702-10-1766
+216,true,true,Will-Hegmann,41.04,1005,http://dummyimage.com/227x227.bmp/cc0000/ffffff,Mycat,Close,9:25 PM,408-761-8865,true,false,790-59-7117
+217,false,true,Harber-Stracke,31.28,1005,http://dummyimage.com/125x243.bmp/5fa2dd/ffffff,Wikizz,Close,6:07 PM,325-735-9712,false,true,141-82-7598
+218,false,true,Weber Group,75.64,1003,http://dummyimage.com/245x216.bmp/ff4444/ffffff,Eare,Open,8:49 PM,380-633-4266,false,false,529-62-7629
+219,true,false,Johnson-Hagenes,92.37,1003,http://dummyimage.com/154x163.bmp/dddddd/000000,Aimbu,Close,11:48 PM,910-479-3952,true,true,443-28-0917
+220,false,true,"Schroeder, Murphy and Hackett",58.48,1002,http://dummyimage.com/182x116.png/cc0000/ffffff,Edgeblab,Close,8:35 PM,711-347-1510,true,false,148-49-2989
+221,true,true,Murazik and Sons,49.48,1021,http://dummyimage.com/103x141.png/dddddd/000000,Vinder,Close,10:32 PM,675-769-0219,false,true,768-63-7872
+222,true,false,Hodkiewicz Inc,76.71,1009,http://dummyimage.com/175x226.jpg/dddddd/000000,Flashpoint,Open,7:46 PM,962-544-0693,true,true,842-73-8501
+223,false,true,"Gottlieb, Leannon and Padberg",8.59,1015,http://dummyimage.com/130x144.bmp/cc0000/ffffff,Edgepulse,Open,8:48 PM,618-804-3051,true,false,759-13-9986
+224,false,false,Boyle Group,97.29,1020,http://dummyimage.com/111x238.jpg/5fa2dd/ffffff,Skimia,Open,8:06 PM,572-681-6887,false,false,671-31-3879
+225,true,true,"Kutch, Bartoletti and Lindgren",80.26,1011,http://dummyimage.com/108x138.bmp/cc0000/ffffff,Meedoo,Open,7:01 PM,479-183-0887,false,false,621-58-2043
+226,false,true,Schiller-Kunde,71.79,1023,http://dummyimage.com/191x206.jpg/ff4444/ffffff,Mynte,Open,6:41 PM,185-541-4458,false,false,341-07-0817
+227,false,true,"Howell, Emmerich and Schaefer",74.75,1004,http://dummyimage.com/110x234.bmp/5fa2dd/ffffff,Ainyx,Close,7:36 PM,898-699-9771,false,true,772-03-1494
+228,true,true,"Hirthe, Veum and Hane",92.69,1005,http://dummyimage.com/111x182.png/dddddd/000000,Camimbo,Open,6:29 PM,966-718-6041,true,true,237-49-4092
+229,true,true,Von-Botsford,69.88,1010,http://dummyimage.com/153x153.png/dddddd/000000,Gigazoom,Open,6:55 PM,142-518-6811,false,true,887-99-2810
+230,true,true,Gerhold and Sons,59.62,1019,http://dummyimage.com/229x190.bmp/cc0000/ffffff,Thoughtmix,Open,8:54 PM,525-707-4049,true,false,601-56-2300
+231,false,true,"Okuneva, Howell and Fahey",77.4,1022,http://dummyimage.com/150x188.jpg/dddddd/000000,Quamba,Open,10:46 PM,697-191-3481,false,true,724-76-5978
+232,true,true,Reinger-Wisozk,63.64,1011,http://dummyimage.com/213x168.png/ff4444/ffffff,Oloo,Close,10:30 PM,194-953-7247,true,false,541-77-0434
+233,false,false,Huels LLC,55.02,1016,http://dummyimage.com/103x225.jpg/dddddd/000000,Twimm,Close,6:49 PM,527-649-3119,false,true,490-17-6930
+234,false,true,"Goyette, Franecki and Ward",93.45,1017,http://dummyimage.com/219x181.jpg/dddddd/000000,Dabfeed,Close,8:35 PM,108-974-8089,false,false,739-89-5873
+235,false,false,Davis-Ankunding,72.82,1013,http://dummyimage.com/217x132.jpg/cc0000/ffffff,Skippad,Open,10:47 PM,890-662-9965,true,false,818-53-0772
+236,true,true,Cole Group,92.83,1016,http://dummyimage.com/216x130.jpg/cc0000/ffffff,Yacero,Open,6:15 PM,901-535-0024,false,false,629-82-9250
+237,true,false,"Skiles, Kessler and Runolfsdottir",6.85,1018,http://dummyimage.com/171x112.png/5fa2dd/ffffff,Plajo,Open,6:40 PM,691-624-1286,true,false,891-17-3945
+238,false,false,Beahan-Schumm,27.69,1011,http://dummyimage.com/173x226.png/dddddd/000000,Thoughtmix,Close,9:49 PM,457-755-2814,false,true,374-84-3129
+239,false,false,Abbott-Breitenberg,73.81,1024,http://dummyimage.com/145x141.jpg/cc0000/ffffff,Tanoodle,Close,7:35 PM,812-967-2058,true,false,774-46-2864
+240,false,false,Stroman-Feeney,21.68,1006,http://dummyimage.com/141x165.bmp/cc0000/ffffff,Skyba,Open,6:58 PM,830-433-0749,true,false,792-63-4050
+241,false,true,Kutch-Marvin,14.99,1001,http://dummyimage.com/199x117.jpg/5fa2dd/ffffff,Buzzbean,Close,8:41 PM,124-623-3150,false,true,517-86-0645
+242,true,true,Barton Group,53.24,1010,http://dummyimage.com/201x126.jpg/5fa2dd/ffffff,Photobug,Open,6:44 PM,735-290-3583,true,true,156-20-5622
+243,false,true,"Lubowitz, Wilkinson and West",7.8,1004,http://dummyimage.com/140x140.png/dddddd/000000,Devshare,Close,10:13 PM,907-162-6253,false,true,580-09-3259
+244,true,false,"Schiller, Muller and Vandervort",50.95,1012,http://dummyimage.com/145x178.bmp/5fa2dd/ffffff,Bubblebox,Open,6:00 PM,536-591-9465,false,false,424-86-7492
+245,false,true,Moore LLC,71.24,1007,http://dummyimage.com/223x108.png/dddddd/000000,Livetube,Close,9:05 PM,459-356-3337,true,true,529-96-6844
+246,true,false,Hirthe Inc,39.14,1022,http://dummyimage.com/136x222.bmp/5fa2dd/ffffff,Jabbercube,Open,6:30 PM,203-274-2647,false,false,871-15-4952
+247,false,true,"Barrows, Jakubowski and Wilderman",58.98,1014,http://dummyimage.com/135x171.jpg/5fa2dd/ffffff,Bluezoom,Open,9:50 PM,719-423-9423,true,true,565-44-9961
+248,false,true,"Herzog, Hermiston and Kunde",12.25,1014,http://dummyimage.com/236x179.png/dddddd/000000,Zoombox,Close,11:45 PM,635-871-4900,true,false,147-36-9164
+249,false,false,Gleichner and Sons,15.74,1010,http://dummyimage.com/203x212.bmp/5fa2dd/ffffff,Skimia,Open,8:11 PM,916-821-0621,false,false,405-57-0355
+250,true,false,Stracke-Reilly,74.02,1000,http://dummyimage.com/228x108.bmp/ff4444/ffffff,Teklist,Open,6:56 PM,551-644-1925,false,false,367-74-0723
+251,true,false,Murray Group,81.37,1002,http://dummyimage.com/104x111.png/dddddd/000000,Feedspan,Open,8:22 PM,101-999-7375,true,true,557-26-2861
+252,false,true,"Legros, Wisozk and Dietrich",1.03,1014,http://dummyimage.com/223x132.jpg/cc0000/ffffff,Skiba,Open,6:10 PM,753-194-2886,false,false,416-06-7200
+253,true,true,"Aufderhar, Rutherford and O'Connell",25.38,1009,http://dummyimage.com/189x248.bmp/dddddd/000000,Tagopia,Open,6:19 PM,156-227-5688,false,false,766-68-8567
+254,true,true,"Marks, Effertz and DuBuque",2.55,1002,http://dummyimage.com/196x203.jpg/dddddd/000000,Zoonder,Close,7:27 PM,792-955-8925,false,false,372-79-6296
+255,false,false,Schimmel and Sons,52.06,1020,http://dummyimage.com/118x172.jpg/ff4444/ffffff,Innojam,Close,9:47 PM,756-958-6208,false,false,469-54-7380
+256,false,false,"Kuhn, Hansen and Turner",41.63,1021,http://dummyimage.com/183x159.jpg/5fa2dd/ffffff,Dabshots,Close,8:54 PM,433-577-1026,false,false,145-88-0206
+257,false,false,"Bayer, Zieme and Cummerata",70.61,1005,http://dummyimage.com/208x149.bmp/5fa2dd/ffffff,Wikivu,Open,10:46 PM,766-769-0034,true,false,800-53-6551
+258,true,false,"Zboncak, Larson and Homenick",15.9,1000,http://dummyimage.com/114x164.bmp/cc0000/ffffff,Mudo,Open,8:46 PM,246-686-4474,false,false,318-34-1271
+259,false,true,"Wehner, Rowe and Jacobi",12.45,1023,http://dummyimage.com/152x205.bmp/cc0000/ffffff,Meetz,Close,8:43 PM,842-451-9560,true,false,340-32-1727
+260,false,false,Kassulke-Ryan,12.84,1008,http://dummyimage.com/110x246.bmp/dddddd/000000,Rooxo,Close,10:37 PM,936-995-0850,true,true,404-24-0518
+261,true,false,Daniel-Sauer,2.54,1022,http://dummyimage.com/164x113.jpg/5fa2dd/ffffff,Leexo,Close,9:32 PM,640-421-2617,true,true,105-21-4442
+262,false,true,"Wilderman, Trantow and Mohr",7.94,1002,http://dummyimage.com/213x141.bmp/cc0000/ffffff,Yabox,Open,8:10 PM,851-111-2264,true,true,452-48-8590
+263,true,false,Jacobs Group,92.56,1004,http://dummyimage.com/186x191.jpg/5fa2dd/ffffff,Topdrive,Close,11:13 PM,770-127-5799,true,false,713-48-0456
+264,true,true,Schuppe-Lynch,54.4,1000,http://dummyimage.com/149x238.jpg/ff4444/ffffff,Flipopia,Close,11:48 PM,542-530-5849,false,true,405-79-5654
+265,false,false,Wintheiser-Aufderhar,85.29,1000,http://dummyimage.com/153x196.jpg/cc0000/ffffff,Divavu,Open,6:11 PM,823-136-3362,false,false,483-45-1797
+266,false,false,"Hamill, Williamson and Hirthe",23.6,1007,http://dummyimage.com/195x214.bmp/dddddd/000000,Demimbu,Open,9:26 PM,728-311-5098,false,true,264-78-1255
+267,false,true,"Fritsch, Medhurst and Bernier",63.79,1019,http://dummyimage.com/159x166.jpg/cc0000/ffffff,Jazzy,Open,9:54 PM,968-516-3397,true,true,780-91-8642
+268,true,true,"Deckow, Hyatt and Lebsack",84.28,1006,http://dummyimage.com/122x237.bmp/cc0000/ffffff,Topicshots,Close,7:55 PM,169-335-0607,false,true,837-76-2604
+269,false,false,"Wunsch, Larkin and O'Conner",36.23,1016,http://dummyimage.com/220x118.png/ff4444/ffffff,Chatterpoint,Open,6:06 PM,594-292-5518,false,false,800-90-1565
+270,true,false,"Gorczany, Block and Spencer",78.01,1021,http://dummyimage.com/175x170.jpg/ff4444/ffffff,Livetube,Close,9:32 PM,537-386-9889,false,false,716-46-9456
+271,false,false,"Bergnaum, Daniel and Stamm",65.15,1008,http://dummyimage.com/126x230.bmp/ff4444/ffffff,Camido,Close,6:53 PM,938-480-0156,true,true,784-92-9258
+272,true,false,"Padberg, Stracke and Langworth",46.04,1015,http://dummyimage.com/123x159.bmp/dddddd/000000,Yotz,Close,9:41 PM,982-263-7238,false,false,824-72-3336
+273,false,false,Carter-Green,54.84,1013,http://dummyimage.com/187x230.jpg/cc0000/ffffff,Topicblab,Open,11:37 PM,360-595-0827,true,true,291-37-3440
+274,true,false,Zemlak-Stehr,25.21,1002,http://dummyimage.com/143x108.png/dddddd/000000,Mudo,Close,7:22 PM,122-384-7049,false,false,647-81-5063
+275,true,false,Koss-Corkery,70.7,1009,http://dummyimage.com/145x185.bmp/5fa2dd/ffffff,Devcast,Close,8:43 PM,206-317-6099,true,true,265-35-7911
+276,true,false,Hermiston-Howe,78.45,1004,http://dummyimage.com/155x129.jpg/cc0000/ffffff,Voonte,Close,11:30 PM,719-167-9578,true,false,365-37-9787
+277,false,true,Bode-Grant,74.91,1016,http://dummyimage.com/155x144.jpg/ff4444/ffffff,Voonder,Close,9:26 PM,502-629-4578,false,false,711-10-7813
+278,false,false,"Yundt, O'Reilly and O'Reilly",23.93,1016,http://dummyimage.com/231x237.png/cc0000/ffffff,Jaxnation,Open,10:05 PM,448-674-4055,true,true,186-48-7151
+279,false,false,Kunde-Klein,11.22,1025,http://dummyimage.com/155x197.bmp/cc0000/ffffff,Trupe,Open,8:48 PM,491-454-4784,false,false,727-89-2783
+280,false,false,Fahey-Crona,18.32,1012,http://dummyimage.com/103x137.png/5fa2dd/ffffff,Oyoloo,Open,7:45 PM,724-353-7584,true,false,759-75-8069
+281,true,true,Becker Group,88.57,1015,http://dummyimage.com/183x225.bmp/ff4444/ffffff,Teklist,Open,7:41 PM,785-550-2894,false,true,432-61-1482
+282,true,false,Wisozk LLC,61.71,1021,http://dummyimage.com/110x171.bmp/5fa2dd/ffffff,Kanoodle,Open,7:36 PM,384-237-4616,false,true,493-74-8379
+283,true,false,"Spinka, Mraz and Abernathy",46.31,1016,http://dummyimage.com/129x245.jpg/5fa2dd/ffffff,Devpoint,Open,11:01 PM,778-702-4093,true,true,779-77-4808
+284,false,false,Rice LLC,21.21,1021,http://dummyimage.com/218x240.jpg/5fa2dd/ffffff,Pixoboo,Close,9:28 PM,559-807-0420,true,false,141-59-6481
+285,false,false,Powlowski-Hyatt,58.33,1013,http://dummyimage.com/116x212.jpg/dddddd/000000,Gigazoom,Open,10:39 PM,279-223-3704,false,false,433-68-0512
+286,false,false,"Schmidt, Stamm and Rosenbaum",73.71,1007,http://dummyimage.com/249x136.jpg/ff4444/ffffff,Oyondu,Open,9:57 PM,515-784-6224,false,false,492-37-3379
+287,true,false,Stoltenberg-Prohaska,76.41,1009,http://dummyimage.com/250x211.png/dddddd/000000,Gabvine,Close,6:17 PM,660-467-4685,false,true,502-27-8616
+288,false,true,Graham Inc,80.6,1021,http://dummyimage.com/249x103.jpg/5fa2dd/ffffff,Buzzster,Close,11:54 PM,177-594-5399,true,true,218-28-3321
+289,true,false,Walter-Price,52.55,1005,http://dummyimage.com/144x107.bmp/5fa2dd/ffffff,Zoombox,Close,10:32 PM,673-527-1778,false,true,752-43-5146
+290,false,true,"Kuphal, Ledner and Spencer",8.2,1012,http://dummyimage.com/179x127.jpg/cc0000/ffffff,Skalith,Close,11:38 PM,531-827-2319,false,true,542-72-0449
+291,false,true,Langosh-Volkman,12.18,1007,http://dummyimage.com/211x223.bmp/5fa2dd/ffffff,Skinder,Close,6:30 PM,440-940-0758,false,true,609-97-9504
+292,true,false,Konopelski and Sons,97.21,1016,http://dummyimage.com/143x103.jpg/5fa2dd/ffffff,Talane,Open,8:47 PM,175-820-3654,false,false,264-86-3447
+293,true,false,Adams-Mertz,7.5,1020,http://dummyimage.com/113x106.png/cc0000/ffffff,Tagcat,Close,8:13 PM,412-600-6440,true,false,483-81-2696
+294,true,false,Rogahn-Ritchie,39.32,1010,http://dummyimage.com/201x178.png/cc0000/ffffff,Oozz,Close,8:30 PM,804-982-7759,false,false,454-43-4983
+295,false,false,Schaden-Wintheiser,71.47,1018,http://dummyimage.com/166x209.png/5fa2dd/ffffff,Kwimbee,Close,10:06 PM,856-197-1621,false,false,503-87-9544
+296,true,true,Hermann-Kreiger,40.16,1022,http://dummyimage.com/236x182.png/cc0000/ffffff,Geba,Open,6:52 PM,418-387-8656,false,true,621-94-8262
+297,false,true,"Hilll, Lindgren and Hagenes",31.53,1000,http://dummyimage.com/186x213.bmp/cc0000/ffffff,Tagcat,Close,10:57 PM,641-910-4674,false,false,146-44-7645
+298,true,false,Gaylord-Kunze,98.1,1024,http://dummyimage.com/235x137.jpg/ff4444/ffffff,Kaymbo,Close,7:14 PM,713-675-5136,false,true,658-30-5606
+299,false,true,"O'Conner, Carroll and Aufderhar",15.06,1006,http://dummyimage.com/192x182.jpg/dddddd/000000,Livetube,Close,10:34 PM,171-797-4266,true,false,828-01-5570
+300,true,true,"Larson, Kuhn and Mraz",88.23,1014,http://dummyimage.com/108x204.jpg/ff4444/ffffff,Katz,Open,11:58 PM,928-121-5749,false,false,715-02-6054
+301,true,false,Cremin and Sons,61.8,1003,http://dummyimage.com/118x149.bmp/cc0000/ffffff,Eayo,Close,10:12 PM,952-999-4062,false,false,133-51-0582
+302,true,true,Bins-Price,38.7,1013,http://dummyimage.com/166x119.bmp/5fa2dd/ffffff,Skiba,Close,11:06 PM,818-425-3223,true,true,192-10-2821
+303,true,true,Kertzmann-Bode,13.53,1011,http://dummyimage.com/184x218.png/5fa2dd/ffffff,Innotype,Close,11:05 PM,697-627-6658,false,true,807-07-1352
+304,true,false,"Lueilwitz, Littel and Schowalter",44.79,1008,http://dummyimage.com/203x155.png/5fa2dd/ffffff,Tagcat,Close,10:12 PM,297-729-2890,true,true,769-46-9994
+305,true,false,Jast Group,1.86,1013,http://dummyimage.com/228x220.png/ff4444/ffffff,Ainyx,Close,11:54 PM,460-788-4739,false,false,456-35-6604
+306,false,true,"Considine, Braun and Kozey",13.82,1021,http://dummyimage.com/232x128.bmp/cc0000/ffffff,Bubbletube,Close,10:42 PM,350-840-0263,false,true,574-60-6307
+307,false,false,Botsford-Ernser,83.29,1011,http://dummyimage.com/240x226.jpg/5fa2dd/ffffff,Brainverse,Close,9:42 PM,543-827-7756,false,true,433-53-3896
+308,false,true,Gutmann-Haag,1.09,1020,http://dummyimage.com/118x172.bmp/ff4444/ffffff,Skinte,Close,8:25 PM,607-342-8167,false,false,710-14-5679
+309,true,false,Mertz-Renner,42.65,1009,http://dummyimage.com/130x205.png/5fa2dd/ffffff,Zoomlounge,Open,7:23 PM,671-554-3781,false,true,549-44-7552
+310,false,false,Brown-Orn,68.95,1013,http://dummyimage.com/114x124.bmp/5fa2dd/ffffff,Trupe,Close,8:26 PM,168-543-7230,false,true,877-86-6182
+311,false,true,Reilly and Sons,63.8,1004,http://dummyimage.com/103x243.png/5fa2dd/ffffff,Mynte,Close,8:08 PM,836-108-1186,false,true,208-83-1278
+312,true,false,"Walter, Altenwerth and Emard",81.06,1024,http://dummyimage.com/236x122.png/ff4444/ffffff,Photobug,Open,11:32 PM,955-586-1502,true,false,396-06-1615
+313,true,false,"Rau, Lueilwitz and Haley",49.75,1022,http://dummyimage.com/158x197.bmp/ff4444/ffffff,Topicblab,Open,11:10 PM,413-606-7885,true,false,863-81-3814
+314,true,false,"Lind, Prosacco and Jast",31.42,1016,http://dummyimage.com/121x242.png/dddddd/000000,Quire,Close,9:41 PM,819-141-8142,true,true,675-95-4162
+315,false,false,Eichmann-Dooley,75.45,1024,http://dummyimage.com/239x241.jpg/5fa2dd/ffffff,Zooveo,Open,7:22 PM,492-495-2907,false,false,610-62-2878
+316,false,true,Feeney Group,27.14,1020,http://dummyimage.com/244x157.jpg/5fa2dd/ffffff,Lazz,Close,9:25 PM,982-754-2405,false,true,361-25-4337
+317,false,true,"Jacobi, Rice and Fritsch",3.72,1003,http://dummyimage.com/116x198.jpg/cc0000/ffffff,Skiptube,Open,6:51 PM,605-237-1062,false,false,533-34-3873
+318,true,true,Lueilwitz-Kertzmann,28.3,1005,http://dummyimage.com/180x135.png/ff4444/ffffff,Livepath,Close,7:02 PM,260-665-5284,false,false,704-10-5508
+319,false,false,Kunze-Carter,52.72,1025,http://dummyimage.com/118x188.bmp/ff4444/ffffff,Voonte,Close,7:26 PM,474-858-6865,false,false,437-69-4780
+320,true,true,"O'Hara, Fadel and Lemke",91.31,1001,http://dummyimage.com/143x155.png/5fa2dd/ffffff,Avamm,Close,9:43 PM,215-910-0614,false,true,785-38-6300
+321,false,true,Rau-Auer,42.58,1002,http://dummyimage.com/250x209.bmp/cc0000/ffffff,Edgetag,Close,8:28 PM,427-120-5525,false,false,200-62-2027
+322,false,false,"Herman, Green and Bayer",45.58,1004,http://dummyimage.com/247x169.png/ff4444/ffffff,Aimbu,Close,10:39 PM,878-166-9766,false,false,455-38-4367
+323,true,true,"Williamson, Littel and Hammes",32.61,1015,http://dummyimage.com/133x133.jpg/dddddd/000000,Eire,Open,8:57 PM,474-893-5569,false,false,131-99-4665
+324,false,true,"Orn, Abbott and Simonis",59.7,1002,http://dummyimage.com/204x112.png/5fa2dd/ffffff,Fivebridge,Open,8:06 PM,381-297-0971,false,true,527-12-3315
+325,true,true,"Kessler, Koss and Walter",87.6,1018,http://dummyimage.com/173x231.png/dddddd/000000,Thoughtblab,Close,9:23 PM,315-450-3932,false,true,163-82-0505
+326,false,false,Kozey and Sons,71.59,1025,http://dummyimage.com/115x101.jpg/dddddd/000000,Avaveo,Open,6:32 PM,831-782-8760,true,true,556-53-9208
+327,true,false,"Kris, Rippin and Watsica",19.81,1015,http://dummyimage.com/169x171.bmp/cc0000/ffffff,Riffpath,Close,6:47 PM,781-389-5885,false,false,119-95-0918
+328,false,false,Tromp-Marquardt,95.55,1024,http://dummyimage.com/131x141.png/dddddd/000000,Innotype,Open,7:54 PM,825-169-2175,false,true,836-03-2820
+329,false,true,Larson-Zboncak,61.35,1001,http://dummyimage.com/215x207.jpg/ff4444/ffffff,Yodel,Close,8:08 PM,485-169-7901,true,true,572-39-7939
+330,false,true,Senger and Sons,31.62,1020,http://dummyimage.com/179x210.bmp/cc0000/ffffff,Cogibox,Open,6:28 PM,947-512-8101,false,true,122-94-3795
+331,true,true,"Jacobs, O'Kon and Prosacco",1.04,1002,http://dummyimage.com/108x179.bmp/cc0000/ffffff,Vimbo,Close,11:20 PM,443-646-9479,true,false,282-19-2382
+332,false,false,Labadie LLC,89.2,1007,http://dummyimage.com/194x249.png/5fa2dd/ffffff,Eidel,Open,8:21 PM,570-538-9503,true,true,792-37-3634
+333,true,true,Farrell and Sons,92.32,1012,http://dummyimage.com/161x134.bmp/5fa2dd/ffffff,Edgetag,Open,11:28 PM,757-271-6306,false,true,303-59-7201
+334,false,true,"Grant, Mueller and Cummerata",90.1,1007,http://dummyimage.com/155x128.bmp/ff4444/ffffff,Skimia,Close,7:06 PM,351-402-0702,true,false,459-47-4855
+335,true,true,Balistreri Group,37.98,1007,http://dummyimage.com/110x234.png/dddddd/000000,Rhyzio,Close,8:05 PM,475-337-3631,false,true,601-82-3425
+336,true,true,Boyle Inc,26.04,1011,http://dummyimage.com/111x210.bmp/5fa2dd/ffffff,Aivee,Open,11:01 PM,434-531-1650,false,false,518-87-6885
+337,true,false,"Kilback, Pagac and Stark",16.71,1001,http://dummyimage.com/174x106.jpg/cc0000/ffffff,Blogpad,Open,7:13 PM,784-741-1208,false,true,218-73-5083
+338,true,true,"Roberts, Leannon and Little",9.25,1012,http://dummyimage.com/122x112.png/ff4444/ffffff,Oyoyo,Open,9:10 PM,263-805-5962,true,true,120-35-1888
+339,true,true,Legros-Jones,72.35,1011,http://dummyimage.com/150x162.jpg/dddddd/000000,Skivee,Close,10:35 PM,814-858-4140,false,false,688-25-9576
+340,true,false,Smitham LLC,50.89,1024,http://dummyimage.com/157x177.jpg/ff4444/ffffff,Tagpad,Open,11:28 PM,594-648-3319,false,true,735-08-1230
+341,false,true,Barrows-Johnson,74.0,1004,http://dummyimage.com/203x133.png/ff4444/ffffff,Kare,Close,8:35 PM,749-140-4021,true,true,701-73-4733
+342,false,true,"Kling, Hayes and Wolf",27.98,1001,http://dummyimage.com/201x108.jpg/dddddd/000000,Geba,Open,6:29 PM,981-319-8649,false,true,359-55-2840
+343,false,true,Volkman and Sons,7.9,1002,http://dummyimage.com/155x209.png/cc0000/ffffff,Quatz,Open,10:20 PM,285-182-8587,true,false,427-41-0800
+344,true,true,Fahey-Bernhard,35.62,1010,http://dummyimage.com/169x222.bmp/dddddd/000000,Aimbu,Open,10:40 PM,149-280-2383,true,true,618-94-2086
+345,false,true,Johns-Bechtelar,66.35,1025,http://dummyimage.com/168x120.png/cc0000/ffffff,Flipopia,Close,8:52 PM,886-554-4237,false,false,754-15-6768
+346,false,false,"Jacobi, Greenfelder and Heathcote",3.04,1013,http://dummyimage.com/213x157.png/dddddd/000000,Riffpedia,Open,10:13 PM,278-573-3460,true,false,254-32-3880
+347,true,false,Cassin-Jones,67.37,1016,http://dummyimage.com/224x123.jpg/dddddd/000000,Photojam,Close,8:35 PM,600-225-4387,true,true,648-80-0122
+348,false,false,O'Hara Group,69.23,1004,http://dummyimage.com/176x224.png/dddddd/000000,Twitternation,Close,8:32 PM,876-635-1554,false,true,285-44-6436
+349,false,false,White Inc,91.83,1019,http://dummyimage.com/212x109.jpg/ff4444/ffffff,Thoughtstorm,Close,10:22 PM,402-946-3322,true,false,638-05-4282
+350,true,false,Goodwin-Morissette,27.15,1016,http://dummyimage.com/145x109.bmp/ff4444/ffffff,Demizz,Close,8:02 PM,716-162-6323,true,true,640-06-2183
+351,true,false,"Swift, Williamson and Hilpert",2.9,1006,http://dummyimage.com/120x113.jpg/dddddd/000000,Realbridge,Close,9:17 PM,452-636-6653,true,true,189-98-5291
+352,true,false,Lind-Watsica,6.67,1022,http://dummyimage.com/218x238.png/cc0000/ffffff,Quimm,Close,10:00 PM,520-561-5064,true,false,860-34-9648
+353,true,false,"Moen, Ferry and Ankunding",21.08,1011,http://dummyimage.com/205x196.bmp/dddddd/000000,Yabox,Open,7:48 PM,292-709-0966,false,true,245-28-7642
+354,true,false,"Kilback, Rowe and Blick",93.42,1017,http://dummyimage.com/169x214.png/5fa2dd/ffffff,Wordtune,Open,7:37 PM,689-420-3219,false,false,253-46-3934
+355,false,true,Maggio-Zboncak,78.79,1015,http://dummyimage.com/203x175.png/ff4444/ffffff,Tazz,Open,9:39 PM,303-314-9073,false,true,262-80-9674
+356,false,false,Marquardt-Wolff,25.87,1024,http://dummyimage.com/228x100.bmp/5fa2dd/ffffff,Photofeed,Close,7:06 PM,987-716-6687,false,false,179-18-2860
+357,false,true,Jerde-Kunde,73.26,1009,http://dummyimage.com/160x156.bmp/cc0000/ffffff,Shuffletag,Close,8:15 PM,661-813-7304,true,true,162-69-8392
+358,false,true,"Walter, Wolff and Considine",70.4,1004,http://dummyimage.com/115x184.png/dddddd/000000,Wikibox,Open,9:38 PM,573-427-1170,false,false,230-22-1861
+359,false,true,"Hoeger, Wintheiser and Marquardt",54.99,1002,http://dummyimage.com/239x197.jpg/ff4444/ffffff,Ntag,Close,9:21 PM,349-296-5382,true,false,250-93-0379
+360,true,true,Gottlieb Group,80.88,1016,http://dummyimage.com/212x204.png/5fa2dd/ffffff,Jabberbean,Open,10:02 PM,726-231-5702,false,true,828-01-1273
+361,false,true,Bogan-Hessel,87.51,1009,http://dummyimage.com/216x100.png/dddddd/000000,Oyope,Close,6:59 PM,591-889-6938,true,true,165-75-4801
+362,false,true,Dickens and Sons,83.52,1014,http://dummyimage.com/177x152.jpg/5fa2dd/ffffff,Edgeclub,Close,6:50 PM,196-824-0941,false,false,746-96-2078
+363,false,false,Denesik-Paucek,29.69,1016,http://dummyimage.com/204x187.bmp/ff4444/ffffff,Devcast,Close,8:47 PM,638-221-3634,false,false,608-23-6097
+364,true,false,Sauer-Rutherford,54.58,1000,http://dummyimage.com/155x230.jpg/cc0000/ffffff,Pixonyx,Open,6:27 PM,272-400-2876,false,false,858-44-8828
+365,true,true,Graham-O'Kon,34.03,1022,http://dummyimage.com/175x199.bmp/dddddd/000000,Realbridge,Open,9:57 PM,544-708-3497,false,true,235-28-3799
+366,false,true,Watsica and Sons,83.23,1022,http://dummyimage.com/169x106.jpg/dddddd/000000,Zoombeat,Close,10:41 PM,206-800-5054,false,false,344-94-8130
+367,true,false,Predovic-Douglas,10.03,1004,http://dummyimage.com/243x108.jpg/cc0000/ffffff,Devshare,Close,11:30 PM,694-615-7819,false,true,377-58-8780
+368,false,true,"Ledner, Williamson and Gerhold",19.0,1013,http://dummyimage.com/116x222.bmp/5fa2dd/ffffff,Skilith,Open,7:42 PM,861-911-6259,false,false,309-50-6881
+369,true,true,Mante and Sons,1.99,1015,http://dummyimage.com/119x225.png/dddddd/000000,Wordpedia,Open,10:29 PM,502-187-5749,false,true,401-52-0412
+370,true,false,"Hane, Wilderman and Farrell",59.65,1025,http://dummyimage.com/208x137.bmp/ff4444/ffffff,Topiclounge,Close,6:04 PM,210-440-4548,false,true,830-59-2188
+371,true,true,"Mitchell, Gusikowski and Hammes",79.11,1022,http://dummyimage.com/238x104.png/5fa2dd/ffffff,Edgeblab,Close,8:38 PM,718-391-8867,false,false,200-70-9794
+372,false,true,Will-Corkery,84.82,1019,http://dummyimage.com/213x235.bmp/cc0000/ffffff,Omba,Open,11:07 PM,804-854-5947,false,true,289-77-4342
+373,false,true,Grant-Davis,71.16,1013,http://dummyimage.com/212x153.jpg/ff4444/ffffff,Flashpoint,Open,7:06 PM,578-263-2326,false,false,314-13-2709
+374,true,false,"McGlynn, Smitham and Wolf",56.51,1008,http://dummyimage.com/134x156.png/ff4444/ffffff,Meevee,Open,7:40 PM,430-729-4756,true,true,825-66-2228
+375,true,false,"Farrell, Mertz and Feil",58.17,1025,http://dummyimage.com/236x168.png/dddddd/000000,Yambee,Open,9:17 PM,690-333-2547,false,false,186-72-3123
+376,false,false,"Buckridge, Rodriguez and Schuppe",81.6,1009,http://dummyimage.com/142x233.jpg/cc0000/ffffff,Skinte,Open,8:42 PM,210-849-6208,true,false,806-10-8044
+377,false,true,"Stracke, Hegmann and Nikolaus",90.77,1016,http://dummyimage.com/159x236.bmp/5fa2dd/ffffff,Wikizz,Close,8:54 PM,844-378-2409,true,false,238-67-1239
+378,true,false,Treutel Group,25.96,1012,http://dummyimage.com/141x241.bmp/5fa2dd/ffffff,Quinu,Open,8:56 PM,724-497-1285,false,true,458-24-5353
+379,true,true,Wilkinson Group,18.54,1008,http://dummyimage.com/135x185.jpg/cc0000/ffffff,Zoomzone,Close,8:55 PM,590-805-8396,true,false,708-68-6909
+380,true,false,Wintheiser-Ward,42.19,1010,http://dummyimage.com/218x228.png/dddddd/000000,Fatz,Open,9:18 PM,388-481-2506,false,false,625-03-3838
+381,false,false,"Mante, Schmidt and Wisoky",83.97,1013,http://dummyimage.com/220x213.jpg/cc0000/ffffff,Thoughtstorm,Close,8:05 PM,314-828-6498,true,false,443-82-2077
+382,true,false,Rogahn-Feil,76.42,1025,http://dummyimage.com/185x238.png/ff4444/ffffff,Gabtune,Close,10:50 PM,448-783-3261,false,true,124-36-9780
+383,false,true,"O'Hara, Kertzmann and Yost",40.4,1000,http://dummyimage.com/233x220.jpg/ff4444/ffffff,Avavee,Close,9:02 PM,545-824-6090,false,true,767-79-4151
+384,false,false,"Bauch, Aufderhar and Pouros",51.75,1024,http://dummyimage.com/112x146.png/ff4444/ffffff,Devshare,Close,9:05 PM,410-498-0772,false,true,513-75-2317
+385,false,true,Fritsch-Dibbert,61.88,1023,http://dummyimage.com/169x161.png/cc0000/ffffff,Realpoint,Open,8:30 PM,760-968-0981,true,false,196-62-0698
+386,false,false,Rolfson Inc,50.9,1014,http://dummyimage.com/239x203.bmp/5fa2dd/ffffff,Blogtag,Open,10:59 PM,765-390-7693,false,false,210-08-4574
+387,false,false,"Heller, Pfeffer and Nitzsche",77.25,1013,http://dummyimage.com/230x157.bmp/cc0000/ffffff,Photolist,Close,9:15 PM,599-738-0056,false,true,760-82-8360
+388,false,false,Cummings Group,19.34,1005,http://dummyimage.com/241x149.jpg/cc0000/ffffff,Shufflester,Close,7:40 PM,996-549-0538,false,false,332-34-3075
+389,true,false,"Luettgen, Greenfelder and Schmeler",73.7,1022,http://dummyimage.com/104x103.jpg/dddddd/000000,Jabbertype,Close,10:38 PM,395-749-2959,true,false,395-81-6682
+390,false,false,Macejkovic-Denesik,41.15,1014,http://dummyimage.com/196x123.bmp/ff4444/ffffff,DabZ,Open,11:57 PM,278-616-3087,false,true,569-75-9697
+391,false,true,Williamson-Rau,35.27,1017,http://dummyimage.com/165x188.png/ff4444/ffffff,Skyvu,Close,11:37 PM,492-203-8329,true,false,405-52-6999
+392,true,false,Orn-Farrell,65.59,1025,http://dummyimage.com/208x152.jpg/cc0000/ffffff,Tazz,Close,6:19 PM,105-409-3869,true,false,427-69-9386
+393,true,false,Berge-Rohan,23.67,1010,http://dummyimage.com/124x120.bmp/ff4444/ffffff,Aimbu,Open,8:47 PM,590-436-1066,false,true,803-07-7642
+394,true,true,Hoppe and Sons,75.27,1023,http://dummyimage.com/119x220.jpg/ff4444/ffffff,Riffpedia,Open,9:08 PM,229-630-8132,true,true,709-11-4294
+395,false,true,"Goyette, Collins and Rempel",11.01,1022,http://dummyimage.com/178x145.png/5fa2dd/ffffff,Topicware,Open,9:38 PM,696-584-0497,false,false,361-25-7010
+396,true,false,Prosacco Group,82.5,1009,http://dummyimage.com/168x217.jpg/5fa2dd/ffffff,Oyope,Close,6:03 PM,145-745-0506,true,false,288-16-3787
+397,true,false,Kshlerin-Cummerata,70.65,1016,http://dummyimage.com/246x141.bmp/5fa2dd/ffffff,Jetwire,Open,7:37 PM,120-653-0798,false,true,532-25-1683
+398,true,true,"Corkery, DuBuque and Runolfsson",22.15,1024,http://dummyimage.com/142x229.bmp/cc0000/ffffff,Dynabox,Open,8:29 PM,712-537-1067,false,false,391-29-5043
+399,true,false,"Hessel, Nolan and Hartmann",7.17,1013,http://dummyimage.com/109x174.bmp/ff4444/ffffff,Mydeo,Close,8:24 PM,638-943-0439,true,true,606-56-0619
+400,false,false,Bailey Group,46.85,1025,http://dummyimage.com/206x190.png/5fa2dd/ffffff,Divape,Close,6:57 PM,611-652-6499,true,false,266-75-9079
+401,true,true,Turcotte-Lebsack,32.46,1025,http://dummyimage.com/237x135.jpg/dddddd/000000,Wikido,Close,8:16 PM,763-633-9776,true,true,226-91-0815
+402,false,false,Hansen Inc,90.07,1001,http://dummyimage.com/242x144.bmp/dddddd/000000,Omba,Close,7:08 PM,655-751-2134,false,false,795-95-3256
+403,true,false,Upton Inc,42.49,1013,http://dummyimage.com/176x147.png/ff4444/ffffff,Zoozzy,Open,6:30 PM,379-205-6306,false,false,432-91-0928
+404,true,true,Sporer Group,43.39,1006,http://dummyimage.com/126x153.bmp/cc0000/ffffff,Snaptags,Close,10:14 PM,124-645-3006,false,false,797-31-1245
+405,false,false,"Satterfield, Grady and Ryan",37.8,1006,http://dummyimage.com/114x240.bmp/ff4444/ffffff,Divanoodle,Open,8:24 PM,479-598-7313,true,false,346-24-9750
+406,true,false,"Roberts, Kunde and Walsh",94.11,1025,http://dummyimage.com/181x180.png/dddddd/000000,Quatz,Open,8:26 PM,651-623-3004,true,false,764-04-4010
+407,true,true,"Schneider, Braun and Douglas",2.75,1009,http://dummyimage.com/164x242.png/ff4444/ffffff,Twitternation,Open,8:16 PM,299-435-6352,false,true,439-10-6014
+408,true,false,Jerde Group,42.7,1014,http://dummyimage.com/144x104.bmp/dddddd/000000,Yambee,Open,6:18 PM,917-855-5635,false,false,490-42-5882
+409,true,false,Waters Inc,42.38,1018,http://dummyimage.com/121x136.bmp/5fa2dd/ffffff,Buzzster,Close,10:05 PM,637-106-5161,false,true,202-89-5261
+410,false,false,"Bruen, Bergstrom and Sawayn",11.74,1002,http://dummyimage.com/213x209.jpg/dddddd/000000,Kazio,Close,9:49 PM,281-594-0774,false,false,452-03-3086
+411,false,false,"Moen, Crooks and Spinka",97.7,1000,http://dummyimage.com/178x116.bmp/5fa2dd/ffffff,Eire,Open,8:05 PM,681-980-1420,true,true,529-14-3747
+412,false,false,Considine Inc,43.77,1020,http://dummyimage.com/227x216.jpg/cc0000/ffffff,Yamia,Open,11:33 PM,729-935-8433,true,true,410-10-9389
+413,false,false,"Welch, Lind and Nienow",79.62,1005,http://dummyimage.com/181x151.jpg/dddddd/000000,Innojam,Open,8:48 PM,233-835-7436,false,false,116-05-2471
+414,false,true,Davis Inc,51.49,1024,http://dummyimage.com/195x165.bmp/cc0000/ffffff,Abata,Open,8:35 PM,109-346-1291,true,false,853-97-2811
+415,true,true,Bradtke-Balistreri,16.92,1009,http://dummyimage.com/166x127.bmp/ff4444/ffffff,Gigabox,Close,11:04 PM,441-720-6746,true,false,453-50-4582
+416,true,false,"Flatley, Heller and Adams",40.95,1005,http://dummyimage.com/227x197.jpg/cc0000/ffffff,Omba,Close,8:00 PM,445-772-6026,true,true,349-59-0007
+417,true,true,Champlin-Reichel,27.12,1010,http://dummyimage.com/107x112.png/cc0000/ffffff,Buzzdog,Open,7:27 PM,979-227-2545,false,true,230-80-6872
+418,true,true,Padberg and Sons,2.16,1006,http://dummyimage.com/122x216.jpg/ff4444/ffffff,Trudoo,Close,6:31 PM,559-270-9278,true,true,673-21-0218
+419,false,false,Brakus Group,31.8,1023,http://dummyimage.com/187x204.jpg/cc0000/ffffff,Avamba,Open,11:08 PM,145-156-6250,false,true,341-30-9705
+420,true,true,Wintheiser and Sons,14.65,1006,http://dummyimage.com/246x153.jpg/ff4444/ffffff,Trilith,Open,9:55 PM,184-586-3783,false,false,646-06-1123
+421,true,true,Larkin LLC,93.64,1008,http://dummyimage.com/111x137.png/5fa2dd/ffffff,Realfire,Open,8:10 PM,783-169-3802,false,true,737-05-2075
+422,false,false,"Roberts, Padberg and Wuckert",87.2,1003,http://dummyimage.com/234x199.png/5fa2dd/ffffff,Fanoodle,Close,10:51 PM,170-241-9476,false,false,216-70-0366
+423,true,false,"Simonis, Homenick and Anderson",54.96,1001,http://dummyimage.com/180x225.png/cc0000/ffffff,Zoonoodle,Open,8:29 PM,969-476-6907,true,false,137-87-9109
+424,true,false,West-Morissette,50.02,1002,http://dummyimage.com/176x174.jpg/dddddd/000000,Realbuzz,Close,6:53 PM,137-443-4187,true,true,174-50-9277
+425,false,false,"Littel, Collins and Wolff",69.24,1025,http://dummyimage.com/213x142.jpg/dddddd/000000,Tagfeed,Open,8:31 PM,190-995-1051,true,true,851-94-8908
+426,false,false,Waelchi Inc,80.36,1015,http://dummyimage.com/130x245.bmp/dddddd/000000,Thoughtbeat,Close,7:34 PM,278-121-1097,false,false,294-44-2292
+427,false,true,Rowe-Wilderman,74.08,1002,http://dummyimage.com/114x185.bmp/dddddd/000000,Skaboo,Open,6:39 PM,371-334-1228,true,true,561-46-6168
+428,false,true,Bailey-Pagac,40.14,1018,http://dummyimage.com/149x180.bmp/cc0000/ffffff,Divanoodle,Open,9:50 PM,148-361-5278,true,false,851-32-8501
+429,false,true,Jacobs-McLaughlin,38.54,1002,http://dummyimage.com/216x216.bmp/ff4444/ffffff,Riffpath,Close,6:26 PM,423-869-2245,false,true,449-69-5298
+430,false,false,"Rau, Wunsch and Luettgen",39.93,1003,http://dummyimage.com/235x152.png/5fa2dd/ffffff,Mynte,Open,10:11 PM,780-443-7842,true,false,120-82-6620
+431,true,true,"Doyle, Blanda and Graham",95.51,1009,http://dummyimage.com/228x214.bmp/ff4444/ffffff,Browsebug,Open,6:42 PM,652-299-9826,true,false,375-85-1994
+432,false,true,Fahey-Casper,27.15,1020,http://dummyimage.com/211x180.bmp/dddddd/000000,Jabberstorm,Open,10:47 PM,843-220-9799,true,false,826-99-2486
+433,true,true,Cormier-Gaylord,58.77,1012,http://dummyimage.com/200x213.jpg/cc0000/ffffff,Fanoodle,Close,9:59 PM,838-785-9530,false,false,151-01-2339
+434,false,false,O'Hara Inc,65.31,1006,http://dummyimage.com/186x194.png/5fa2dd/ffffff,InnoZ,Close,8:54 PM,403-168-7809,true,false,546-57-9560
+435,false,true,Balistreri-McKenzie,13.09,1002,http://dummyimage.com/192x222.png/ff4444/ffffff,Podcat,Open,6:21 PM,896-771-0626,true,false,242-69-8092
+436,false,false,Koelpin-Kuvalis,33.32,1000,http://dummyimage.com/165x219.png/cc0000/ffffff,Ntags,Close,7:46 PM,858-513-9139,false,false,795-75-2015
+437,true,false,"Lockman, Wyman and Herzog",78.66,1014,http://dummyimage.com/248x135.jpg/dddddd/000000,Gabspot,Open,10:49 PM,541-810-5106,false,true,262-26-4131
+438,false,true,"Weimann, Goodwin and Blanda",90.06,1011,http://dummyimage.com/179x183.bmp/cc0000/ffffff,Brightbean,Close,11:32 PM,481-958-3116,true,false,485-61-6204
+439,false,true,D'Amore Inc,48.53,1007,http://dummyimage.com/250x154.bmp/ff4444/ffffff,Yotz,Open,6:35 PM,276-890-8615,false,true,322-95-5048
+440,false,true,Schoen Group,53.58,1008,http://dummyimage.com/226x248.png/dddddd/000000,Vinte,Open,11:35 PM,263-824-5933,true,false,220-58-3461
+441,false,false,"Mueller, Romaguera and D'Amore",79.38,1002,http://dummyimage.com/190x144.jpg/cc0000/ffffff,Linkbuzz,Close,10:41 PM,531-229-7194,true,false,306-98-7135
+442,true,true,Wuckert Group,9.71,1021,http://dummyimage.com/103x101.png/dddddd/000000,Yoveo,Close,10:32 PM,562-292-9853,false,false,564-64-6184
+443,false,false,"Gleichner, Collins and Schimmel",60.49,1009,http://dummyimage.com/238x211.jpg/5fa2dd/ffffff,Skinix,Open,7:39 PM,456-737-6019,true,false,136-47-5609
+444,false,false,"Borer, Konopelski and O'Conner",72.48,1024,http://dummyimage.com/184x208.jpg/ff4444/ffffff,Muxo,Open,11:28 PM,274-401-3696,true,false,466-59-1598
+445,false,true,Konopelski-Stokes,9.34,1015,http://dummyimage.com/243x160.jpg/dddddd/000000,Youfeed,Open,8:18 PM,670-863-6174,false,false,484-08-0884
+446,true,true,"Volkman, Walsh and Breitenberg",53.47,1021,http://dummyimage.com/208x223.jpg/dddddd/000000,Browsedrive,Close,7:45 PM,920-163-1262,true,false,199-94-7589
+447,false,false,Durgan-Bailey,91.64,1017,http://dummyimage.com/200x245.bmp/cc0000/ffffff,Rhyloo,Close,8:27 PM,462-471-0831,true,true,274-76-7199
+448,false,true,O'Keefe Inc,10.18,1014,http://dummyimage.com/179x164.jpg/ff4444/ffffff,Twitterworks,Close,6:49 PM,530-773-0302,true,true,621-14-2172
+449,false,true,"Predovic, Heaney and Morissette",77.68,1004,http://dummyimage.com/108x162.jpg/5fa2dd/ffffff,Kaymbo,Open,11:23 PM,783-875-7064,true,false,277-08-8933
+450,true,false,White LLC,9.13,1008,http://dummyimage.com/190x118.jpg/dddddd/000000,Dynazzy,Open,9:35 PM,414-931-8023,true,false,421-30-0768
+451,true,true,"Quitzon, Lindgren and Mohr",35.64,1010,http://dummyimage.com/125x248.bmp/cc0000/ffffff,Leenti,Close,11:26 PM,299-568-0795,false,false,497-17-6775
+452,true,true,"Kerluke, Koelpin and Cummerata",35.45,1024,http://dummyimage.com/219x149.bmp/cc0000/ffffff,Rhynoodle,Open,10:41 PM,318-617-7134,false,true,189-68-5448
+453,false,false,"Volkman, Rath and Gerlach",88.61,1008,http://dummyimage.com/181x152.jpg/cc0000/ffffff,Centimia,Close,6:33 PM,691-679-5653,false,false,321-40-7711
+454,false,true,"Cruickshank, Littel and Prosacco",24.76,1007,http://dummyimage.com/159x242.bmp/dddddd/000000,Yotz,Close,8:55 PM,737-766-5073,true,true,694-31-5225
+455,true,true,Raynor-Bruen,79.96,1024,http://dummyimage.com/175x146.bmp/cc0000/ffffff,Brainbox,Close,9:52 PM,150-794-0441,true,false,633-15-0982
+456,true,false,Huel-Kilback,48.79,1000,http://dummyimage.com/240x246.bmp/dddddd/000000,Skivee,Close,9:27 PM,621-826-4277,true,false,458-89-4433
+457,true,true,"Bauch, Crooks and Ernser",12.73,1006,http://dummyimage.com/166x123.bmp/cc0000/ffffff,Feedspan,Open,8:44 PM,983-664-7720,false,true,286-96-9802
+458,true,true,Bartoletti-Klocko,2.5,1002,http://dummyimage.com/239x194.png/cc0000/ffffff,Meetz,Close,11:49 PM,677-959-1641,false,true,145-78-4442
+459,true,true,D'Amore-Lesch,32.42,1007,http://dummyimage.com/220x232.png/cc0000/ffffff,JumpXS,Open,6:36 PM,812-731-8262,true,true,793-32-8954
+460,true,true,Nader-Streich,42.72,1000,http://dummyimage.com/109x172.bmp/dddddd/000000,Roodel,Close,7:58 PM,322-570-0104,true,false,465-33-0226
+461,true,false,"Kozey, Leannon and Heaney",42.66,1005,http://dummyimage.com/117x138.jpg/ff4444/ffffff,Tagtune,Open,6:30 PM,406-829-4922,true,false,791-87-3239
+462,true,false,Mosciski LLC,43.39,1009,http://dummyimage.com/141x142.png/ff4444/ffffff,Agimba,Close,6:49 PM,297-846-6372,true,true,671-25-3889
+463,false,false,"Durgan, Littel and O'Kon",18.66,1025,http://dummyimage.com/142x201.png/dddddd/000000,Buzzdog,Open,7:02 PM,525-895-4966,false,false,206-89-1843
+464,true,false,Kuhic-McLaughlin,53.97,1009,http://dummyimage.com/171x155.png/cc0000/ffffff,DabZ,Close,6:05 PM,987-954-8866,true,true,681-31-1204
+465,true,true,"Christiansen, Nicolas and Hermann",50.27,1023,http://dummyimage.com/194x190.png/5fa2dd/ffffff,Brightbean,Open,11:46 PM,377-724-9827,false,true,671-40-0378
+466,false,true,Vandervort-Johnson,65.82,1015,http://dummyimage.com/125x212.png/dddddd/000000,Zoomcast,Open,11:16 PM,970-438-8156,true,false,684-60-4021
+467,false,false,Pacocha-Mayer,69.57,1003,http://dummyimage.com/201x173.png/cc0000/ffffff,Twinder,Open,10:22 PM,721-541-0918,true,true,838-19-3776
+468,false,false,Effertz Group,60.98,1008,http://dummyimage.com/133x172.jpg/cc0000/ffffff,Fivebridge,Close,6:41 PM,809-423-1060,true,true,206-91-7906
+469,false,false,Gibson-Towne,71.99,1011,http://dummyimage.com/118x236.jpg/dddddd/000000,Meejo,Open,11:46 PM,965-724-7858,false,false,569-86-6306
+470,false,false,Harris Group,43.72,1011,http://dummyimage.com/188x196.bmp/5fa2dd/ffffff,Jaloo,Open,8:21 PM,472-679-2872,true,false,256-25-8474
+471,false,true,"Wisoky, Brown and Hagenes",90.99,1014,http://dummyimage.com/175x229.bmp/cc0000/ffffff,Rhyloo,Open,8:43 PM,811-660-9261,false,false,101-55-9064
+472,false,false,"Thiel, Champlin and Simonis",5.2,1018,http://dummyimage.com/207x238.jpg/cc0000/ffffff,Riffwire,Open,10:16 PM,580-901-5997,false,false,176-95-3254
+473,false,true,Zieme LLC,44.48,1013,http://dummyimage.com/238x188.jpg/cc0000/ffffff,Voonix,Open,7:22 PM,130-881-4498,false,false,686-18-4412
+474,true,true,"Fisher, Raynor and Ebert",32.31,1011,http://dummyimage.com/250x232.png/dddddd/000000,Yakijo,Close,8:32 PM,950-896-7934,true,false,607-63-6356
+475,true,true,"Shanahan, Stiedemann and Farrell",52.68,1017,http://dummyimage.com/156x100.jpg/5fa2dd/ffffff,Jaloo,Close,9:02 PM,229-854-7160,false,true,263-90-6945
+476,true,false,"Larson, Herzog and Stoltenberg",69.43,1018,http://dummyimage.com/218x206.jpg/5fa2dd/ffffff,Realmix,Open,9:19 PM,570-520-5243,false,true,415-34-2310
+477,false,false,Rogahn-Halvorson,72.44,1002,http://dummyimage.com/174x223.jpg/5fa2dd/ffffff,Browsezoom,Close,7:56 PM,139-118-9157,false,true,851-90-5595
+478,true,false,"Brakus, Zulauf and Gerhold",84.01,1024,http://dummyimage.com/151x233.png/5fa2dd/ffffff,Plambee,Close,11:10 PM,185-404-1723,false,true,871-57-9090
+479,true,true,"Cremin, Little and Flatley",22.39,1019,http://dummyimage.com/158x250.png/ff4444/ffffff,Skinte,Open,6:45 PM,558-609-5242,true,true,602-15-9095
+480,false,false,Hegmann-Champlin,27.85,1023,http://dummyimage.com/243x214.bmp/cc0000/ffffff,DabZ,Open,10:40 PM,297-765-0984,false,false,218-49-1568
+481,false,false,"Pfeffer, Parisian and Kovacek",64.33,1001,http://dummyimage.com/250x240.png/dddddd/000000,Jabberstorm,Close,7:30 PM,351-203-0624,true,true,289-23-2408
+482,false,false,Leuschke Group,67.47,1018,http://dummyimage.com/181x152.jpg/dddddd/000000,Dynabox,Close,10:21 PM,595-626-1163,false,true,817-07-3604
+483,true,true,Friesen-Abshire,60.38,1003,http://dummyimage.com/134x247.jpg/dddddd/000000,Geba,Open,7:08 PM,475-649-7264,true,true,547-83-7323
+484,false,false,"Walsh, Morissette and Gutkowski",73.28,1006,http://dummyimage.com/135x127.jpg/5fa2dd/ffffff,Jatri,Close,10:35 PM,835-311-8078,false,true,330-77-3335
+485,true,false,Streich Group,13.77,1003,http://dummyimage.com/226x128.bmp/5fa2dd/ffffff,Miboo,Close,11:50 PM,978-798-3933,true,false,622-62-9991
+486,true,false,"Bernier, Mills and Lebsack",37.31,1009,http://dummyimage.com/185x184.bmp/ff4444/ffffff,Lajo,Open,11:33 PM,382-218-7536,false,true,879-61-7160
+487,false,false,Lockman-Shanahan,69.57,1008,http://dummyimage.com/144x182.png/dddddd/000000,Linklinks,Close,7:36 PM,143-700-3085,true,false,608-45-6045
+488,true,true,Thompson-Steuber,12.8,1020,http://dummyimage.com/109x193.bmp/5fa2dd/ffffff,Tavu,Open,7:56 PM,761-202-0402,true,false,818-93-0806
+489,true,true,Howell-Hilpert,21.73,1019,http://dummyimage.com/179x126.png/5fa2dd/ffffff,Wikizz,Open,6:00 PM,422-220-6557,true,false,800-69-7912
+490,true,true,Hauck and Sons,14.26,1007,http://dummyimage.com/114x235.png/5fa2dd/ffffff,Eadel,Close,7:57 PM,970-446-4419,true,false,561-73-3886
+491,false,false,Dicki-Huel,80.95,1004,http://dummyimage.com/115x224.jpg/cc0000/ffffff,Cogibox,Close,10:23 PM,884-329-6558,true,false,723-26-1431
+492,false,false,Robel-Muller,62.05,1025,http://dummyimage.com/217x100.png/dddddd/000000,Yakidoo,Open,7:53 PM,534-287-8718,true,false,572-21-4667
+493,true,true,Prohaska Inc,73.67,1023,http://dummyimage.com/128x185.jpg/dddddd/000000,Abata,Open,11:45 PM,665-989-7420,false,true,878-87-1028
+494,true,true,Osinski Inc,61.15,1011,http://dummyimage.com/248x211.png/5fa2dd/ffffff,Brainsphere,Open,11:26 PM,506-381-5517,true,true,140-53-1685
+495,false,false,Koss-Jenkins,75.28,1000,http://dummyimage.com/144x214.bmp/dddddd/000000,Oloo,Close,7:11 PM,144-812-8280,true,false,317-13-1961
+496,false,true,Bins-Leuschke,52.59,1017,http://dummyimage.com/216x118.png/5fa2dd/ffffff,Bubblebox,Open,11:27 PM,384-924-4333,true,true,419-38-3130
+497,false,true,Runte and Sons,74.22,1003,http://dummyimage.com/179x248.png/dddddd/000000,Thoughtbeat,Open,8:03 PM,782-523-2042,false,false,169-44-6918
+498,true,true,Hoeger-Jenkins,82.43,1003,http://dummyimage.com/146x215.jpg/dddddd/000000,Wikido,Close,6:28 PM,506-499-8469,true,false,400-59-8633
+499,true,true,Jacobson and Sons,27.37,1016,http://dummyimage.com/213x184.png/cc0000/ffffff,Blognation,Open,10:19 PM,704-353-6119,true,true,218-94-8181
+500,true,true,Rath Inc,61.08,1020,http://dummyimage.com/186x148.jpg/5fa2dd/ffffff,Riffpedia,Close,10:53 PM,746-405-1497,false,false,523-26-4432
+501,true,false,"Hirthe, Johnston and Wiegand",86.86,1023,http://dummyimage.com/242x149.png/ff4444/ffffff,Vipe,Open,10:33 PM,832-669-3088,false,false,421-32-6411
+502,true,false,Johnston-Kreiger,52.41,1016,http://dummyimage.com/155x229.bmp/5fa2dd/ffffff,Jabbertype,Close,9:28 PM,635-387-5007,false,true,437-06-8597
+503,true,true,Greenholt and Sons,19.39,1010,http://dummyimage.com/240x141.jpg/5fa2dd/ffffff,Cogibox,Close,9:43 PM,447-181-0852,true,false,849-25-8283
+504,false,false,Torphy-Bruen,56.22,1025,http://dummyimage.com/197x173.bmp/dddddd/000000,Oloo,Open,8:05 PM,860-319-8702,false,false,319-71-9521
+505,false,false,Trantow LLC,15.84,1003,http://dummyimage.com/238x158.jpg/cc0000/ffffff,Centimia,Close,10:10 PM,858-383-5259,false,true,870-78-3394
+506,true,false,"Konopelski, Bashirian and Padberg",29.47,1006,http://dummyimage.com/232x236.jpg/dddddd/000000,Rhynoodle,Open,9:23 PM,297-851-6637,true,false,330-51-2918
+507,false,true,Trantow and Sons,79.16,1001,http://dummyimage.com/207x246.jpg/dddddd/000000,Flipstorm,Close,7:40 PM,874-341-6625,true,true,197-77-4928
+508,true,true,"Walsh, Parisian and Rutherford",2.54,1015,http://dummyimage.com/142x250.png/cc0000/ffffff,Jaxnation,Close,8:31 PM,682-763-6754,true,false,113-71-3761
+509,true,true,"Beahan, Heathcote and Cassin",93.11,1006,http://dummyimage.com/210x228.png/ff4444/ffffff,Eidel,Open,9:09 PM,774-201-3261,true,false,692-93-9994
+510,false,true,Cormier Group,63.32,1015,http://dummyimage.com/212x112.png/5fa2dd/ffffff,Quimba,Open,10:37 PM,286-372-3635,false,true,857-46-4225
+511,true,false,"Brakus, Schroeder and Mohr",32.18,1018,http://dummyimage.com/216x181.bmp/5fa2dd/ffffff,Dynazzy,Close,9:40 PM,673-283-0716,true,true,772-21-6867
+512,true,true,"Ankunding, Bechtelar and Herman",82.64,1002,http://dummyimage.com/130x155.png/dddddd/000000,Avamba,Open,11:31 PM,677-853-8122,true,true,687-01-7362
+513,false,true,Lowe Inc,97.62,1005,http://dummyimage.com/201x175.jpg/ff4444/ffffff,Meetz,Open,9:08 PM,205-593-4234,false,true,428-93-9812
+514,false,false,"VonRueden, Kertzmann and Leffler",7.36,1019,http://dummyimage.com/159x243.png/dddddd/000000,Topicware,Close,10:46 PM,210-733-7754,false,false,839-41-5312
+515,true,false,"DuBuque, Nitzsche and Hermann",9.99,1005,http://dummyimage.com/224x124.png/5fa2dd/ffffff,Bluejam,Open,11:20 PM,276-347-0540,true,true,557-10-8195
+516,false,false,Nicolas LLC,94.2,1015,http://dummyimage.com/168x166.bmp/5fa2dd/ffffff,Brightdog,Open,8:40 PM,335-726-6660,true,false,195-12-4783
+517,true,true,Feeney Inc,49.96,1012,http://dummyimage.com/250x171.png/5fa2dd/ffffff,Fivespan,Close,9:49 PM,308-902-4593,false,false,721-43-6860
+518,false,false,Walker-Roberts,94.68,1015,http://dummyimage.com/192x159.png/cc0000/ffffff,Camimbo,Close,6:12 PM,620-477-5970,true,true,788-23-9355
+519,false,true,Russel and Sons,5.36,1018,http://dummyimage.com/210x180.png/ff4444/ffffff,Jatri,Close,7:21 PM,933-232-0598,false,true,570-66-9432
+520,false,true,Olson LLC,21.73,1020,http://dummyimage.com/169x239.png/cc0000/ffffff,Browseblab,Open,9:19 PM,733-418-5100,true,true,736-16-0217
+521,false,false,Cassin Group,77.25,1018,http://dummyimage.com/171x104.bmp/cc0000/ffffff,Meezzy,Open,10:48 PM,252-268-3341,true,false,705-28-7825
+522,true,false,"DuBuque, Buckridge and Schulist",37.19,1021,http://dummyimage.com/138x153.png/ff4444/ffffff,Npath,Close,10:39 PM,910-365-4334,true,false,765-78-7730
+523,false,true,"Spinka, Goyette and Daugherty",31.13,1013,http://dummyimage.com/225x144.png/cc0000/ffffff,Mymm,Close,6:03 PM,119-886-6867,false,false,503-55-6822
+524,true,true,Turner-Effertz,76.83,1019,http://dummyimage.com/248x234.jpg/5fa2dd/ffffff,Browsecat,Close,11:31 PM,362-193-8572,true,false,601-23-6530
+525,false,false,"Collier, Crona and Little",32.64,1007,http://dummyimage.com/244x125.png/ff4444/ffffff,Mita,Open,6:48 PM,909-319-1356,true,false,580-49-0550
+526,false,false,"Sanford, Torp and Upton",58.3,1022,http://dummyimage.com/193x247.bmp/5fa2dd/ffffff,Blogtag,Open,7:14 PM,401-335-6598,false,true,205-06-4714
+527,true,true,"Hegmann, Rosenbaum and Bashirian",4.49,1015,http://dummyimage.com/204x104.bmp/cc0000/ffffff,Skimia,Close,9:46 PM,917-273-5836,true,true,405-68-3982
+528,false,true,"Nikolaus, Langworth and Grimes",31.84,1002,http://dummyimage.com/152x157.bmp/cc0000/ffffff,Skyvu,Close,9:04 PM,368-808-6251,false,false,313-84-4889
+529,true,false,Gislason Group,18.05,1000,http://dummyimage.com/180x233.png/dddddd/000000,Brainverse,Open,8:39 PM,387-168-5223,false,true,302-44-8774
+530,true,true,"Swaniawski, Schoen and Fahey",43.53,1003,http://dummyimage.com/103x115.png/dddddd/000000,Bluejam,Close,9:24 PM,312-996-5886,false,true,857-40-4582
+531,false,false,Wilkinson and Sons,61.52,1002,http://dummyimage.com/105x152.jpg/ff4444/ffffff,Yambee,Close,10:38 PM,407-874-9514,true,true,611-97-4881
+532,false,true,Wilderman-Bode,14.3,1020,http://dummyimage.com/149x150.bmp/cc0000/ffffff,Oozz,Close,7:30 PM,400-732-1144,true,true,454-84-0936
+533,true,false,"Marks, Strosin and Schaden",39.43,1022,http://dummyimage.com/156x246.png/5fa2dd/ffffff,Shuffledrive,Open,11:08 PM,295-563-7355,true,true,584-38-6545
+534,false,true,Pacocha-Swift,72.97,1025,http://dummyimage.com/142x182.png/5fa2dd/ffffff,Thoughtsphere,Close,8:39 PM,732-401-7268,true,false,148-21-8190
+535,true,false,Skiles Inc,86.01,1018,http://dummyimage.com/134x163.bmp/ff4444/ffffff,Blogpad,Open,6:18 PM,603-132-0943,true,true,236-03-5964
+536,true,true,Conroy Inc,12.99,1018,http://dummyimage.com/223x158.png/ff4444/ffffff,Blogtags,Open,6:19 PM,419-708-0350,true,false,122-36-7944
+537,true,true,Oberbrunner LLC,9.92,1013,http://dummyimage.com/106x122.jpg/5fa2dd/ffffff,Buzzster,Open,7:54 PM,224-285-9320,false,true,688-32-5525
+538,true,true,"Mueller, Streich and Schoen",65.33,1025,http://dummyimage.com/112x121.bmp/cc0000/ffffff,Topicshots,Open,9:08 PM,658-263-4717,true,false,734-34-2838
+539,false,false,Kuphal Inc,35.47,1019,http://dummyimage.com/165x157.png/5fa2dd/ffffff,Riffpath,Close,8:51 PM,314-491-5042,false,false,228-43-7852
+540,false,true,"Turner, Donnelly and Jerde",86.93,1005,http://dummyimage.com/178x237.png/cc0000/ffffff,Jabbersphere,Open,6:59 PM,340-981-3377,false,false,676-27-6890
+541,true,false,Doyle-Olson,38.12,1004,http://dummyimage.com/238x110.bmp/ff4444/ffffff,Abata,Open,6:08 PM,425-977-4057,true,false,185-08-0882
+542,false,true,Abbott-Schoen,33.35,1014,http://dummyimage.com/141x118.jpg/cc0000/ffffff,Zoozzy,Close,7:39 PM,225-545-0215,false,true,819-99-5689
+543,false,false,Muller-Bins,36.79,1004,http://dummyimage.com/133x124.bmp/5fa2dd/ffffff,Thoughtsphere,Open,8:33 PM,557-945-4689,false,true,492-05-9770
+544,true,false,Bosco-Dooley,96.99,1009,http://dummyimage.com/156x202.png/cc0000/ffffff,Geba,Open,10:54 PM,294-242-3161,false,true,762-62-1302
+545,true,true,"Jast, Senger and Swaniawski",34.56,1013,http://dummyimage.com/176x128.jpg/ff4444/ffffff,Agimba,Close,6:26 PM,257-563-9429,false,true,469-72-7778
+546,true,false,"Prohaska, McClure and Eichmann",25.89,1004,http://dummyimage.com/137x144.bmp/dddddd/000000,Eire,Open,7:49 PM,160-815-3321,true,true,261-53-5126
+547,true,true,"Stroman, Witting and Hodkiewicz",11.54,1006,http://dummyimage.com/248x144.bmp/cc0000/ffffff,Camido,Open,7:02 PM,896-415-3671,true,true,259-75-3203
+548,true,false,Schamberger LLC,32.43,1012,http://dummyimage.com/111x162.bmp/dddddd/000000,Leexo,Open,9:24 PM,676-127-5548,true,true,555-13-5242
+549,true,false,Bradtke-Rice,91.28,1016,http://dummyimage.com/121x174.png/ff4444/ffffff,Livetube,Open,10:40 PM,311-364-0454,true,true,602-06-3989
+550,true,false,Langworth and Sons,51.33,1000,http://dummyimage.com/157x110.png/ff4444/ffffff,Photojam,Open,10:36 PM,318-254-5292,true,true,803-15-2697
+551,true,false,"Koss, Schneider and Murazik",80.66,1000,http://dummyimage.com/142x186.png/dddddd/000000,Lazzy,Open,9:07 PM,901-950-6106,true,true,682-60-9262
+552,true,false,"O'Keefe, Willms and Volkman",68.82,1021,http://dummyimage.com/159x201.png/dddddd/000000,Twitterbridge,Open,7:39 PM,125-109-8380,false,true,755-31-6424
+553,true,true,Hirthe and Sons,83.32,1011,http://dummyimage.com/171x119.png/dddddd/000000,Brightdog,Close,7:40 PM,497-351-8385,true,false,629-69-1341
+554,true,true,Beier-Watsica,14.24,1020,http://dummyimage.com/128x145.png/ff4444/ffffff,Mydeo,Open,11:22 PM,351-350-6585,true,true,423-68-1690
+555,false,true,Heathcote and Sons,96.97,1014,http://dummyimage.com/233x164.jpg/cc0000/ffffff,Zoomcast,Close,7:28 PM,192-912-8777,false,true,341-78-2599
+556,true,false,"Ratke, Gerhold and Collier",58.19,1009,http://dummyimage.com/197x158.jpg/5fa2dd/ffffff,Thoughtworks,Open,9:10 PM,216-224-6607,true,true,787-66-3752
+557,true,false,Kilback-Little,32.74,1022,http://dummyimage.com/217x187.png/cc0000/ffffff,Zoomdog,Close,11:27 PM,540-610-0939,false,false,605-80-7105
+558,true,true,"Rosenbaum, Jerde and Ratke",74.27,1009,http://dummyimage.com/199x203.jpg/cc0000/ffffff,Camimbo,Open,11:53 PM,567-751-0154,true,false,544-34-8663
+559,true,false,"Sauer, Lehner and Kuhlman",90.43,1011,http://dummyimage.com/160x179.png/5fa2dd/ffffff,Photobug,Open,7:39 PM,585-503-7190,true,true,306-95-3088
+560,false,true,"Zboncak, Swaniawski and Rodriguez",83.12,1024,http://dummyimage.com/134x142.jpg/cc0000/ffffff,Skivee,Open,10:11 PM,541-949-8127,true,false,476-29-2437
+561,true,false,Medhurst and Sons,56.34,1010,http://dummyimage.com/142x175.bmp/dddddd/000000,Browsebug,Close,10:35 PM,366-447-2568,false,false,117-43-3891
+562,true,true,"Hoeger, Donnelly and Fay",46.45,1006,http://dummyimage.com/187x227.jpg/cc0000/ffffff,Wikizz,Close,7:54 PM,770-774-2792,false,false,391-19-1162
+563,true,false,Welch-Schultz,91.64,1003,http://dummyimage.com/192x161.bmp/cc0000/ffffff,Feedfish,Open,10:48 PM,478-369-6305,true,true,113-13-6342
+564,true,false,McGlynn-Leuschke,34.37,1002,http://dummyimage.com/204x153.png/cc0000/ffffff,Yodoo,Open,8:54 PM,304-385-2548,false,false,848-61-8930
+565,true,false,Nikolaus-Rempel,4.43,1018,http://dummyimage.com/217x207.bmp/cc0000/ffffff,Buzzbean,Close,9:47 PM,976-137-7312,false,true,570-77-7003
+566,true,false,"Lesch, Donnelly and Bailey",66.15,1010,http://dummyimage.com/109x216.jpg/cc0000/ffffff,Yamia,Close,6:14 PM,255-222-4760,false,false,407-36-5592
+567,false,true,"Schimmel, Upton and Shields",46.18,1014,http://dummyimage.com/167x106.bmp/dddddd/000000,Vimbo,Close,6:04 PM,222-612-2267,true,false,364-90-8266
+568,true,false,Rau LLC,29.88,1007,http://dummyimage.com/245x190.bmp/ff4444/ffffff,Realpoint,Open,7:19 PM,239-257-2600,false,true,218-57-9806
+569,true,true,Swift-Nitzsche,38.22,1007,http://dummyimage.com/177x159.png/dddddd/000000,Wikivu,Open,8:26 PM,144-576-7958,false,true,480-57-6250
+570,true,false,Koch and Sons,34.18,1005,http://dummyimage.com/220x151.jpg/cc0000/ffffff,Linkbridge,Close,9:34 PM,638-188-9219,true,true,254-66-3886
+571,false,false,O'Hara and Sons,11.04,1011,http://dummyimage.com/130x213.jpg/ff4444/ffffff,Meejo,Open,8:23 PM,685-339-5958,false,false,753-21-0663
+572,true,true,Nader-Gottlieb,26.52,1010,http://dummyimage.com/202x223.bmp/dddddd/000000,Thoughtworks,Open,7:53 PM,592-147-0833,false,true,553-73-3004
+573,false,false,Grant LLC,67.36,1011,http://dummyimage.com/160x176.png/ff4444/ffffff,Browsecat,Close,10:49 PM,353-852-5419,true,true,468-97-9446
+574,true,true,Pollich LLC,46.34,1001,http://dummyimage.com/131x116.png/cc0000/ffffff,Camimbo,Open,6:47 PM,807-965-7771,false,true,626-13-8641
+575,false,true,Little-Hoeger,16.61,1024,http://dummyimage.com/165x155.jpg/dddddd/000000,Voomm,Close,8:57 PM,144-572-0247,false,true,633-75-9052
+576,false,true,Cummerata-Kreiger,96.71,1019,http://dummyimage.com/104x207.bmp/ff4444/ffffff,Tagpad,Close,6:17 PM,117-108-3524,false,false,116-65-3378
+577,true,false,Haag-Daniel,44.2,1008,http://dummyimage.com/227x176.bmp/5fa2dd/ffffff,Photospace,Close,11:34 PM,318-670-1259,true,true,221-29-2069
+578,false,false,"Schoen, Wehner and Crona",38.03,1009,http://dummyimage.com/220x185.bmp/cc0000/ffffff,Divavu,Open,9:07 PM,221-587-2211,false,true,190-14-5599
+579,false,false,Hoppe-Barton,3.25,1007,http://dummyimage.com/232x207.png/cc0000/ffffff,Zoonder,Close,6:37 PM,540-376-6243,false,true,581-59-9368
+580,true,false,Von-Lynch,78.22,1011,http://dummyimage.com/200x229.jpg/dddddd/000000,Photobug,Close,6:29 PM,691-771-8835,false,false,589-02-9050
+581,false,false,"Keeling, Kuvalis and Morissette",11.07,1021,http://dummyimage.com/106x250.png/ff4444/ffffff,Gigaclub,Open,9:02 PM,506-300-1465,false,true,648-78-2924
+582,true,false,"Mayert, Heidenreich and Grimes",44.31,1003,http://dummyimage.com/117x177.bmp/dddddd/000000,Topicstorm,Close,8:47 PM,939-907-7809,false,false,560-35-2312
+583,true,false,"Lesch, McLaughlin and Hilll",88.03,1018,http://dummyimage.com/178x231.jpg/5fa2dd/ffffff,Voolith,Open,8:53 PM,122-807-6383,true,true,372-95-8567
+584,false,false,Johnson Group,10.23,1000,http://dummyimage.com/121x151.jpg/ff4444/ffffff,Skiba,Open,6:29 PM,262-932-5939,true,false,794-87-3172
+585,true,false,Ondricka-Borer,65.3,1023,http://dummyimage.com/203x116.jpg/5fa2dd/ffffff,Gabspot,Open,11:00 PM,696-466-1089,false,false,762-02-6334
+586,true,true,"Satterfield, Casper and Emard",57.38,1021,http://dummyimage.com/105x215.bmp/ff4444/ffffff,Nlounge,Open,8:20 PM,872-408-5543,true,true,102-84-0124
+587,true,false,Waters-Metz,81.68,1010,http://dummyimage.com/119x197.bmp/5fa2dd/ffffff,Twitterworks,Close,11:26 PM,540-935-4482,false,false,548-84-0361
+588,true,true,Ledner-Kutch,69.05,1011,http://dummyimage.com/132x199.png/5fa2dd/ffffff,Tagcat,Open,9:17 PM,809-979-8661,true,false,557-34-8840
+589,false,true,"Carter, Watsica and Blick",12.57,1010,http://dummyimage.com/225x129.bmp/ff4444/ffffff,Mydo,Open,7:27 PM,220-684-2397,false,false,525-09-7942
+590,false,false,"Nicolas, Monahan and Waters",75.12,1017,http://dummyimage.com/129x165.jpg/5fa2dd/ffffff,Blogpad,Open,11:41 PM,204-622-4953,false,true,633-29-3481
+591,true,false,"Koss, Collier and Fritsch",8.27,1009,http://dummyimage.com/229x144.png/ff4444/ffffff,Centimia,Close,8:25 PM,306-737-9517,false,false,837-49-5337
+592,true,false,Pollich Group,6.0,1007,http://dummyimage.com/120x122.png/dddddd/000000,Plajo,Close,10:53 PM,806-326-0144,true,true,615-95-6623
+593,false,false,McClure Inc,72.14,1007,http://dummyimage.com/221x216.bmp/cc0000/ffffff,Izio,Close,10:31 PM,339-748-7389,true,true,466-52-8947
+594,false,true,Runolfsdottir-Quigley,54.5,1006,http://dummyimage.com/214x168.bmp/dddddd/000000,Wikizz,Close,7:26 PM,355-792-2202,true,true,711-66-0994
+595,true,false,Balistreri-Hane,21.52,1023,http://dummyimage.com/135x143.jpg/dddddd/000000,Thoughtstorm,Open,7:46 PM,376-140-8218,true,false,372-31-1700
+596,false,false,Barrows Inc,18.15,1024,http://dummyimage.com/177x224.png/dddddd/000000,Brainlounge,Close,11:52 PM,705-549-8872,false,true,669-56-9239
+597,false,true,McDermott-Davis,42.32,1018,http://dummyimage.com/220x125.jpg/cc0000/ffffff,Teklist,Open,8:25 PM,941-155-0671,true,false,639-56-4562
+598,false,false,Stiedemann-Heller,86.73,1006,http://dummyimage.com/111x116.png/5fa2dd/ffffff,Tanoodle,Open,10:34 PM,825-764-4429,true,true,828-10-3640
+599,true,true,"Sanford, Effertz and Kemmer",9.88,1014,http://dummyimage.com/105x141.png/dddddd/000000,Yambee,Open,8:58 PM,539-809-3170,true,true,245-70-2947
+600,false,true,Tromp and Sons,20.69,1004,http://dummyimage.com/250x155.png/dddddd/000000,Jabbertype,Close,9:56 PM,130-922-4893,false,false,705-67-2018
+601,true,false,Smitham-Lynch,51.62,1025,http://dummyimage.com/100x154.png/cc0000/ffffff,Linktype,Open,8:55 PM,246-194-5348,true,false,352-60-5809
+602,true,false,Howell Inc,36.32,1015,http://dummyimage.com/188x240.bmp/cc0000/ffffff,Thoughtblab,Close,10:33 PM,821-957-1600,false,true,323-16-2825
+603,false,true,Stanton-Ruecker,87.9,1011,http://dummyimage.com/115x104.png/dddddd/000000,Browsedrive,Open,11:32 PM,311-522-7200,false,true,544-66-8801
+604,false,true,Marquardt Inc,13.81,1019,http://dummyimage.com/181x156.png/cc0000/ffffff,Meeveo,Close,8:26 PM,749-213-1732,true,true,712-69-2197
+605,false,true,Fritsch-Herman,42.55,1003,http://dummyimage.com/178x143.bmp/ff4444/ffffff,Kare,Open,7:32 PM,232-726-6147,false,false,353-45-8767
+606,false,true,Beer-Kassulke,55.07,1002,http://dummyimage.com/185x100.jpg/dddddd/000000,Aimbo,Close,10:44 PM,760-324-0535,true,true,487-51-6791
+607,true,true,Upton Group,85.14,1022,http://dummyimage.com/123x138.png/cc0000/ffffff,Zava,Open,11:53 PM,450-473-8583,true,false,462-74-4690
+608,false,true,Padberg and Sons,83.96,1017,http://dummyimage.com/136x134.jpg/ff4444/ffffff,Wordpedia,Close,9:59 PM,892-998-3166,false,true,441-62-2304
+609,true,false,"Kunze, Boehm and Gaylord",78.53,1008,http://dummyimage.com/135x168.png/dddddd/000000,Quatz,Open,8:06 PM,115-894-5532,false,true,387-48-9446
+610,true,true,Casper and Sons,85.12,1005,http://dummyimage.com/130x213.jpg/cc0000/ffffff,Meetz,Open,7:03 PM,160-416-5382,true,true,685-19-5108
+611,true,true,Schulist-Medhurst,20.57,1006,http://dummyimage.com/181x173.bmp/5fa2dd/ffffff,Fivebridge,Open,9:29 PM,514-530-6151,false,false,710-18-2440
+612,false,true,Greenholt Group,97.11,1016,http://dummyimage.com/152x178.png/dddddd/000000,Kanoodle,Open,6:57 PM,568-351-4113,false,false,753-57-9806
+613,true,true,Dietrich Inc,56.8,1001,http://dummyimage.com/176x119.bmp/cc0000/ffffff,Plajo,Open,8:42 PM,356-135-1155,false,true,208-23-9445
+614,true,false,Thiel-Deckow,48.02,1006,http://dummyimage.com/237x156.jpg/cc0000/ffffff,Realcube,Open,9:07 PM,421-258-1926,true,true,827-26-6423
+615,true,true,Bernhard Inc,88.54,1003,http://dummyimage.com/167x103.bmp/cc0000/ffffff,Gigazoom,Close,7:05 PM,516-620-9998,false,false,611-70-1123
+616,true,false,Brekke-Kshlerin,74.81,1002,http://dummyimage.com/142x111.bmp/cc0000/ffffff,Mynte,Close,7:42 PM,272-639-6190,false,true,866-46-5843
+617,false,false,Koch Group,98.8,1016,http://dummyimage.com/165x221.png/cc0000/ffffff,Twimbo,Open,10:42 PM,769-582-2536,true,true,249-68-5117
+618,true,false,Will Inc,93.95,1011,http://dummyimage.com/110x198.png/ff4444/ffffff,Skipfire,Open,9:04 PM,887-631-4812,true,true,500-47-0760
+619,true,false,"Cummerata, Dach and Pacocha",3.19,1017,http://dummyimage.com/182x188.png/dddddd/000000,Oloo,Open,7:12 PM,323-681-4881,false,true,661-20-6391
+620,true,false,"Yundt, Daugherty and Keebler",78.47,1022,http://dummyimage.com/157x102.jpg/cc0000/ffffff,Ainyx,Open,8:36 PM,993-897-8662,false,false,637-08-9841
+621,true,false,"Moen, Hammes and Schmitt",78.66,1010,http://dummyimage.com/135x117.bmp/5fa2dd/ffffff,Yabox,Close,9:26 PM,455-817-5979,false,true,625-48-1917
+622,false,true,Hamill-Heaney,98.69,1010,http://dummyimage.com/129x244.jpg/dddddd/000000,Voonte,Close,6:34 PM,615-796-2343,true,false,775-30-1514
+623,true,true,Bergnaum-Lockman,16.66,1022,http://dummyimage.com/202x187.jpg/dddddd/000000,Mymm,Close,11:31 PM,979-355-5368,true,false,524-20-5940
+624,true,false,Murray-Toy,10.09,1000,http://dummyimage.com/150x113.bmp/5fa2dd/ffffff,Edgepulse,Open,8:31 PM,877-712-8937,false,true,133-79-0170
+625,true,false,"Jacobs, Willms and Larson",6.13,1021,http://dummyimage.com/216x100.bmp/dddddd/000000,Dabshots,Open,9:09 PM,729-598-6222,false,true,854-30-9675
+626,false,true,"Wyman, Stoltenberg and Fadel",85.76,1005,http://dummyimage.com/237x198.bmp/dddddd/000000,Flashdog,Close,7:41 PM,204-643-9684,true,false,273-02-3960
+627,false,true,Will and Sons,11.14,1024,http://dummyimage.com/149x180.png/ff4444/ffffff,Meeveo,Open,6:37 PM,296-359-5138,true,false,330-17-7214
+628,false,true,Orn-Williamson,18.37,1019,http://dummyimage.com/125x189.png/dddddd/000000,Rhyzio,Open,11:26 PM,377-809-7437,false,true,791-15-5500
+629,true,true,"Donnelly, Mertz and Grady",53.2,1014,http://dummyimage.com/173x147.jpg/5fa2dd/ffffff,Dabshots,Close,10:56 PM,533-383-9419,false,true,853-68-6937
+630,true,false,Jones-Sporer,54.36,1010,http://dummyimage.com/146x204.bmp/5fa2dd/ffffff,Quinu,Open,10:17 PM,561-797-4050,false,true,242-77-9718
+631,true,false,Bogisich and Sons,82.24,1014,http://dummyimage.com/174x196.png/5fa2dd/ffffff,Yodel,Close,6:04 PM,269-519-2748,false,true,533-45-3753
+632,true,false,Nolan Group,97.62,1009,http://dummyimage.com/101x216.jpg/ff4444/ffffff,Trupe,Close,6:52 PM,160-642-5255,true,false,790-73-7967
+633,true,true,"Schuster, Rutherford and Haley",56.28,1013,http://dummyimage.com/131x138.jpg/dddddd/000000,Photofeed,Open,6:43 PM,453-494-0660,true,true,338-19-8764
+634,true,false,"Jacobs, Flatley and Rice",3.36,1021,http://dummyimage.com/206x232.bmp/ff4444/ffffff,Trupe,Close,9:26 PM,598-571-7253,true,false,466-04-4226
+635,true,true,"Barrows, Kutch and Goldner",72.71,1007,http://dummyimage.com/194x134.bmp/ff4444/ffffff,Quatz,Open,9:26 PM,221-946-5647,true,false,472-95-3523
+636,false,true,"Hickle, Corkery and Fisher",52.3,1006,http://dummyimage.com/130x159.jpg/dddddd/000000,Jamia,Open,11:19 PM,381-991-3802,false,false,598-03-0078
+637,true,true,DuBuque-Fisher,39.21,1002,http://dummyimage.com/201x137.bmp/5fa2dd/ffffff,Buzzshare,Open,10:55 PM,276-529-0291,true,false,791-35-1833
+638,false,false,"Marvin, Mosciski and Gottlieb",4.39,1008,http://dummyimage.com/147x126.bmp/ff4444/ffffff,Minyx,Open,7:36 PM,120-618-7918,false,false,693-71-6544
+639,true,true,McLaughlin LLC,92.7,1020,http://dummyimage.com/249x190.bmp/5fa2dd/ffffff,Jaxnation,Close,6:58 PM,820-471-8191,true,false,448-54-2655
+640,true,true,"Wyman, Schneider and Daugherty",10.37,1013,http://dummyimage.com/192x140.bmp/ff4444/ffffff,Riffwire,Close,7:17 PM,578-448-2429,true,true,578-72-5497
+641,false,false,Deckow-Hudson,79.81,1003,http://dummyimage.com/193x146.jpg/ff4444/ffffff,Divape,Open,11:35 PM,392-710-1254,true,false,273-10-4091
+642,true,true,"Predovic, Marks and Parisian",88.22,1024,http://dummyimage.com/179x159.bmp/ff4444/ffffff,Latz,Close,6:47 PM,480-868-3410,true,true,144-44-2774
+643,false,false,"Greenfelder, Mertz and Kreiger",62.8,1007,http://dummyimage.com/149x218.bmp/cc0000/ffffff,Camimbo,Close,8:29 PM,774-963-3930,true,false,189-77-6814
+644,false,true,Brekke LLC,46.67,1004,http://dummyimage.com/144x109.jpg/cc0000/ffffff,Kamba,Close,8:05 PM,816-279-3384,true,false,687-31-2408
+645,false,false,"Ernser, Rempel and Roob",35.05,1004,http://dummyimage.com/103x241.png/cc0000/ffffff,Devshare,Close,11:22 PM,497-166-4595,false,false,839-18-6771
+646,false,true,Schiller Group,89.56,1011,http://dummyimage.com/202x208.png/5fa2dd/ffffff,Roomm,Open,6:11 PM,161-997-2704,true,true,296-35-7402
+647,true,false,Murazik and Sons,97.66,1005,http://dummyimage.com/154x170.bmp/cc0000/ffffff,Fivechat,Open,10:25 PM,841-338-8050,false,false,827-32-9934
+648,true,false,O'Keefe Group,73.32,1000,http://dummyimage.com/211x198.bmp/5fa2dd/ffffff,Jabbersphere,Close,11:05 PM,952-419-5970,false,true,463-86-8498
+649,false,true,Friesen-Becker,58.9,1009,http://dummyimage.com/174x225.jpg/ff4444/ffffff,Twitterbeat,Close,6:19 PM,479-975-0629,true,true,643-62-8805
+650,false,true,"Shanahan, Haag and Schamberger",69.71,1015,http://dummyimage.com/116x195.jpg/ff4444/ffffff,Thoughtmix,Close,7:41 PM,439-433-9662,false,false,280-93-9833
+651,false,true,Bergstrom LLC,18.07,1015,http://dummyimage.com/116x238.jpg/dddddd/000000,Yodoo,Close,11:43 PM,469-797-9797,false,false,428-80-7322
+652,true,false,Keebler Group,56.86,1016,http://dummyimage.com/245x154.png/ff4444/ffffff,Aimbo,Close,11:00 PM,722-336-9994,true,false,486-68-6976
+653,true,true,Boyle LLC,29.63,1013,http://dummyimage.com/164x201.png/ff4444/ffffff,Thoughtbridge,Close,9:05 PM,681-697-1109,false,true,441-77-0683
+654,true,false,"Denesik, Becker and Cummings",84.97,1025,http://dummyimage.com/192x105.jpg/cc0000/ffffff,Skinder,Close,8:02 PM,991-939-4899,false,false,616-57-8873
+655,true,false,Huels and Sons,69.52,1004,http://dummyimage.com/183x180.jpg/dddddd/000000,Twimm,Close,8:24 PM,456-644-5374,true,true,486-53-3655
+656,true,true,"Gulgowski, Ullrich and Williamson",11.52,1003,http://dummyimage.com/140x164.bmp/cc0000/ffffff,Skinte,Close,10:05 PM,846-227-9367,true,true,580-71-9234
+657,true,false,Walsh Inc,38.72,1006,http://dummyimage.com/165x130.jpg/ff4444/ffffff,Zoonoodle,Close,7:14 PM,819-410-3862,true,false,844-10-5584
+658,true,true,Blanda-Jakubowski,34.72,1010,http://dummyimage.com/150x116.jpg/cc0000/ffffff,Thoughtsphere,Close,7:46 PM,160-559-1914,true,true,788-01-4659
+659,true,true,Stanton and Sons,24.33,1006,http://dummyimage.com/163x112.bmp/dddddd/000000,Centizu,Open,10:13 PM,653-549-8358,false,true,536-58-7873
+660,false,false,Moen Inc,51.35,1016,http://dummyimage.com/133x120.png/dddddd/000000,Jabberbean,Open,7:20 PM,330-294-5627,true,false,446-23-1275
+661,false,false,Welch-O'Connell,37.73,1010,http://dummyimage.com/249x113.jpg/cc0000/ffffff,Meedoo,Close,7:15 PM,777-720-5646,true,true,246-65-1444
+662,false,false,"Legros, Morissette and Bartell",53.89,1021,http://dummyimage.com/160x193.png/ff4444/ffffff,Gabtype,Close,11:17 PM,766-292-2227,false,false,326-87-5942
+663,true,true,Lubowitz Group,28.14,1013,http://dummyimage.com/248x113.png/5fa2dd/ffffff,Skimia,Close,8:41 PM,501-363-4437,true,false,483-17-8112
+664,false,true,Heaney and Sons,33.46,1022,http://dummyimage.com/145x242.jpg/5fa2dd/ffffff,Zoomdog,Close,8:32 PM,176-995-2579,false,false,601-70-2465
+665,false,true,"Boehm, Durgan and Muller",48.71,1001,http://dummyimage.com/205x107.bmp/ff4444/ffffff,Fivebridge,Close,6:19 PM,628-396-0085,true,true,373-17-1160
+666,true,false,MacGyver-Ratke,19.98,1020,http://dummyimage.com/116x122.bmp/ff4444/ffffff,Photobug,Close,8:21 PM,367-150-2065,true,false,105-01-9138
+667,false,true,Harris-Considine,94.93,1017,http://dummyimage.com/197x155.bmp/dddddd/000000,Innotype,Open,11:40 PM,168-976-9958,false,true,889-24-7634
+668,false,false,Pollich-Cruickshank,40.68,1023,http://dummyimage.com/216x192.bmp/cc0000/ffffff,Yozio,Close,6:35 PM,724-593-7877,false,true,116-96-0369
+669,true,true,Thiel-Hane,57.56,1025,http://dummyimage.com/209x148.png/5fa2dd/ffffff,Zooxo,Open,10:14 PM,568-497-0641,true,false,610-75-7675
+670,false,true,Reichert Inc,3.52,1016,http://dummyimage.com/145x119.bmp/ff4444/ffffff,Buzzster,Close,6:20 PM,215-849-2118,false,true,207-99-5248
+671,true,false,Spencer Inc,90.72,1005,http://dummyimage.com/153x238.jpg/cc0000/ffffff,Thoughtmix,Close,6:19 PM,572-767-9541,false,false,606-52-4369
+672,true,false,Murazik-Padberg,68.02,1007,http://dummyimage.com/163x140.jpg/ff4444/ffffff,Demivee,Open,9:07 PM,750-937-5107,true,true,363-94-7601
+673,true,false,Waelchi-Bahringer,2.94,1020,http://dummyimage.com/223x160.png/ff4444/ffffff,Realbridge,Open,7:29 PM,157-528-4140,true,true,752-83-1237
+674,false,false,Bergnaum LLC,37.83,1015,http://dummyimage.com/174x185.png/5fa2dd/ffffff,Skynoodle,Open,7:44 PM,790-754-1683,true,true,212-53-5533
+675,false,false,"Marquardt, Champlin and King",88.8,1024,http://dummyimage.com/207x169.jpg/ff4444/ffffff,Trudeo,Open,6:19 PM,410-265-5669,true,false,489-83-2362
+676,true,true,"Hettinger, Lemke and Ebert",59.22,1007,http://dummyimage.com/111x135.bmp/5fa2dd/ffffff,Twiyo,Open,7:43 PM,760-326-6872,false,true,619-28-1923
+677,true,true,Moen Group,1.17,1023,http://dummyimage.com/135x147.png/dddddd/000000,Janyx,Close,9:56 PM,443-106-7702,false,true,622-20-5101
+678,false,false,Langosh Group,22.32,1002,http://dummyimage.com/139x157.png/ff4444/ffffff,Meeveo,Open,7:18 PM,567-736-8119,true,false,108-19-6726
+679,false,true,Lang-O'Keefe,67.2,1001,http://dummyimage.com/233x102.jpg/5fa2dd/ffffff,Twiyo,Open,8:13 PM,309-383-0014,true,true,896-38-5226
+680,false,false,"Turcotte, Bergnaum and Olson",95.99,1008,http://dummyimage.com/194x174.png/dddddd/000000,Ainyx,Open,6:45 PM,835-774-3904,false,true,522-13-7399
+681,true,true,"Haley, Anderson and Jenkins",67.02,1010,http://dummyimage.com/155x120.bmp/dddddd/000000,Edgepulse,Close,8:21 PM,399-157-6192,false,true,579-43-7141
+682,false,true,Thompson-Rath,32.78,1005,http://dummyimage.com/153x241.png/dddddd/000000,Browsetype,Open,6:27 PM,607-548-7234,true,false,158-04-4109
+683,false,true,"Weimann, Toy and Heathcote",13.88,1020,http://dummyimage.com/242x121.bmp/cc0000/ffffff,Skajo,Open,10:01 PM,298-524-5191,false,true,191-05-9972
+684,false,false,Bauch-Weissnat,83.95,1003,http://dummyimage.com/130x163.jpg/cc0000/ffffff,Gigazoom,Close,7:04 PM,818-317-4985,true,false,428-76-2253
+685,false,false,Padberg-Steuber,82.61,1016,http://dummyimage.com/102x145.jpg/dddddd/000000,Yamia,Close,8:14 PM,691-222-9283,true,false,611-83-2330
+686,false,false,"Dicki, Harris and Price",94.89,1021,http://dummyimage.com/142x250.jpg/5fa2dd/ffffff,Aibox,Close,6:47 PM,118-853-0355,true,true,106-05-7921
+687,true,true,Predovic-Leannon,1.65,1009,http://dummyimage.com/192x212.jpg/ff4444/ffffff,Trudoo,Open,9:09 PM,214-895-8356,true,true,630-65-4605
+688,true,true,"MacGyver, Conroy and Johns",81.66,1011,http://dummyimage.com/250x245.bmp/cc0000/ffffff,Twitterwire,Open,8:30 PM,551-596-4030,false,true,617-64-4888
+689,true,false,Grady-Hills,79.62,1023,http://dummyimage.com/216x180.png/ff4444/ffffff,Quire,Open,11:31 PM,654-475-7822,true,false,265-82-1018
+690,false,false,"Paucek, Barrows and Swaniawski",81.97,1023,http://dummyimage.com/202x182.bmp/cc0000/ffffff,Babblestorm,Close,10:11 PM,973-289-4108,false,false,763-22-9399
+691,true,true,"Kemmer, Schamberger and Gusikowski",77.84,1011,http://dummyimage.com/207x134.png/ff4444/ffffff,Talane,Open,7:52 PM,749-231-9795,true,true,758-71-7257
+692,true,true,"Hilll, Osinski and Kulas",1.27,1012,http://dummyimage.com/148x243.jpg/5fa2dd/ffffff,Fivebridge,Close,10:06 PM,310-627-5635,false,false,699-73-1474
+693,false,true,Kessler Group,21.64,1002,http://dummyimage.com/215x124.bmp/5fa2dd/ffffff,Oba,Close,11:57 PM,877-652-1034,true,false,580-88-3281
+694,false,true,Lowe Group,83.16,1020,http://dummyimage.com/164x200.jpg/ff4444/ffffff,Buzzdog,Close,9:11 PM,986-669-4676,false,false,300-58-9368
+695,true,true,Deckow Group,29.74,1002,http://dummyimage.com/144x210.png/cc0000/ffffff,Linkbuzz,Open,6:29 PM,703-130-3682,true,true,344-79-9975
+696,true,false,Shields LLC,84.74,1005,http://dummyimage.com/191x117.bmp/ff4444/ffffff,Mybuzz,Open,10:13 PM,998-834-9814,false,false,335-47-9427
+697,false,false,Labadie-VonRueden,59.38,1019,http://dummyimage.com/180x196.png/dddddd/000000,Kimia,Close,6:51 PM,887-628-1192,true,true,631-26-5437
+698,false,false,"Barton, Spinka and Lemke",68.39,1003,http://dummyimage.com/140x120.bmp/ff4444/ffffff,Innotype,Open,7:52 PM,717-908-1581,true,false,353-15-0153
+699,true,false,Hyatt LLC,3.71,1001,http://dummyimage.com/154x167.bmp/5fa2dd/ffffff,Zoomzone,Open,9:48 PM,811-178-5286,false,false,335-30-5653
+700,false,false,"Jast, Effertz and Bailey",86.34,1019,http://dummyimage.com/127x138.bmp/cc0000/ffffff,Tazzy,Close,8:49 PM,432-744-7453,false,true,518-66-8514
+701,true,false,Gerlach-Gleichner,35.55,1024,http://dummyimage.com/156x195.png/5fa2dd/ffffff,Topiclounge,Close,8:57 PM,576-698-6513,false,true,534-39-3161
+702,false,true,Macejkovic LLC,23.32,1020,http://dummyimage.com/120x248.bmp/cc0000/ffffff,Roomm,Close,9:44 PM,366-182-4689,false,false,898-93-6726
+703,true,false,"Lueilwitz, Toy and Mann",17.58,1021,http://dummyimage.com/111x167.png/5fa2dd/ffffff,Dazzlesphere,Close,9:54 PM,438-835-5151,true,false,403-55-4761
+704,true,false,Emard-Wyman,41.37,1006,http://dummyimage.com/190x125.jpg/ff4444/ffffff,Meemm,Close,7:18 PM,106-241-4325,false,false,369-46-1063
+705,true,true,"Stamm, Breitenberg and Yundt",95.17,1014,http://dummyimage.com/155x164.bmp/dddddd/000000,Pixope,Open,6:51 PM,888-680-8715,true,false,493-42-7780
+706,true,true,Zboncak LLC,67.93,1004,http://dummyimage.com/101x247.bmp/dddddd/000000,Livepath,Close,9:45 PM,369-583-4966,false,true,409-47-9810
+707,false,true,"Johnston, Greenholt and Yundt",2.59,1016,http://dummyimage.com/231x215.bmp/dddddd/000000,Eidel,Open,8:21 PM,376-831-4594,true,true,107-31-2782
+708,false,false,Mante LLC,47.74,1002,http://dummyimage.com/246x156.png/5fa2dd/ffffff,Realcube,Close,6:10 PM,851-527-7641,false,false,323-42-2778
+709,true,true,"Marquardt, Rempel and Schiller",66.68,1014,http://dummyimage.com/168x154.bmp/cc0000/ffffff,Cogibox,Open,6:26 PM,912-560-7873,true,false,797-23-4000
+710,false,false,"Christiansen, Thompson and Smitham",39.4,1000,http://dummyimage.com/138x214.jpg/ff4444/ffffff,Skajo,Open,6:09 PM,477-966-1412,true,true,679-55-3866
+711,false,false,Davis Group,36.42,1002,http://dummyimage.com/190x154.png/ff4444/ffffff,Brightdog,Open,6:32 PM,481-241-9367,true,true,513-52-5302
+712,false,true,Morissette Inc,82.18,1001,http://dummyimage.com/180x153.bmp/cc0000/ffffff,Flipopia,Close,11:43 PM,683-441-2971,true,false,247-25-0668
+713,false,true,"Konopelski, Farrell and Schamberger",88.11,1001,http://dummyimage.com/176x109.png/dddddd/000000,Linkbridge,Open,7:40 PM,934-664-7216,false,true,565-94-7583
+714,true,true,Windler Group,91.05,1012,http://dummyimage.com/246x237.png/cc0000/ffffff,Aimbu,Close,11:25 PM,471-863-3604,true,true,380-63-4814
+715,true,false,"McCullough, Keebler and Lowe",79.73,1013,http://dummyimage.com/247x140.png/dddddd/000000,Eare,Close,6:29 PM,512-660-3184,false,true,464-11-9094
+716,false,false,Willms and Sons,12.84,1010,http://dummyimage.com/250x141.png/ff4444/ffffff,Fivebridge,Close,9:15 PM,579-781-0190,true,true,617-84-2431
+717,true,false,"Wuckert, Leannon and Hansen",34.35,1012,http://dummyimage.com/185x126.jpg/dddddd/000000,Photobug,Open,8:52 PM,637-591-0795,false,false,254-04-1578
+718,true,true,"Mills, Kemmer and Heaney",3.3,1003,http://dummyimage.com/123x111.png/5fa2dd/ffffff,Demizz,Close,8:52 PM,921-648-6032,false,false,879-24-8481
+719,true,true,McCullough Inc,91.85,1016,http://dummyimage.com/189x153.png/5fa2dd/ffffff,Feedfish,Close,6:35 PM,872-482-8266,true,false,762-49-1253
+720,false,false,Brown-Predovic,68.71,1011,http://dummyimage.com/172x228.jpg/ff4444/ffffff,Yacero,Open,7:43 PM,697-280-3376,false,true,164-55-1418
+721,true,false,Ullrich Group,13.55,1017,http://dummyimage.com/214x107.png/ff4444/ffffff,LiveZ,Open,11:10 PM,283-401-9711,true,true,780-04-0400
+722,true,false,Conroy-Hermann,45.6,1014,http://dummyimage.com/218x248.bmp/ff4444/ffffff,Buzzbean,Open,10:48 PM,296-589-6282,true,false,546-77-3991
+723,true,true,"Kassulke, Parisian and VonRueden",64.34,1025,http://dummyimage.com/237x159.jpg/5fa2dd/ffffff,Brainlounge,Open,6:03 PM,654-522-3221,false,true,564-01-7369
+724,true,true,Lehner-Bednar,86.58,1000,http://dummyimage.com/171x148.png/5fa2dd/ffffff,Devcast,Close,7:54 PM,192-568-9521,false,true,826-58-7389
+725,true,true,Murray-Swift,96.48,1002,http://dummyimage.com/187x238.png/cc0000/ffffff,Tagpad,Open,7:22 PM,334-726-6595,false,true,898-82-0110
+726,true,true,Goldner-Zulauf,41.65,1020,http://dummyimage.com/228x153.bmp/cc0000/ffffff,Fivespan,Close,7:30 PM,491-259-9778,false,false,330-49-6145
+727,false,true,"Hoppe, Glover and Legros",53.41,1017,http://dummyimage.com/208x219.jpg/cc0000/ffffff,Fatz,Open,6:49 PM,384-474-1256,true,true,161-03-2303
+728,false,true,Jakubowski and Sons,83.9,1010,http://dummyimage.com/240x147.bmp/5fa2dd/ffffff,Gabvine,Close,8:41 PM,700-274-9313,true,false,544-31-8815
+729,true,true,Ryan-Flatley,95.59,1012,http://dummyimage.com/156x176.bmp/cc0000/ffffff,Oyope,Close,9:16 PM,258-694-9685,false,true,844-75-3556
+730,true,false,Emmerich-Jacobson,25.15,1006,http://dummyimage.com/189x209.png/dddddd/000000,Eazzy,Open,6:07 PM,534-500-5171,true,false,500-76-2634
+731,false,true,Orn-Maggio,97.2,1021,http://dummyimage.com/190x202.png/5fa2dd/ffffff,Thoughtstorm,Open,10:40 PM,614-401-4176,false,false,812-35-0211
+732,false,false,"Jaskolski, Mayer and Bechtelar",32.51,1004,http://dummyimage.com/186x220.png/5fa2dd/ffffff,Janyx,Close,8:12 PM,807-146-7956,false,false,263-95-4560
+733,true,false,"Treutel, Koss and Stark",5.33,1006,http://dummyimage.com/172x149.bmp/5fa2dd/ffffff,Tanoodle,Close,9:43 PM,924-668-0456,true,false,724-07-2142
+734,false,false,"Bartoletti, Friesen and Erdman",44.61,1025,http://dummyimage.com/227x249.bmp/dddddd/000000,Innotype,Close,8:20 PM,555-815-2672,true,true,580-52-7088
+735,false,false,Shanahan LLC,12.64,1019,http://dummyimage.com/113x110.png/5fa2dd/ffffff,Ntags,Close,8:35 PM,988-753-7273,false,true,353-08-4156
+736,true,false,"Crist, McLaughlin and Zulauf",38.07,1019,http://dummyimage.com/199x151.png/ff4444/ffffff,Tazzy,Open,11:01 PM,853-292-3064,false,true,458-63-5051
+737,false,false,Dare-Parker,18.65,1021,http://dummyimage.com/119x104.png/cc0000/ffffff,Eadel,Open,6:17 PM,241-352-0741,true,true,639-70-9338
+738,true,true,Armstrong Inc,22.84,1005,http://dummyimage.com/225x167.bmp/ff4444/ffffff,Kwideo,Close,11:45 PM,386-274-2392,false,true,578-52-3357
+739,true,false,"Kohler, Murphy and Stoltenberg",83.82,1022,http://dummyimage.com/138x120.bmp/dddddd/000000,Realfire,Open,7:50 PM,563-537-1663,true,true,394-74-3477
+740,false,false,"Ruecker, Fritsch and Nader",34.76,1020,http://dummyimage.com/122x141.bmp/cc0000/ffffff,Feedfish,Open,9:25 PM,867-712-2801,false,true,590-18-3880
+741,false,true,Kshlerin-Yundt,85.06,1013,http://dummyimage.com/219x211.jpg/dddddd/000000,Fivespan,Close,11:00 PM,262-421-0356,true,false,161-52-8590
+742,false,false,"Kohler, Lang and Considine",89.79,1021,http://dummyimage.com/125x155.jpg/cc0000/ffffff,Geba,Close,9:48 PM,649-807-1646,true,false,201-64-5596
+743,false,false,Haag LLC,82.6,1022,http://dummyimage.com/243x214.png/cc0000/ffffff,Realcube,Open,11:57 PM,465-270-1859,true,false,856-95-1213
+744,true,true,Harvey Group,84.14,1020,http://dummyimage.com/205x126.jpg/ff4444/ffffff,Thoughtstorm,Close,9:43 PM,519-707-0705,false,false,556-86-9087
+745,true,false,"Harvey, McGlynn and Little",90.64,1001,http://dummyimage.com/162x169.bmp/dddddd/000000,Tagchat,Close,11:45 PM,550-116-7002,false,false,200-93-3846
+746,false,true,"Vandervort, Jaskolski and Franecki",97.33,1017,http://dummyimage.com/184x164.png/ff4444/ffffff,Rhynoodle,Open,9:32 PM,987-779-8087,true,true,292-63-1244
+747,false,false,"Cronin, Stracke and Tremblay",96.81,1001,http://dummyimage.com/127x131.jpg/cc0000/ffffff,Livetube,Open,8:04 PM,580-930-4699,false,true,836-17-2708
+748,false,false,Kautzer-Weissnat,99.96,1001,http://dummyimage.com/243x156.png/cc0000/ffffff,Fivebridge,Open,11:15 PM,943-293-1934,true,false,858-47-9879
+749,false,true,"Hammes, Carroll and Ankunding",96.1,1019,http://dummyimage.com/212x193.png/5fa2dd/ffffff,Oozz,Open,6:51 PM,347-361-8583,false,false,379-76-7632
+750,false,false,"Kunde, West and Rohan",90.91,1003,http://dummyimage.com/203x182.jpg/5fa2dd/ffffff,Yakijo,Open,9:10 PM,307-152-7896,false,true,240-46-9053
+751,false,true,Reichel and Sons,50.57,1019,http://dummyimage.com/199x209.png/cc0000/ffffff,Abata,Close,10:08 PM,245-158-7763,true,false,685-55-5237
+752,true,false,Harris-McClure,5.04,1003,http://dummyimage.com/178x146.png/dddddd/000000,Skidoo,Open,7:43 PM,402-500-5403,false,true,890-81-1179
+753,false,false,Kutch-Schroeder,44.64,1023,http://dummyimage.com/235x206.jpg/cc0000/ffffff,Rhynyx,Open,10:48 PM,648-917-2373,true,false,525-52-7718
+754,false,true,McGlynn-Crona,28.57,1019,http://dummyimage.com/201x238.jpg/cc0000/ffffff,Jabberbean,Close,9:57 PM,231-918-0003,true,false,339-07-0203
+755,true,false,"Wisozk, McCullough and Kutch",22.25,1009,http://dummyimage.com/244x107.bmp/dddddd/000000,Devpulse,Open,6:27 PM,736-163-3378,false,true,486-34-1533
+756,true,true,Raynor-Lowe,82.69,1014,http://dummyimage.com/113x224.bmp/cc0000/ffffff,Avaveo,Close,6:38 PM,820-630-5627,true,true,268-69-5003
+757,true,false,"Schumm, Bartell and Reilly",50.63,1017,http://dummyimage.com/168x229.jpg/ff4444/ffffff,Reallinks,Open,6:46 PM,678-923-4141,true,false,497-27-8731
+758,false,true,"Cummerata, Ziemann and Johns",42.86,1010,http://dummyimage.com/110x119.png/ff4444/ffffff,Zoomlounge,Close,8:59 PM,691-699-6949,false,false,389-30-7106
+759,true,true,Yundt-Kshlerin,6.51,1004,http://dummyimage.com/155x231.bmp/5fa2dd/ffffff,Tagpad,Close,6:48 PM,810-520-8072,true,false,390-03-6451
+760,false,true,Terry-Doyle,6.28,1004,http://dummyimage.com/120x156.jpg/cc0000/ffffff,Katz,Close,8:29 PM,193-405-7173,false,true,829-34-2542
+761,true,true,Mitchell-McClure,20.99,1013,http://dummyimage.com/134x200.png/ff4444/ffffff,Yakijo,Close,8:24 PM,802-778-8929,true,true,521-40-7105
+762,true,true,"Gislason, Yundt and Kuhlman",86.79,1014,http://dummyimage.com/203x120.bmp/ff4444/ffffff,DabZ,Open,9:13 PM,130-663-7386,false,true,361-60-7128
+763,false,false,Hackett and Sons,2.24,1017,http://dummyimage.com/178x194.bmp/dddddd/000000,Eidel,Close,8:06 PM,877-180-9759,false,false,684-34-2807
+764,false,false,Price LLC,85.04,1008,http://dummyimage.com/128x147.bmp/cc0000/ffffff,Zoomdog,Close,6:32 PM,433-244-3101,true,false,662-31-3656
+765,true,false,"Stanton, Armstrong and Schuppe",8.7,1013,http://dummyimage.com/226x139.png/dddddd/000000,Twitterlist,Close,6:08 PM,642-326-1809,true,true,460-68-6681
+766,true,false,"Lindgren, King and Willms",54.88,1008,http://dummyimage.com/195x149.jpg/cc0000/ffffff,Quatz,Open,11:04 PM,913-685-6825,false,true,152-74-7889
+767,true,true,Powlowski LLC,55.34,1016,http://dummyimage.com/117x170.png/5fa2dd/ffffff,Meevee,Open,6:30 PM,807-507-7886,true,false,493-15-7916
+768,false,true,"Graham, Carter and Huels",11.79,1023,http://dummyimage.com/119x146.jpg/dddddd/000000,Nlounge,Close,7:26 PM,983-493-9393,false,true,612-19-9784
+769,true,false,Boyer-Kerluke,82.24,1011,http://dummyimage.com/163x113.bmp/cc0000/ffffff,Divavu,Close,7:46 PM,238-358-2855,true,true,616-73-4808
+770,false,false,"Adams, Schmeler and Gerlach",83.82,1003,http://dummyimage.com/228x248.png/dddddd/000000,Twimm,Close,10:40 PM,659-145-0152,true,true,545-49-1985
+771,false,false,"Ondricka, Wunsch and Rice",47.63,1002,http://dummyimage.com/250x226.jpg/5fa2dd/ffffff,Tagchat,Open,8:27 PM,289-361-7381,true,true,753-95-5292
+772,true,true,Rippin LLC,60.59,1005,http://dummyimage.com/175x132.png/5fa2dd/ffffff,Divavu,Open,9:21 PM,535-758-9152,false,true,872-33-4696
+773,true,false,Farrell LLC,72.41,1002,http://dummyimage.com/142x248.jpg/cc0000/ffffff,Rhynyx,Open,10:03 PM,910-844-5415,false,false,699-27-7022
+774,true,true,"Bernier, Hansen and Trantow",77.67,1004,http://dummyimage.com/110x182.bmp/cc0000/ffffff,Zoombox,Open,9:50 PM,788-885-0766,true,false,263-25-5008
+775,true,true,Heathcote-Schultz,10.69,1024,http://dummyimage.com/146x214.jpg/ff4444/ffffff,Zoomcast,Close,9:36 PM,999-449-7829,false,true,821-38-7127
+776,false,false,"Schuppe, Murray and Labadie",75.33,1011,http://dummyimage.com/127x195.jpg/ff4444/ffffff,Devpulse,Open,10:56 PM,752-358-0213,true,false,829-35-0014
+777,false,false,"Labadie, Schowalter and Schultz",65.61,1017,http://dummyimage.com/237x169.jpg/ff4444/ffffff,Gigazoom,Open,7:01 PM,652-803-1744,false,true,431-37-5689
+778,false,false,"Leffler, Romaguera and Franecki",29.1,1013,http://dummyimage.com/143x126.png/dddddd/000000,Dabfeed,Close,11:27 PM,777-378-4051,false,true,523-23-7916
+779,false,true,Bahringer-Hayes,76.86,1000,http://dummyimage.com/226x110.png/cc0000/ffffff,Yabox,Close,11:48 PM,379-506-5551,true,true,549-99-3425
+780,false,false,"Willms, Padberg and Hintz",19.0,1011,http://dummyimage.com/132x209.png/cc0000/ffffff,Voolia,Close,11:28 PM,831-592-2273,false,true,600-43-4283
+781,true,true,Daugherty-Stanton,40.21,1003,http://dummyimage.com/230x160.jpg/5fa2dd/ffffff,Yombu,Open,6:23 PM,831-428-7786,false,true,898-42-9149
+782,false,true,Murray and Sons,72.57,1013,http://dummyimage.com/208x125.jpg/dddddd/000000,Camimbo,Open,10:23 PM,476-708-2854,true,false,487-16-2122
+783,false,false,Wisozk LLC,41.71,1020,http://dummyimage.com/232x185.jpg/cc0000/ffffff,Gigabox,Open,7:55 PM,541-420-8495,false,false,663-79-9859
+784,true,false,Davis-Cartwright,24.73,1012,http://dummyimage.com/198x210.png/ff4444/ffffff,Eimbee,Open,10:08 PM,216-924-2049,true,true,195-16-6204
+785,false,true,Turner-Considine,87.14,1004,http://dummyimage.com/181x199.png/5fa2dd/ffffff,Voonyx,Close,11:53 PM,610-989-2497,true,true,531-58-1408
+786,true,false,Rath-Wilkinson,66.97,1020,http://dummyimage.com/136x172.bmp/5fa2dd/ffffff,Meetz,Open,10:46 PM,450-438-6031,true,true,592-95-9547
+787,false,true,Ankunding-Schamberger,36.89,1017,http://dummyimage.com/249x193.bmp/dddddd/000000,Photojam,Close,10:17 PM,532-437-0148,true,false,359-39-1166
+788,false,false,"Powlowski, Nikolaus and Kshlerin",70.33,1023,http://dummyimage.com/159x249.jpg/cc0000/ffffff,Twiyo,Open,11:17 PM,535-598-2082,true,true,275-36-5200
+789,true,false,"Hamill, Hayes and Leannon",60.04,1005,http://dummyimage.com/189x220.png/cc0000/ffffff,Rhynyx,Open,10:59 PM,502-536-0785,true,false,757-74-2287
+790,false,true,Dach Inc,86.87,1005,http://dummyimage.com/142x161.bmp/5fa2dd/ffffff,Rhyzio,Close,11:52 PM,649-599-0603,false,false,554-40-7732
+791,false,false,Gottlieb LLC,85.56,1015,http://dummyimage.com/141x200.png/ff4444/ffffff,Midel,Open,11:00 PM,383-175-1624,true,true,505-57-8111
+792,true,true,Hoppe Group,2.16,1006,http://dummyimage.com/227x163.png/5fa2dd/ffffff,Bluezoom,Close,9:00 PM,891-479-3364,false,false,164-18-5876
+793,true,false,"Wisozk, Dickinson and Luettgen",23.08,1006,http://dummyimage.com/234x145.bmp/ff4444/ffffff,Jaxspan,Open,10:33 PM,917-125-2928,true,true,100-88-9570
+794,false,false,Blanda Group,39.65,1005,http://dummyimage.com/217x184.bmp/dddddd/000000,Pixoboo,Close,9:12 PM,428-486-5900,true,false,586-11-2562
+795,false,true,Ebert-Rempel,89.89,1019,http://dummyimage.com/144x163.bmp/dddddd/000000,Quatz,Open,8:18 PM,558-260-2299,false,false,552-10-4055
+796,false,false,Weimann and Sons,35.0,1021,http://dummyimage.com/157x158.bmp/cc0000/ffffff,Lazzy,Open,10:10 PM,919-654-0197,true,true,126-80-4032
+797,false,false,Langosh LLC,80.01,1020,http://dummyimage.com/212x108.png/dddddd/000000,Buzzster,Close,8:24 PM,737-520-0602,false,true,517-69-4680
+798,false,false,Spencer Inc,24.91,1001,http://dummyimage.com/104x150.png/5fa2dd/ffffff,Jabbercube,Open,10:28 PM,919-869-8108,false,true,693-48-6275
+799,false,true,Reynolds-Reinger,43.03,1020,http://dummyimage.com/104x205.png/dddddd/000000,Eare,Close,7:51 PM,114-946-7990,false,true,493-77-2679
+800,true,false,Glover-Kris,63.61,1016,http://dummyimage.com/229x123.jpg/5fa2dd/ffffff,Quinu,Open,11:19 PM,198-604-0890,true,true,123-01-7626
+801,true,false,"DuBuque, Barrows and Turner",49.04,1007,http://dummyimage.com/231x162.jpg/ff4444/ffffff,Einti,Open,6:42 PM,852-945-8385,true,false,839-05-0236
+802,true,true,Beahan-McGlynn,90.05,1002,http://dummyimage.com/159x210.bmp/dddddd/000000,Edgewire,Close,10:51 PM,178-942-9777,false,true,738-31-6206
+803,true,true,Sporer Inc,99.76,1019,http://dummyimage.com/221x139.png/dddddd/000000,DabZ,Close,10:28 PM,203-666-8987,true,true,217-79-4422
+804,true,true,Dietrich LLC,88.4,1001,http://dummyimage.com/103x129.jpg/cc0000/ffffff,Avamm,Close,9:10 PM,264-685-6145,false,true,211-77-9714
+805,false,true,Sanford-Considine,62.35,1013,http://dummyimage.com/123x178.jpg/ff4444/ffffff,Viva,Open,7:54 PM,496-157-7522,false,false,559-50-1740
+806,false,true,"Thiel, Kuhic and Schinner",96.73,1020,http://dummyimage.com/139x209.bmp/5fa2dd/ffffff,Zoomlounge,Close,11:37 PM,795-441-0481,true,true,571-46-8488
+807,true,false,Donnelly Group,29.47,1011,http://dummyimage.com/175x128.jpg/ff4444/ffffff,Eidel,Open,9:09 PM,892-949-9914,false,true,422-42-3464
+808,false,true,Lehner and Sons,4.24,1015,http://dummyimage.com/213x194.jpg/cc0000/ffffff,Jaloo,Open,7:45 PM,380-267-5454,false,true,864-47-6002
+809,true,false,Barrows-Shields,24.28,1009,http://dummyimage.com/207x220.bmp/dddddd/000000,Dabjam,Close,11:37 PM,108-112-2500,true,false,719-79-7565
+810,true,true,Friesen LLC,25.2,1013,http://dummyimage.com/186x151.bmp/5fa2dd/ffffff,Thoughtblab,Close,10:55 PM,770-635-2180,false,false,641-82-0523
+811,false,false,Kassulke Inc,40.82,1001,http://dummyimage.com/141x155.bmp/cc0000/ffffff,Lazzy,Close,8:56 PM,345-180-9824,false,true,300-33-6387
+812,true,true,Yost-Paucek,94.19,1005,http://dummyimage.com/145x240.png/dddddd/000000,Blogspan,Close,8:23 PM,499-204-7737,false,true,565-95-5357
+813,false,false,Reynolds Inc,65.43,1019,http://dummyimage.com/188x125.jpg/ff4444/ffffff,Aimbu,Close,7:27 PM,512-232-7403,false,false,789-50-8824
+814,true,false,Mills-Balistreri,55.29,1014,http://dummyimage.com/151x203.bmp/ff4444/ffffff,Twitterworks,Close,6:00 PM,143-185-2076,true,true,477-26-7960
+815,true,false,"Sawayn, Kassulke and Green",66.47,1017,http://dummyimage.com/162x226.png/dddddd/000000,Voonte,Close,11:28 PM,759-343-4195,false,false,148-58-0796
+816,true,true,Homenick and Sons,39.08,1001,http://dummyimage.com/203x216.jpg/dddddd/000000,Voonyx,Close,11:08 PM,245-909-9122,true,false,530-04-0306
+817,false,false,Skiles and Sons,64.56,1015,http://dummyimage.com/241x123.png/5fa2dd/ffffff,Photofeed,Open,7:47 PM,909-279-8048,false,true,162-35-1964
+818,false,false,"Metz, Predovic and Buckridge",69.53,1014,http://dummyimage.com/165x195.jpg/dddddd/000000,Gabvine,Open,7:06 PM,600-364-8662,true,true,885-69-1468
+819,false,true,Emmerich-Satterfield,52.16,1018,http://dummyimage.com/155x107.png/cc0000/ffffff,Katz,Close,6:06 PM,310-488-3322,true,false,232-16-8236
+820,true,true,Dare and Sons,10.13,1006,http://dummyimage.com/222x144.bmp/dddddd/000000,Thoughtbeat,Close,8:49 PM,401-883-9776,true,true,776-46-4703
+821,false,false,Moore Group,78.47,1005,http://dummyimage.com/198x234.bmp/cc0000/ffffff,Edgeify,Close,6:37 PM,738-196-2498,false,true,501-19-0606
+822,false,false,"Braun, Aufderhar and Spencer",57.09,1010,http://dummyimage.com/125x143.bmp/ff4444/ffffff,Roomm,Open,9:00 PM,272-178-0716,true,true,592-33-3148
+823,true,false,Bruen and Sons,38.36,1019,http://dummyimage.com/190x193.bmp/dddddd/000000,Divanoodle,Close,7:37 PM,477-528-3986,false,false,888-01-9917
+824,false,true,"Watsica, Swift and Larson",6.22,1019,http://dummyimage.com/170x170.bmp/ff4444/ffffff,Innojam,Open,11:41 PM,706-498-1522,false,false,442-21-7237
+825,false,false,Hand-Stoltenberg,86.5,1016,http://dummyimage.com/204x206.bmp/ff4444/ffffff,Zoombox,Close,11:28 PM,695-654-5463,false,true,836-95-3514
+826,false,false,"D'Amore, Goldner and Lehner",42.24,1023,http://dummyimage.com/140x235.png/cc0000/ffffff,Twinte,Open,7:58 PM,979-761-5650,true,false,713-44-9112
+827,false,true,"Dicki, Howe and Goldner",93.27,1013,http://dummyimage.com/201x205.bmp/5fa2dd/ffffff,Mymm,Open,10:15 PM,701-478-5634,false,false,832-19-4050
+828,true,false,Klein-Schowalter,10.82,1010,http://dummyimage.com/202x228.png/ff4444/ffffff,Zoomdog,Close,11:54 PM,657-428-2430,true,false,689-97-5133
+829,true,false,Padberg Inc,40.1,1002,http://dummyimage.com/234x157.bmp/5fa2dd/ffffff,Digitube,Close,6:33 PM,283-890-6025,true,false,501-72-0878
+830,true,true,Abernathy-Aufderhar,93.38,1016,http://dummyimage.com/178x136.jpg/cc0000/ffffff,Browsetype,Open,7:01 PM,140-650-7141,true,false,796-28-2307
+831,false,true,Frami-Armstrong,63.56,1000,http://dummyimage.com/178x113.bmp/5fa2dd/ffffff,Quaxo,Close,8:09 PM,533-818-0177,false,true,607-93-9727
+832,true,true,Steuber Group,66.86,1017,http://dummyimage.com/247x135.png/ff4444/ffffff,InnoZ,Open,6:59 PM,315-669-7444,true,false,314-75-4145
+833,true,true,Maggio-Satterfield,80.86,1008,http://dummyimage.com/176x202.bmp/cc0000/ffffff,Jetpulse,Close,7:59 PM,321-802-1502,true,true,633-48-7373
+834,true,false,"Gottlieb, Waelchi and Sanford",36.11,1016,http://dummyimage.com/157x193.jpg/ff4444/ffffff,Twinte,Close,11:34 PM,550-565-1529,false,true,391-10-4522
+835,false,false,Lesch-Bins,31.21,1016,http://dummyimage.com/200x131.bmp/cc0000/ffffff,Shufflester,Open,9:25 PM,184-792-0460,false,false,449-93-9669
+836,true,false,Nienow-Rowe,35.62,1002,http://dummyimage.com/138x190.png/ff4444/ffffff,Agimba,Open,6:30 PM,771-268-1463,false,false,671-19-4106
+837,false,true,Hodkiewicz-Koepp,40.67,1022,http://dummyimage.com/213x125.png/dddddd/000000,Yakidoo,Close,11:53 PM,271-392-7876,true,true,806-74-6413
+838,false,true,Johnson and Sons,79.85,1007,http://dummyimage.com/182x209.jpg/cc0000/ffffff,Trudoo,Close,10:18 PM,815-348-8652,true,false,891-45-6124
+839,false,true,Kreiger Inc,97.94,1001,http://dummyimage.com/108x174.png/ff4444/ffffff,Skivee,Close,8:49 PM,497-426-9855,true,true,253-24-4946
+840,false,false,Tillman Group,2.34,1000,http://dummyimage.com/122x236.bmp/cc0000/ffffff,Gigazoom,Open,10:19 PM,175-282-3641,true,true,891-66-3351
+841,false,false,Koss Group,11.46,1001,http://dummyimage.com/130x114.png/5fa2dd/ffffff,Feedspan,Open,7:41 PM,403-955-6487,true,true,153-47-1609
+842,false,false,Hilll-Lemke,69.24,1022,http://dummyimage.com/242x204.png/5fa2dd/ffffff,Skyndu,Close,9:41 PM,180-313-4054,true,false,444-08-6333
+843,true,false,"Gerhold, Klocko and Batz",87.25,1009,http://dummyimage.com/101x146.png/cc0000/ffffff,Rhynyx,Close,6:09 PM,704-357-0568,true,true,878-54-6478
+844,true,true,"Funk, Bergnaum and Roberts",25.1,1016,http://dummyimage.com/189x245.jpg/ff4444/ffffff,Edgeify,Close,8:40 PM,419-510-8777,false,true,595-77-6774
+845,true,false,Barrows-Friesen,98.42,1024,http://dummyimage.com/122x136.jpg/5fa2dd/ffffff,Twitterwire,Close,7:35 PM,132-605-7337,true,true,446-58-3319
+846,true,false,Emard and Sons,3.35,1012,http://dummyimage.com/112x199.png/cc0000/ffffff,Yakidoo,Open,11:22 PM,933-330-3112,true,false,744-68-0148
+847,false,true,"Mueller, Rodriguez and Kunze",59.48,1014,http://dummyimage.com/224x197.jpg/5fa2dd/ffffff,Blogtags,Close,6:35 PM,759-743-6601,false,false,151-56-7978
+848,true,false,Fadel-Cummerata,1.08,1002,http://dummyimage.com/244x177.png/5fa2dd/ffffff,Kwilith,Open,6:05 PM,947-727-3501,false,false,509-87-2905
+849,true,false,"Deckow, Cruickshank and Goyette",84.79,1001,http://dummyimage.com/228x191.bmp/ff4444/ffffff,Jabbercube,Open,6:52 PM,924-406-1067,false,false,729-11-9793
+850,false,true,"Wilderman, Bernier and Thompson",84.51,1021,http://dummyimage.com/174x140.png/ff4444/ffffff,Brainsphere,Open,10:48 PM,106-680-0544,true,true,258-50-3590
+851,true,true,Cormier-Schmitt,67.05,1011,http://dummyimage.com/112x213.png/cc0000/ffffff,Tazz,Open,10:28 PM,326-793-9798,true,false,749-16-3001
+852,true,true,Metz and Sons,44.06,1024,http://dummyimage.com/122x228.jpg/cc0000/ffffff,Izio,Open,6:30 PM,626-644-9975,false,true,837-86-0413
+853,false,false,Wisozk-Lindgren,37.4,1016,http://dummyimage.com/123x173.bmp/dddddd/000000,Kayveo,Open,6:22 PM,881-899-1583,true,false,334-89-2510
+854,false,true,Stanton and Sons,65.6,1025,http://dummyimage.com/101x123.jpg/dddddd/000000,Podcat,Open,10:20 PM,179-618-4180,false,false,549-53-6449
+855,true,false,"Legros, Leffler and McLaughlin",32.57,1006,http://dummyimage.com/236x107.bmp/dddddd/000000,Buzzshare,Close,10:17 PM,280-489-5776,false,true,250-56-9439
+856,true,false,Hodkiewicz LLC,83.08,1008,http://dummyimage.com/249x152.jpg/cc0000/ffffff,Brainlounge,Close,11:17 PM,539-804-9124,false,false,204-72-3348
+857,false,false,"Anderson, Upton and Legros",48.6,1001,http://dummyimage.com/102x159.jpg/cc0000/ffffff,Rooxo,Open,10:23 PM,549-460-5677,false,false,216-68-9599
+858,true,true,Carroll-Schmidt,61.9,1003,http://dummyimage.com/195x131.png/cc0000/ffffff,Fivespan,Close,8:24 PM,289-331-5162,true,false,267-75-2078
+859,true,false,Prohaska LLC,49.03,1012,http://dummyimage.com/236x195.bmp/5fa2dd/ffffff,Npath,Close,9:30 PM,441-389-1393,true,true,592-21-3069
+860,false,true,"Hilll, Nikolaus and Johnston",3.93,1007,http://dummyimage.com/137x175.png/cc0000/ffffff,Jabbersphere,Close,8:42 PM,351-829-9566,false,false,838-41-6621
+861,false,false,"Christiansen, Hoeger and Pouros",4.56,1015,http://dummyimage.com/189x136.png/ff4444/ffffff,Topicware,Close,7:57 PM,526-567-9580,true,true,286-49-5377
+862,false,false,"Sporer, Tromp and Reilly",41.38,1006,http://dummyimage.com/181x159.bmp/ff4444/ffffff,Kare,Close,10:43 PM,440-229-0815,true,false,536-74-1431
+863,true,false,Marks and Sons,14.88,1009,http://dummyimage.com/155x194.png/cc0000/ffffff,Buzzshare,Open,10:56 PM,354-147-2453,false,true,824-41-1629
+864,true,false,McKenzie-Berge,14.39,1007,http://dummyimage.com/203x200.bmp/5fa2dd/ffffff,Muxo,Close,11:17 PM,721-915-7058,false,false,730-47-4481
+865,true,false,Frami-Stroman,2.62,1015,http://dummyimage.com/240x196.bmp/5fa2dd/ffffff,Yombu,Open,6:42 PM,429-169-6709,false,true,700-88-1179
+866,true,false,Dickens-Mills,29.31,1011,http://dummyimage.com/128x115.jpg/ff4444/ffffff,Jetpulse,Open,11:01 PM,946-708-4664,true,false,379-11-8920
+867,false,false,Schaden-Gottlieb,65.84,1014,http://dummyimage.com/114x227.jpg/5fa2dd/ffffff,Feedbug,Open,9:43 PM,996-239-0676,true,true,438-57-1690
+868,true,true,Nienow-Labadie,93.23,1018,http://dummyimage.com/210x223.png/cc0000/ffffff,Feedspan,Open,7:30 PM,817-917-4023,true,true,183-64-7714
+869,true,false,Runolfsdottir-Hirthe,13.05,1018,http://dummyimage.com/118x167.jpg/5fa2dd/ffffff,Yakitri,Close,8:47 PM,311-549-8565,false,false,307-15-5141
+870,false,true,Bahringer-Runte,24.12,1007,http://dummyimage.com/209x250.png/5fa2dd/ffffff,Fivespan,Open,7:58 PM,400-251-5245,false,false,341-68-4408
+871,true,false,Fisher and Sons,22.1,1018,http://dummyimage.com/241x226.jpg/ff4444/ffffff,Fliptune,Open,9:51 PM,392-151-2825,false,false,159-59-7916
+872,true,true,Berge LLC,63.51,1020,http://dummyimage.com/147x151.jpg/ff4444/ffffff,Oozz,Close,9:48 PM,305-720-2559,false,false,678-08-4693
+873,true,false,"Keeling, Walker and Keebler",64.96,1015,http://dummyimage.com/177x132.jpg/dddddd/000000,Oyope,Open,9:59 PM,399-536-0866,false,true,547-91-7062
+874,true,true,Hudson Group,72.39,1011,http://dummyimage.com/187x211.bmp/cc0000/ffffff,Dablist,Open,7:56 PM,681-499-1095,true,true,246-16-0097
+875,true,false,Haley-White,15.63,1025,http://dummyimage.com/109x219.bmp/5fa2dd/ffffff,Buzzdog,Close,9:36 PM,795-146-5865,true,true,477-20-6739
+876,false,false,"Pagac, Considine and Kirlin",40.19,1024,http://dummyimage.com/217x220.png/dddddd/000000,Wordware,Open,8:17 PM,460-491-1682,false,false,730-10-9527
+877,false,true,Lowe-Schoen,12.57,1010,http://dummyimage.com/140x102.png/dddddd/000000,Devcast,Close,9:17 PM,500-371-7623,true,true,342-55-3005
+878,false,false,"Dach, Boehm and Okuneva",98.57,1022,http://dummyimage.com/243x110.png/5fa2dd/ffffff,Digitube,Open,11:49 PM,803-972-8996,true,false,446-37-6070
+879,true,true,"Howe, Ziemann and Olson",79.46,1002,http://dummyimage.com/134x166.png/cc0000/ffffff,Bubblebox,Close,7:49 PM,592-280-4296,false,false,386-40-3393
+880,true,true,"Blanda, Upton and Gutkowski",66.93,1005,http://dummyimage.com/107x181.bmp/cc0000/ffffff,Youtags,Open,6:47 PM,780-597-2874,false,true,249-49-3208
+881,false,false,Brown Group,69.2,1002,http://dummyimage.com/162x169.bmp/cc0000/ffffff,Chatterpoint,Open,6:38 PM,432-276-2625,true,false,810-15-0077
+882,true,true,Abbott-O'Keefe,56.25,1016,http://dummyimage.com/242x131.png/5fa2dd/ffffff,Zooveo,Open,7:55 PM,434-642-6159,true,true,431-37-2882
+883,false,false,Greenholt-Boyle,8.85,1005,http://dummyimage.com/142x157.bmp/cc0000/ffffff,Viva,Open,10:43 PM,405-303-1715,false,false,804-51-0338
+884,false,true,"Jerde, Hilll and Buckridge",37.62,1010,http://dummyimage.com/142x123.jpg/dddddd/000000,Skynoodle,Close,7:48 PM,129-582-1133,false,true,193-70-7741
+885,false,false,O'Hara-Bechtelar,75.31,1011,http://dummyimage.com/144x166.png/cc0000/ffffff,Minyx,Open,11:24 PM,309-626-7382,true,false,491-72-3537
+886,true,false,"Stiedemann, Dietrich and Stiedemann",87.81,1008,http://dummyimage.com/242x120.png/cc0000/ffffff,Quatz,Open,6:18 PM,132-992-4027,false,false,786-58-1064
+887,true,true,"Toy, McCullough and Hauck",85.43,1000,http://dummyimage.com/139x222.png/ff4444/ffffff,Eamia,Close,6:24 PM,682-617-2533,true,false,567-06-9507
+888,false,false,Pfeffer-Renner,19.21,1003,http://dummyimage.com/206x173.png/5fa2dd/ffffff,Trunyx,Close,6:39 PM,695-343-9520,false,false,299-97-6945
+889,false,false,Weimann-Hermann,30.75,1012,http://dummyimage.com/122x227.bmp/5fa2dd/ffffff,Kwimbee,Open,10:58 PM,898-324-0165,false,false,229-45-9372
+890,false,false,Gusikowski-Von,66.61,1016,http://dummyimage.com/192x209.png/dddddd/000000,Brainsphere,Open,9:03 PM,733-712-4352,false,false,218-30-2547
+891,false,true,Windler and Sons,42.04,1015,http://dummyimage.com/136x129.jpg/ff4444/ffffff,Riffwire,Close,7:19 PM,666-891-9952,true,false,669-24-6395
+892,false,true,"Klocko, Cronin and Murray",8.91,1007,http://dummyimage.com/209x219.png/dddddd/000000,Snaptags,Open,11:54 PM,114-463-2853,false,false,144-82-9452
+893,true,true,O'Kon-Kohler,27.63,1004,http://dummyimage.com/218x208.bmp/5fa2dd/ffffff,Bubblemix,Close,10:00 PM,488-993-6121,true,false,589-45-7165
+894,true,false,Schultz-King,61.95,1024,http://dummyimage.com/136x170.jpg/cc0000/ffffff,Devify,Open,8:24 PM,484-641-1460,false,false,464-45-1975
+895,false,true,Padberg LLC,6.2,1010,http://dummyimage.com/136x122.png/cc0000/ffffff,Pixonyx,Open,10:07 PM,437-629-8103,false,false,127-73-2803
+896,false,false,Mraz-Boehm,56.48,1000,http://dummyimage.com/181x113.png/cc0000/ffffff,Oyoba,Open,10:41 PM,932-146-1592,false,true,612-01-8032
+897,true,true,"Lockman, Hirthe and Kilback",51.17,1002,http://dummyimage.com/172x159.png/5fa2dd/ffffff,Latz,Close,7:55 PM,205-967-3365,true,false,545-47-5872
+898,false,true,Beatty-Leannon,8.15,1000,http://dummyimage.com/200x157.bmp/cc0000/ffffff,Lazzy,Open,8:17 PM,498-508-4848,true,false,189-85-6431
+899,false,false,"Lindgren, Brakus and Gerhold",82.82,1020,http://dummyimage.com/202x224.bmp/cc0000/ffffff,Skinder,Open,8:21 PM,300-661-3831,false,false,600-31-8861
+900,false,true,Denesik and Sons,20.86,1010,http://dummyimage.com/118x203.jpg/ff4444/ffffff,Aimbu,Open,7:20 PM,615-339-0306,true,false,667-53-7672
+901,false,false,Effertz-Ullrich,69.92,1003,http://dummyimage.com/131x123.bmp/dddddd/000000,Rhybox,Close,6:24 PM,249-420-7681,true,true,368-78-8699
+902,true,false,"Torphy, Koelpin and Leuschke",34.54,1004,http://dummyimage.com/103x185.bmp/ff4444/ffffff,Rooxo,Close,11:26 PM,653-815-3072,true,true,126-82-4896
+903,true,true,"Parker, Lang and Robel",9.19,1025,http://dummyimage.com/244x122.png/ff4444/ffffff,Gabtype,Close,10:19 PM,951-314-0304,false,true,836-41-7688
+904,false,true,"Cassin, Smitham and McGlynn",19.55,1019,http://dummyimage.com/137x157.bmp/ff4444/ffffff,Kare,Close,7:03 PM,572-184-3358,true,false,188-08-6191
+905,true,true,Lemke Group,94.32,1019,http://dummyimage.com/208x102.bmp/cc0000/ffffff,Jetpulse,Open,9:33 PM,767-378-0644,false,false,737-05-7476
+906,false,false,Abernathy-Heathcote,3.2,1011,http://dummyimage.com/127x240.png/5fa2dd/ffffff,Photolist,Open,7:24 PM,307-102-9771,false,false,163-79-9301
+907,false,false,"Schuppe, Carter and Lind",14.08,1004,http://dummyimage.com/131x228.jpg/dddddd/000000,Gabspot,Close,11:39 PM,999-900-7528,true,true,144-09-7596
+908,false,true,Pfannerstill Inc,14.89,1020,http://dummyimage.com/117x238.png/cc0000/ffffff,Edgeclub,Close,9:30 PM,123-653-0738,true,true,380-43-0675
+909,true,true,Stoltenberg-Kertzmann,23.38,1004,http://dummyimage.com/180x240.png/dddddd/000000,Gigabox,Open,11:03 PM,287-704-2771,true,false,186-54-1236
+910,true,true,"Rohan, Lockman and Shields",32.15,1001,http://dummyimage.com/194x124.png/cc0000/ffffff,Linkbuzz,Close,7:31 PM,516-940-6207,true,false,511-58-6701
+911,false,false,Ullrich-Ullrich,86.27,1025,http://dummyimage.com/189x160.jpg/dddddd/000000,Wikizz,Close,7:57 PM,513-163-3788,false,true,697-37-6719
+912,true,true,Gottlieb LLC,38.69,1021,http://dummyimage.com/189x241.jpg/5fa2dd/ffffff,Realbridge,Open,10:02 PM,971-895-0403,true,false,577-38-7181
+913,false,true,Purdy-Hessel,95.22,1007,http://dummyimage.com/227x129.bmp/dddddd/000000,Zoonoodle,Open,10:19 PM,200-152-8824,true,false,205-57-6197
+914,true,true,Kihn and Sons,30.32,1018,http://dummyimage.com/152x222.png/dddddd/000000,Roombo,Open,11:54 PM,990-870-9756,true,false,661-68-8691
+915,false,true,Hickle LLC,69.31,1023,http://dummyimage.com/209x244.png/5fa2dd/ffffff,Feedspan,Open,6:54 PM,760-252-7847,false,true,301-09-1090
+916,false,false,Tromp-Hayes,51.71,1020,http://dummyimage.com/227x240.jpg/5fa2dd/ffffff,Ozu,Close,11:45 PM,473-716-4315,true,true,536-13-8863
+917,false,true,"Christiansen, Lubowitz and Roob",84.73,1010,http://dummyimage.com/200x109.bmp/dddddd/000000,Fadeo,Open,10:39 PM,468-292-0148,false,true,663-80-1485
+918,true,true,Mills-Flatley,36.98,1007,http://dummyimage.com/214x189.jpg/dddddd/000000,Voonix,Close,10:24 PM,283-765-4909,true,true,441-58-1638
+919,false,true,Von Inc,6.35,1025,http://dummyimage.com/132x224.bmp/dddddd/000000,Yacero,Close,7:10 PM,208-215-5721,false,false,601-25-2981
+920,false,true,Rogahn-Zulauf,82.52,1024,http://dummyimage.com/200x223.jpg/cc0000/ffffff,Photofeed,Open,10:45 PM,960-184-5859,false,true,884-80-3034
+921,true,true,West Inc,19.33,1005,http://dummyimage.com/145x107.jpg/dddddd/000000,Viva,Close,7:12 PM,183-247-3955,true,false,527-45-0960
+922,true,false,Rowe Inc,99.83,1017,http://dummyimage.com/176x250.png/cc0000/ffffff,Oodoo,Close,11:47 PM,202-247-4308,true,true,695-65-5166
+923,false,false,Pfeffer Group,59.08,1012,http://dummyimage.com/203x215.png/dddddd/000000,Rooxo,Open,6:20 PM,782-556-0826,true,true,626-11-1540
+924,true,false,Doyle-Cummerata,22.34,1014,http://dummyimage.com/126x247.bmp/5fa2dd/ffffff,Cogidoo,Open,6:08 PM,950-738-9450,true,true,368-36-2179
+925,false,true,Boyle Inc,65.16,1005,http://dummyimage.com/208x173.bmp/dddddd/000000,Riffpath,Close,10:01 PM,601-265-7541,true,true,860-53-5651
+926,true,true,"Upton, Mann and Morissette",6.34,1011,http://dummyimage.com/116x140.png/dddddd/000000,Shuffledrive,Open,10:58 PM,814-810-6934,false,true,769-19-8772
+927,true,true,"Pagac, Ferry and Klein",2.58,1010,http://dummyimage.com/143x138.bmp/5fa2dd/ffffff,Trudoo,Open,7:08 PM,519-890-8356,true,false,809-04-5604
+928,false,false,"O'Reilly, Hodkiewicz and Ward",12.86,1007,http://dummyimage.com/104x212.jpg/dddddd/000000,Meetz,Close,9:09 PM,287-659-5597,true,true,790-77-1314
+929,true,false,"Ritchie, Bayer and Jacobi",9.08,1008,http://dummyimage.com/206x101.jpg/dddddd/000000,Avavee,Open,7:53 PM,736-369-5822,false,false,778-55-8590
+930,true,true,Turner LLC,25.67,1003,http://dummyimage.com/187x140.bmp/dddddd/000000,Shufflester,Close,8:22 PM,142-279-2058,false,true,350-42-3274
+931,true,true,"Lang, Mills and Halvorson",68.6,1019,http://dummyimage.com/133x173.png/ff4444/ffffff,Oyoba,Close,11:18 PM,500-249-3299,false,true,503-71-3327
+932,false,false,Streich Group,10.1,1003,http://dummyimage.com/137x110.png/dddddd/000000,Meedoo,Close,7:39 PM,890-264-0892,false,false,852-31-7799
+933,true,true,Kohler-Effertz,85.89,1006,http://dummyimage.com/138x169.jpg/ff4444/ffffff,Twitterworks,Close,6:33 PM,952-736-9089,true,true,845-49-4862
+934,false,false,"Bins, Kuhn and Jaskolski",10.84,1005,http://dummyimage.com/161x191.bmp/ff4444/ffffff,Oyoloo,Open,10:35 PM,142-170-4268,false,true,789-14-3828
+935,false,false,"Lockman, Kuvalis and Barton",58.18,1008,http://dummyimage.com/167x143.bmp/cc0000/ffffff,Youspan,Close,8:56 PM,853-333-8887,false,true,838-36-4452
+936,false,false,Renner-Hermiston,46.84,1001,http://dummyimage.com/232x128.png/5fa2dd/ffffff,JumpXS,Open,9:36 PM,366-686-1079,false,false,833-50-5318
+937,false,true,"Feeney, Gutkowski and Will",67.21,1005,http://dummyimage.com/150x249.png/dddddd/000000,Quamba,Open,10:08 PM,222-470-2681,true,true,495-36-4718
+938,false,false,"Bauch, Hermann and Medhurst",39.9,1007,http://dummyimage.com/248x214.jpg/cc0000/ffffff,Edgepulse,Close,10:28 PM,601-493-2461,false,false,488-75-3185
+939,false,false,"Balistreri, Witting and Nitzsche",82.09,1012,http://dummyimage.com/104x168.bmp/ff4444/ffffff,Fatz,Close,9:10 PM,276-792-0367,false,true,695-71-7403
+940,false,true,Hilll-Grimes,57.66,1025,http://dummyimage.com/120x220.png/5fa2dd/ffffff,DabZ,Close,10:34 PM,606-551-0290,true,false,382-46-8224
+941,false,true,Klocko-Bernhard,20.71,1008,http://dummyimage.com/194x180.bmp/cc0000/ffffff,Photospace,Open,11:54 PM,342-906-6591,true,false,649-48-5341
+942,true,true,Friesen-Aufderhar,80.85,1020,http://dummyimage.com/149x203.bmp/ff4444/ffffff,Vipe,Open,8:15 PM,934-959-4595,true,false,682-24-2592
+943,true,true,Shields-Hilpert,27.1,1000,http://dummyimage.com/178x167.bmp/5fa2dd/ffffff,Oyoloo,Close,9:48 PM,185-994-3369,true,true,458-06-0297
+944,true,true,Crist and Sons,99.75,1016,http://dummyimage.com/218x184.jpg/cc0000/ffffff,Gigaclub,Close,8:54 PM,424-290-6310,true,true,827-44-5752
+945,true,false,Klein Group,9.73,1008,http://dummyimage.com/142x174.png/cc0000/ffffff,Photobean,Close,8:32 PM,379-241-6830,false,true,614-54-3029
+946,false,false,Goyette and Sons,19.39,1009,http://dummyimage.com/214x161.jpg/dddddd/000000,Wordpedia,Open,8:04 PM,354-161-3495,true,true,672-84-5870
+947,true,true,Wintheiser Inc,33.86,1022,http://dummyimage.com/191x221.jpg/cc0000/ffffff,Avamm,Open,9:51 PM,329-604-4835,true,false,170-63-1819
+948,true,true,Huels Group,6.73,1005,http://dummyimage.com/219x114.jpg/ff4444/ffffff,Twitterlist,Close,8:04 PM,239-855-6685,false,true,822-78-2219
+949,true,false,Heathcote LLC,42.35,1003,http://dummyimage.com/216x218.png/cc0000/ffffff,Feedfish,Close,8:19 PM,263-779-7466,false,false,569-61-7338
+950,true,false,Schroeder Group,85.91,1008,http://dummyimage.com/235x231.bmp/cc0000/ffffff,Feedspan,Close,10:44 PM,308-824-9519,true,true,678-67-9875
+951,true,false,"Feil, Lehner and Langosh",27.77,1013,http://dummyimage.com/150x169.bmp/cc0000/ffffff,Gabtune,Open,7:05 PM,622-329-2669,true,true,395-23-1457
+952,false,false,Durgan-Bogisich,44.74,1009,http://dummyimage.com/134x248.jpg/5fa2dd/ffffff,Gigashots,Open,9:57 PM,515-871-4600,false,false,257-54-2636
+953,true,true,Lowe-Bogisich,54.79,1015,http://dummyimage.com/123x154.jpg/cc0000/ffffff,Dazzlesphere,Close,10:37 PM,471-286-0132,true,false,811-70-7940
+954,true,false,"Sporer, Roberts and Hagenes",21.38,1016,http://dummyimage.com/185x172.jpg/ff4444/ffffff,Oloo,Open,7:48 PM,245-855-4174,true,true,127-02-8593
+955,false,true,Schmidt LLC,92.21,1019,http://dummyimage.com/145x227.jpg/ff4444/ffffff,Wikibox,Open,6:37 PM,246-643-7866,false,true,561-72-6012
+956,false,true,Gutkowski LLC,36.67,1023,http://dummyimage.com/234x230.png/dddddd/000000,Skynoodle,Open,9:18 PM,346-496-0305,false,true,285-24-2758
+957,true,false,"Langworth, Hamill and Bashirian",87.9,1004,http://dummyimage.com/168x239.png/dddddd/000000,Ntag,Open,8:04 PM,270-103-8173,false,true,659-52-0891
+958,false,false,"Senger, Farrell and Bradtke",71.0,1010,http://dummyimage.com/228x220.jpg/ff4444/ffffff,Yodo,Close,8:29 PM,961-232-0608,false,true,830-93-7397
+959,false,true,Beatty LLC,25.44,1001,http://dummyimage.com/116x238.bmp/cc0000/ffffff,Divape,Open,10:29 PM,382-486-1801,true,true,197-44-9722
+960,false,true,Stoltenberg-Gottlieb,64.06,1019,http://dummyimage.com/175x148.bmp/ff4444/ffffff,Trudeo,Close,8:45 PM,385-333-4135,false,false,751-81-0284
+961,true,true,"Wisozk, Mann and Johnson",5.16,1012,http://dummyimage.com/111x240.bmp/cc0000/ffffff,Tambee,Open,6:15 PM,804-501-4504,false,true,246-79-9466
+962,true,true,Bogan-Schultz,68.82,1004,http://dummyimage.com/245x174.bmp/cc0000/ffffff,Skippad,Close,7:01 PM,456-738-8604,false,true,256-80-8467
+963,false,false,"Breitenberg, Hagenes and Hauck",15.85,1021,http://dummyimage.com/122x112.jpg/ff4444/ffffff,Oyondu,Close,11:02 PM,551-488-1454,false,true,798-66-2650
+964,true,true,Trantow-Casper,87.04,1017,http://dummyimage.com/104x123.jpg/dddddd/000000,Nlounge,Open,8:25 PM,510-410-6928,true,false,270-83-9038
+965,false,true,"Cummerata, Turner and Gutmann",59.65,1005,http://dummyimage.com/156x193.bmp/5fa2dd/ffffff,Wikivu,Open,10:46 PM,845-637-6613,true,true,856-03-4109
+966,true,true,Kozey-Willms,9.05,1010,http://dummyimage.com/186x211.png/dddddd/000000,Tagfeed,Close,9:41 PM,694-763-8074,true,false,383-61-9551
+967,false,true,"Halvorson, Hammes and Schinner",5.29,1003,http://dummyimage.com/165x154.jpg/ff4444/ffffff,Jaxworks,Open,9:07 PM,859-883-2024,false,false,801-20-8172
+968,true,false,"Satterfield, Little and Stiedemann",76.91,1024,http://dummyimage.com/192x131.bmp/5fa2dd/ffffff,Topiclounge,Open,6:24 PM,322-351-8374,false,false,548-71-4254
+969,true,true,Feeney Inc,64.12,1021,http://dummyimage.com/161x191.jpg/cc0000/ffffff,Cogilith,Close,7:20 PM,442-591-4538,true,true,147-02-0003
+970,true,true,"Kuvalis, Lang and Hodkiewicz",13.68,1007,http://dummyimage.com/188x158.png/cc0000/ffffff,Eayo,Open,8:59 PM,727-485-2502,true,false,337-86-8882
+971,true,false,Parisian and Sons,84.67,1021,http://dummyimage.com/207x150.bmp/5fa2dd/ffffff,Kare,Close,8:52 PM,888-237-5748,true,false,332-42-9547
+972,true,false,Mayer-Hoppe,65.01,1003,http://dummyimage.com/149x249.bmp/ff4444/ffffff,Edgeify,Open,10:21 PM,137-921-5751,false,false,211-52-0172
+973,true,true,Hegmann-Ratke,24.75,1012,http://dummyimage.com/149x161.bmp/dddddd/000000,Trilith,Open,6:52 PM,437-386-5169,false,false,769-64-5536
+974,false,false,Hansen-Kuvalis,15.24,1000,http://dummyimage.com/182x172.bmp/cc0000/ffffff,Lazzy,Close,8:08 PM,721-729-0977,false,false,225-90-4763
+975,false,true,Kovacek-Schmeler,92.1,1007,http://dummyimage.com/134x110.jpg/cc0000/ffffff,BlogXS,Open,11:23 PM,973-420-7947,false,false,845-01-9855
+976,false,false,Balistreri Group,48.03,1006,http://dummyimage.com/204x156.bmp/cc0000/ffffff,Bluejam,Open,8:53 PM,464-344-6590,false,false,207-52-9858
+977,false,true,"Lesch, Greenholt and Dare",99.61,1001,http://dummyimage.com/175x223.png/5fa2dd/ffffff,Jaloo,Open,11:51 PM,591-561-6862,true,true,527-84-3418
+978,false,false,Legros LLC,65.56,1005,http://dummyimage.com/204x120.jpg/5fa2dd/ffffff,Gabspot,Open,8:59 PM,650-762-8764,true,false,522-32-9545
+979,false,false,Wolf-Bruen,60.3,1006,http://dummyimage.com/233x235.png/ff4444/ffffff,Jaxnation,Close,8:11 PM,989-777-4749,true,true,665-79-3579
+980,false,false,Weimann-Boyer,81.37,1024,http://dummyimage.com/162x130.png/ff4444/ffffff,Mybuzz,Open,9:50 PM,739-674-3699,false,false,888-54-7187
+981,false,false,Pacocha-Bosco,80.26,1025,http://dummyimage.com/132x224.png/dddddd/000000,Dabfeed,Open,10:46 PM,762-511-8844,true,false,459-11-8540
+982,true,true,Cormier Group,28.84,1019,http://dummyimage.com/147x231.png/cc0000/ffffff,Realcube,Open,10:29 PM,153-805-8425,true,true,657-11-1060
+983,true,true,Larkin-Bechtelar,71.74,1004,http://dummyimage.com/181x152.bmp/ff4444/ffffff,Meetz,Close,10:34 PM,188-530-5893,true,false,788-11-4060
+984,true,true,"Parker, Pouros and Becker",99.14,1018,http://dummyimage.com/249x136.png/dddddd/000000,Voolia,Close,7:36 PM,278-339-1368,true,true,198-55-8308
+985,false,true,Fahey LLC,5.35,1018,http://dummyimage.com/114x128.png/cc0000/ffffff,Jetpulse,Open,11:30 PM,277-730-7477,false,false,827-64-7953
+986,true,true,Bernier Group,2.75,1003,http://dummyimage.com/128x206.png/ff4444/ffffff,Jaxspan,Close,7:03 PM,745-739-6734,false,true,567-13-1817
+987,false,false,Shanahan Group,92.84,1001,http://dummyimage.com/114x183.bmp/5fa2dd/ffffff,Dynabox,Close,9:18 PM,969-519-9358,true,true,350-26-8702
+988,true,false,"McCullough, Parisian and Kunde",33.8,1006,http://dummyimage.com/187x213.bmp/dddddd/000000,Flashpoint,Close,8:28 PM,909-532-0315,true,true,731-02-6835
+989,true,false,"Bergnaum, Price and Schultz",65.97,1009,http://dummyimage.com/161x220.bmp/dddddd/000000,Rhycero,Open,10:12 PM,958-570-4495,true,false,160-49-5244
+990,false,false,Mitchell LLC,63.84,1015,http://dummyimage.com/117x179.png/5fa2dd/ffffff,Linklinks,Open,11:34 PM,532-811-7059,false,false,527-36-8896
+991,true,false,"Mraz, Lockman and Effertz",14.4,1020,http://dummyimage.com/149x195.jpg/5fa2dd/ffffff,Vipe,Close,11:37 PM,674-566-1298,true,false,706-93-3924
+992,false,false,Kreiger and Sons,26.19,1017,http://dummyimage.com/103x113.bmp/dddddd/000000,Teklist,Open,7:37 PM,778-709-0803,false,true,183-34-6108
+993,true,true,Jacobs-Ankunding,95.58,1019,http://dummyimage.com/149x203.png/5fa2dd/ffffff,Jetpulse,Close,7:18 PM,780-675-7357,false,true,850-06-0376
+994,true,true,Runolfsdottir-Fisher,93.67,1021,http://dummyimage.com/244x180.jpg/dddddd/000000,Trunyx,Close,8:45 PM,689-174-3559,true,false,430-51-3953
+995,false,true,"Windler, Cruickshank and Trantow",35.26,1000,http://dummyimage.com/127x145.png/dddddd/000000,Bubbletube,Open,6:27 PM,885-866-2174,false,true,337-75-1724
+996,true,false,"Weber, O'Connell and Bode",61.73,1000,http://dummyimage.com/182x202.png/ff4444/ffffff,Teklist,Open,6:55 PM,934-770-5400,false,true,271-41-4070
+997,false,true,"Kautzer, Schultz and Bernier",63.74,1007,http://dummyimage.com/183x119.jpg/ff4444/ffffff,Zoomlounge,Close,11:39 PM,337-990-2699,true,true,286-31-0098
+998,false,true,Metz-Funk,83.54,1020,http://dummyimage.com/219x186.png/cc0000/ffffff,Jabberstorm,Open,10:16 PM,684-848-7660,true,false,816-45-0392
+999,false,true,Hammes Group,88.01,1009,http://dummyimage.com/198x172.jpg/5fa2dd/ffffff,Brainbox,Open,8:52 PM,799-752-4246,true,true,380-68-2448
+1000,true,false,"Abbott, Kuvalis and Mohr",83.04,1019,http://dummyimage.com/215x191.jpg/ff4444/ffffff,Youbridge,Close,10:19 PM,961-640-0238,false,false,195-47-5695

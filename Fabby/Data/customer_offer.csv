@@ -1,0 +1,4 @@
+"customer_offer_id","customer_offer","customer_offer_description","customer_id","offer_expiry_date","max_usage","status"
+"12597869491","10","10% off on total cart value","9037950332","2019-03-20 06:47:28.742505","1","N"
+"12597869490","33","End of year off. 33% off on total bill.","9037950332","2019-04-18 10:10:03.449256","4","Y"
+"12597869489","25","25% off total bill","9037950332","2019-05-18 10:07:45.537875","1","Y"

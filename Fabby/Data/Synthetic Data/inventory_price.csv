@@ -1,0 +1,1001 @@
+inventory_price_id,offer_description,offer_percent,offer_quantity,offers,unit_price,order_id,inventory_id,offer_expiry_date
+1,lectus in est risus auctor sed tristique in tempus sit amet sem fusce consequat nulla nisl nunc nisl duis,21.84,,Yes,46.91,1,1,5/3/2019
+2,tempus semper est quam pharetra magna ac consequat metus sapien ut nunc vestibulum ante ipsum,73.23,,No,43.54,2,2,10/18/2019
+3,nullam varius nulla facilisi cras non velit nec nisi vulputate nonummy maecenas tincidunt,52.48,,No,52.24,3,3,12/12/2019
+4,sit amet sem fusce consequat nulla nisl nunc nisl duis bibendum felis sed interdum venenatis turpis enim blandit mi,7.23,,Yes,68.91,4,4,7/7/2019
+5,nibh ligula nec sem duis aliquam convallis nunc proin at turpis a pede posuere nonummy integer non velit,5.64,,No,52.36,5,5,8/1/2019
+6,laoreet ut rhoncus aliquet pulvinar sed nisl nunc rhoncus dui,23.42,,No,40.45,6,6,11/10/2019
+7,praesent id massa id nisl venenatis lacinia aenean sit amet justo morbi ut odio cras mi pede,13.29,,No,60.96,7,7,8/16/2019
+8,nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus vel nulla eget eros elementum pellentesque quisque porta volutpat,64.69,,Yes,54.89,8,8,9/8/2019
+9,est et tempus semper est quam pharetra magna ac consequat metus,4.72,,Yes,50.78,9,9,11/27/2019
+10,posuere cubilia curae duis faucibus accumsan odio curabitur convallis duis consequat dui nec nisi volutpat eleifend donec ut dolor morbi,45.44,,Yes,59.6,10,10,9/24/2019
+11,eget massa tempor convallis nulla neque libero convallis eget eleifend luctus,35.91,,No,50.02,11,11,8/6/2019
+12,id luctus nec molestie sed justo pellentesque viverra pede ac,69.49,,No,39.78,12,12,8/23/2019
+13,ullamcorper purus sit amet nulla quisque arcu libero rutrum ac lobortis vel dapibus at diam,71.09,,No,61.58,13,13,10/31/2019
+14,integer aliquet massa id lobortis convallis tortor risus dapibus augue vel accumsan tellus,60.15,,Yes,63.84,14,14,9/14/2019
+15,nullam molestie nibh in lectus pellentesque at nulla suspendisse potenti cras in purus eu magna vulputate luctus cum sociis natoque,53.89,,Yes,52.71,15,15,8/30/2019
+16,amet nunc viverra dapibus nulla suscipit ligula in lacus curabitur at ipsum ac tellus semper interdum mauris ullamcorper,34.7,,Yes,51.7,16,16,7/11/2019
+17,potenti cras in purus eu magna vulputate luctus cum sociis natoque penatibus et magnis dis parturient montes,0.83,,No,50.4,17,17,9/21/2019
+18,volutpat dui maecenas tristique est et tempus semper est quam pharetra,1.57,,Yes,20.61,18,18,12/20/2019
+19,tellus nulla ut erat id mauris vulputate elementum nullam varius,6.11,,No,43.72,19,19,10/20/2019
+20,sapien urna pretium nisl ut volutpat sapien arcu sed augue aliquam erat volutpat in congue etiam justo etiam,24.91,,No,35.32,20,20,10/21/2019
+21,lorem quisque ut erat curabitur gravida nisi at nibh in hac habitasse platea dictumst,16.81,,Yes,44.8,21,21,12/11/2019
+22,sed vestibulum sit amet cursus id turpis integer aliquet massa id lobortis convallis tortor risus dapibus augue vel accumsan,3.06,,No,56.99,22,22,10/18/2019
+23,nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum ante,5.82,,No,44.38,23,23,5/7/2019
+24,eu interdum eu tincidunt in leo maecenas pulvinar lobortis est phasellus sit amet erat nulla tempus,22.4,,No,45.92,24,24,8/30/2019
+25,lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel sem,15.82,,No,47.37,25,25,8/2/2019
+26,iaculis diam erat fermentum justo nec condimentum neque sapien placerat ante,53.58,,Yes,52.68,26,26,10/8/2019
+27,in magna bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt eu felis fusce posuere,1.22,,No,53.44,27,27,12/22/2019
+28,vehicula consequat morbi a ipsum integer a nibh in quis justo maecenas,24.53,,Yes,51.6,28,28,8/22/2019
+29,sodales sed tincidunt eu felis fusce posuere felis sed lacus morbi,38.04,,Yes,47.51,29,29,12/28/2019
+30,dui nec nisi volutpat eleifend donec ut dolor morbi vel lectus in quam fringilla rhoncus,26.13,,Yes,77.51,30,30,9/17/2019
+31,eget nunc donec quis orci eget orci vehicula condimentum curabitur in,51.42,,No,31.91,31,31,10/22/2019
+32,nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus vel nulla eget eros elementum pellentesque,19.61,,No,48.61,32,32,12/3/2019
+33,volutpat sapien arcu sed augue aliquam erat volutpat in congue etiam justo etiam pretium iaculis justo in,39.22,,No,47.87,33,33,8/31/2019
+34,aenean sit amet justo morbi ut odio cras mi pede,35.33,,Yes,62.61,34,34,10/17/2019
+35,suscipit ligula in lacus curabitur at ipsum ac tellus semper interdum mauris ullamcorper,43.35,,Yes,54.4,35,35,12/9/2019
+36,nunc viverra dapibus nulla suscipit ligula in lacus curabitur at ipsum ac tellus semper interdum mauris ullamcorper purus sit amet,37.92,,No,54.25,36,36,5/2/2019
+37,odio condimentum id luctus nec molestie sed justo pellentesque viverra pede ac diam,29.35,,No,61.57,37,37,11/5/2019
+38,venenatis tristique fusce congue diam id ornare imperdiet sapien urna pretium nisl,43.57,,Yes,55.46,38,38,12/14/2019
+39,placerat ante nulla justo aliquam quis turpis eget elit sodales scelerisque mauris sit amet,72.9,,Yes,27.05,39,39,7/9/2019
+40,metus aenean fermentum donec ut mauris eget massa tempor convallis nulla neque libero convallis eget eleifend luctus ultricies eu nibh,36.39,,No,34.0,40,40,7/16/2019
+41,vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae mauris viverra diam,26.7,,Yes,54.1,41,41,10/4/2019
+42,elit ac nulla sed vel enim sit amet nunc viverra,8.22,,No,58.49,42,42,12/7/2019
+43,luctus et ultrices posuere cubilia curae nulla dapibus dolor vel est donec odio,40.98,,No,46.99,43,43,5/4/2019
+44,justo in hac habitasse platea dictumst etiam faucibus cursus urna ut tellus nulla ut erat id mauris vulputate elementum,18.28,,No,29.93,44,44,9/20/2019
+45,et ultrices posuere cubilia curae mauris viverra diam vitae quam suspendisse potenti nullam porttitor lacus,37.94,,No,57.48,45,45,6/13/2019
+46,viverra dapibus nulla suscipit ligula in lacus curabitur at ipsum ac,75.96,,Yes,41.49,46,46,9/19/2019
+47,tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum sed magna at nunc commodo placerat praesent blandit nam nulla integer,2.32,,No,40.09,47,47,12/19/2019
+48,elementum nullam varius nulla facilisi cras non velit nec nisi vulputate nonummy maecenas tincidunt lacus at velit,31.71,,Yes,52.55,48,48,5/15/2019
+49,et eros vestibulum ac est lacinia nisi venenatis tristique fusce congue diam id ornare imperdiet,72.65,,Yes,35.45,49,49,8/24/2019
+50,praesent lectus vestibulum quam sapien varius ut blandit non interdum in ante,55.33,,No,50.0,50,50,9/18/2019
+51,lacinia aenean sit amet justo morbi ut odio cras mi pede malesuada in imperdiet et commodo vulputate justo in blandit,78.8,,No,38.95,51,51,5/18/2019
+52,morbi vel lectus in quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum sit amet cursus id turpis,19.1,,Yes,45.85,52,52,8/15/2019
+53,justo in blandit ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing,44.23,,Yes,47.91,53,53,8/6/2019
+54,morbi non lectus aliquam sit amet diam in magna bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt eu,51.43,,Yes,35.53,54,54,10/9/2019
+55,mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel sem sed sagittis nam congue,48.8,,No,56.54,55,55,7/10/2019
+56,in est risus auctor sed tristique in tempus sit amet sem fusce consequat nulla nisl nunc nisl duis bibendum felis,6.27,,Yes,51.46,56,56,7/26/2019
+57,quis justo maecenas rhoncus aliquam lacus morbi quis tortor id nulla ultrices aliquet maecenas leo odio condimentum id luctus,32.61,,No,59.45,57,57,12/17/2019
+58,quam suspendisse potenti nullam porttitor lacus at turpis donec posuere,58.77,,Yes,63.29,58,58,10/13/2019
+59,eu nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum primis in faucibus orci luctus,44.19,,Yes,53.3,59,59,11/19/2019
+60,lobortis convallis tortor risus dapibus augue vel accumsan tellus nisi,44.8,,No,39.29,60,60,6/28/2019
+61,erat vestibulum sed magna at nunc commodo placerat praesent blandit nam nulla integer pede justo lacinia,56.02,,No,48.66,61,61,7/23/2019
+62,sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum sed magna,3.74,,Yes,28.78,62,62,10/27/2019
+63,mauris eget massa tempor convallis nulla neque libero convallis eget eleifend luctus ultricies eu nibh quisque id justo sit amet,5.45,,No,40.35,63,63,8/10/2019
+64,orci luctus et ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet,34.33,,Yes,49.56,64,64,8/27/2019
+65,quis tortor id nulla ultrices aliquet maecenas leo odio condimentum id luctus nec molestie sed justo pellentesque viverra,51.11,,No,63.58,65,65,5/24/2019
+66,sapien in sapien iaculis congue vivamus metus arcu adipiscing molestie hendrerit at vulputate vitae nisl aenean,32.35,,Yes,55.96,66,66,6/28/2019
+67,tortor sollicitudin mi sit amet lobortis sapien sapien non mi integer ac neque duis,13.61,,Yes,49.9,67,67,11/15/2019
+68,rutrum rutrum neque aenean auctor gravida sem praesent id massa id nisl venenatis lacinia,22.28,,Yes,42.49,68,68,9/14/2019
+69,cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien cum,43.67,,Yes,40.13,69,69,5/8/2019
+70,suspendisse accumsan tortor quis turpis sed ante vivamus tortor duis mattis egestas metus aenean fermentum donec ut,50.42,,Yes,57.96,70,70,5/17/2019
+71,pede justo lacinia eget tincidunt eget tempus vel pede morbi porttitor lorem id ligula suspendisse ornare consequat lectus in est,17.34,,Yes,47.58,71,71,12/1/2019
+72,tortor id nulla ultrices aliquet maecenas leo odio condimentum id luctus nec molestie sed justo pellentesque viverra pede,27.6,,No,53.12,72,72,11/16/2019
+73,velit donec diam neque vestibulum eget vulputate ut ultrices vel augue vestibulum ante ipsum primis in faucibus orci,36.4,,No,57.46,73,73,9/22/2019
+74,pellentesque quisque porta volutpat erat quisque erat eros viverra eget congue eget semper rutrum,14.86,,Yes,62.05,74,74,10/24/2019
+75,consectetuer eget rutrum at lorem integer tincidunt ante vel ipsum,40.96,,No,67.68,75,75,5/3/2019
+76,dis parturient montes nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum neque aenean auctor gravida sem,45.76,,No,33.38,76,76,7/1/2019
+77,non sodales sed tincidunt eu felis fusce posuere felis sed lacus morbi,11.4,,No,47.02,77,77,5/21/2019
+78,vestibulum velit id pretium iaculis diam erat fermentum justo nec condimentum neque sapien placerat ante nulla justo aliquam,41.89,,Yes,43.63,78,78,8/8/2019
+79,donec posuere metus vitae ipsum aliquam non mauris morbi non lectus,25.25,,No,36.48,79,79,8/4/2019
+80,pede venenatis non sodales sed tincidunt eu felis fusce posuere felis,47.27,,Yes,49.64,80,80,8/1/2019
+81,vel nulla eget eros elementum pellentesque quisque porta volutpat erat quisque erat eros viverra eget congue eget semper,36.88,,Yes,50.22,81,81,9/9/2019
+82,sit amet consectetuer adipiscing elit proin risus praesent lectus vestibulum quam sapien,46.12,,No,41.25,82,82,10/28/2019
+83,amet consectetuer adipiscing elit proin interdum mauris non ligula pellentesque ultrices phasellus id sapien,25.1,,Yes,65.04,83,83,7/10/2019
+84,amet erat nulla tempus vivamus in felis eu sapien cursus vestibulum proin eu mi nulla ac enim in,73.75,,No,50.06,84,84,11/26/2019
+85,turpis sed ante vivamus tortor duis mattis egestas metus aenean fermentum donec ut mauris eget massa tempor convallis,11.14,,No,44.16,85,85,11/23/2019
+86,viverra dapibus nulla suscipit ligula in lacus curabitur at ipsum ac tellus semper interdum mauris ullamcorper purus,49.75,,No,32.13,86,86,9/28/2019
+87,vitae quam suspendisse potenti nullam porttitor lacus at turpis donec posuere metus vitae ipsum aliquam non mauris morbi non lectus,61.72,,No,43.06,87,87,10/23/2019
+88,sapien placerat ante nulla justo aliquam quis turpis eget elit sodales scelerisque mauris sit,8.04,,Yes,40.86,88,88,6/16/2019
+89,velit donec diam neque vestibulum eget vulputate ut ultrices vel augue vestibulum ante ipsum primis in faucibus,63.47,,No,48.71,89,89,7/12/2019
+90,et ultrices posuere cubilia curae duis faucibus accumsan odio curabitur convallis duis consequat dui nec nisi volutpat eleifend donec,27.03,,No,68.09,90,90,5/16/2019
+91,sem mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel sem sed sagittis nam,40.51,,Yes,39.11,91,91,8/18/2019
+92,donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet lobortis,49.62,,Yes,42.4,92,92,11/7/2019
+93,nisi volutpat eleifend donec ut dolor morbi vel lectus in quam fringilla rhoncus mauris,33.38,,No,38.61,93,93,11/13/2019
+94,justo lacinia eget tincidunt eget tempus vel pede morbi porttitor lorem id ligula suspendisse ornare consequat lectus,42.4,,No,40.66,94,94,11/4/2019
+95,ac est lacinia nisi venenatis tristique fusce congue diam id ornare imperdiet sapien urna pretium,13.24,,No,54.98,95,95,7/4/2019
+96,venenatis tristique fusce congue diam id ornare imperdiet sapien urna pretium nisl ut volutpat sapien arcu,66.57,,Yes,54.89,96,96,7/5/2019
+97,sed sagittis nam congue risus semper porta volutpat quam pede lobortis ligula sit amet eleifend pede libero,63.66,,No,44.89,97,97,6/13/2019
+98,eget eleifend luctus ultricies eu nibh quisque id justo sit amet sapien dignissim,42.82,,No,41.15,98,98,6/23/2019
+99,ut erat id mauris vulputate elementum nullam varius nulla facilisi cras non,11.15,,Yes,41.35,99,99,7/4/2019
+100,aliquet massa id lobortis convallis tortor risus dapibus augue vel accumsan tellus nisi eu orci mauris lacinia,49.25,,No,39.19,100,100,10/22/2019
+101,in hac habitasse platea dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis molestie lorem quisque,26.55,,No,59.93,101,101,9/2/2019
+102,fusce consequat nulla nisl nunc nisl duis bibendum felis sed interdum venenatis turpis enim blandit mi in porttitor pede justo,70.07,,No,43.14,102,102,10/9/2019
+103,amet consectetuer adipiscing elit proin risus praesent lectus vestibulum quam sapien varius ut blandit non interdum in ante,30.4,,No,35.18,103,103,6/12/2019
+104,nunc commodo placerat praesent blandit nam nulla integer pede justo lacinia eget tincidunt eget tempus vel pede,3.25,,Yes,42.67,104,104,7/2/2019
+105,dapibus nulla suscipit ligula in lacus curabitur at ipsum ac tellus,28.77,,No,47.63,105,105,5/2/2019
+106,et tempus semper est quam pharetra magna ac consequat metus sapien ut nunc vestibulum ante ipsum primis in,54.13,,Yes,69.93,106,106,5/12/2019
+107,erat id mauris vulputate elementum nullam varius nulla facilisi cras non,56.67,,Yes,60.34,107,107,7/26/2019
+108,blandit nam nulla integer pede justo lacinia eget tincidunt eget tempus vel pede morbi porttitor lorem,17.13,,No,54.64,108,108,10/23/2019
+109,urna pretium nisl ut volutpat sapien arcu sed augue aliquam erat volutpat in congue etiam justo etiam pretium iaculis,53.21,,No,60.14,109,109,12/15/2019
+110,nulla eget eros elementum pellentesque quisque porta volutpat erat quisque erat eros viverra,65.88,,No,44.79,110,110,5/14/2019
+111,potenti nullam porttitor lacus at turpis donec posuere metus vitae ipsum aliquam non,50.77,,Yes,59.13,111,111,5/9/2019
+112,interdum in ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices,76.4,,Yes,46.51,112,112,6/1/2019
+113,ut dolor morbi vel lectus in quam fringilla rhoncus mauris,70.71,,Yes,36.7,113,113,9/8/2019
+114,risus semper porta volutpat quam pede lobortis ligula sit amet eleifend,50.49,,Yes,55.64,114,114,5/15/2019
+115,luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur gravida nisi,70.49,,Yes,48.68,115,115,5/3/2019
+116,posuere cubilia curae nulla dapibus dolor vel est donec odio justo sollicitudin ut suscipit a,10.14,,Yes,47.83,116,116,10/26/2019
+117,sit amet eleifend pede libero quis orci nullam molestie nibh in lectus pellentesque at nulla suspendisse,17.77,,No,29.38,117,117,10/22/2019
+118,eu interdum eu tincidunt in leo maecenas pulvinar lobortis est phasellus sit amet erat nulla tempus vivamus in felis eu,45.49,,Yes,35.33,118,118,10/8/2019
+119,consequat metus sapien ut nunc vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae mauris viverra,31.14,,Yes,48.43,119,119,11/3/2019
+120,leo odio condimentum id luctus nec molestie sed justo pellentesque viverra pede ac diam,4.31,,No,52.49,120,120,8/13/2019
+121,eu nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum primis in,49.5,,Yes,65.19,121,121,12/17/2019
+122,dui maecenas tristique est et tempus semper est quam pharetra magna ac consequat metus,65.7,,Yes,53.34,122,122,5/7/2019
+123,potenti nullam porttitor lacus at turpis donec posuere metus vitae ipsum aliquam,43.73,,No,31.31,123,123,7/22/2019
+124,et commodo vulputate justo in blandit ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris,53.24,,No,48.9,124,124,7/30/2019
+125,diam vitae quam suspendisse potenti nullam porttitor lacus at turpis,11.58,,Yes,49.61,125,125,5/28/2019
+126,dui maecenas tristique est et tempus semper est quam pharetra,63.59,,No,53.51,126,126,10/14/2019
+127,quis turpis sed ante vivamus tortor duis mattis egestas metus aenean fermentum donec ut mauris eget massa tempor convallis nulla,18.65,,Yes,43.44,127,127,12/9/2019
+128,tempor convallis nulla neque libero convallis eget eleifend luctus ultricies eu nibh quisque id,49.31,,Yes,46.23,128,128,9/28/2019
+129,nisl duis ac nibh fusce lacus purus aliquet at feugiat non pretium quis lectus suspendisse potenti in eleifend,57.25,,Yes,58.36,129,129,8/12/2019
+130,integer a nibh in quis justo maecenas rhoncus aliquam lacus morbi quis tortor id nulla,76.55,,No,39.79,130,130,9/26/2019
+131,feugiat non pretium quis lectus suspendisse potenti in eleifend quam a odio in hac habitasse platea dictumst maecenas ut,33.6,,Yes,52.09,131,131,5/24/2019
+132,eleifend donec ut dolor morbi vel lectus in quam fringilla rhoncus,8.42,,No,44.23,132,132,5/24/2019
+133,aenean auctor gravida sem praesent id massa id nisl venenatis lacinia,14.87,,Yes,44.35,133,133,11/7/2019
+134,tortor id nulla ultrices aliquet maecenas leo odio condimentum id,67.24,,Yes,54.83,134,134,5/10/2019
+135,luctus ultricies eu nibh quisque id justo sit amet sapien dignissim,0.54,,No,47.3,135,135,8/22/2019
+136,proin at turpis a pede posuere nonummy integer non velit donec diam neque vestibulum eget,32.44,,Yes,51.46,136,136,12/15/2019
+137,velit donec diam neque vestibulum eget vulputate ut ultrices vel augue vestibulum,73.59,,Yes,31.56,137,137,8/22/2019
+138,mauris ullamcorper purus sit amet nulla quisque arcu libero rutrum ac lobortis vel dapibus at diam nam tristique,13.86,,Yes,62.99,138,138,6/18/2019
+139,vestibulum eget vulputate ut ultrices vel augue vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere,19.39,,No,53.89,139,139,5/28/2019
+140,sem sed sagittis nam congue risus semper porta volutpat quam pede lobortis ligula sit amet eleifend pede libero,4.17,,Yes,50.55,140,140,12/12/2019
+141,varius nulla facilisi cras non velit nec nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus vel,45.29,,No,65.28,141,141,9/13/2019
+142,primis in faucibus orci luctus et ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices,36.52,,Yes,58.69,142,142,8/13/2019
+143,fusce consequat nulla nisl nunc nisl duis bibendum felis sed interdum,3.21,,No,55.2,143,143,7/11/2019
+144,nisl nunc rhoncus dui vel sem sed sagittis nam congue risus semper porta volutpat,38.55,,Yes,42.44,144,144,8/12/2019
+145,viverra eget congue eget semper rutrum nulla nunc purus phasellus in felis donec semper sapien a libero nam dui,43.79,,No,29.14,145,145,5/2/2019
+146,scelerisque quam turpis adipiscing lorem vitae mattis nibh ligula nec sem,15.75,,Yes,53.17,146,146,6/4/2019
+147,duis faucibus accumsan odio curabitur convallis duis consequat dui nec nisi volutpat eleifend donec,26.76,,Yes,47.39,147,147,6/16/2019
+148,consectetuer adipiscing elit proin risus praesent lectus vestibulum quam sapien varius ut blandit non interdum in ante,72.92,,Yes,48.15,148,148,6/9/2019
+149,tempus vivamus in felis eu sapien cursus vestibulum proin eu,71.89,,No,37.87,149,149,9/27/2019
+150,odio cras mi pede malesuada in imperdiet et commodo vulputate justo in blandit ultrices enim lorem ipsum dolor sit,0.37,,Yes,59.24,150,150,6/24/2019
+151,posuere cubilia curae duis faucibus accumsan odio curabitur convallis duis consequat dui nec,1.7,,Yes,53.3,151,151,12/3/2019
+152,in magna bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt eu felis fusce posuere felis sed,59.59,,No,49.95,152,152,9/8/2019
+153,diam cras pellentesque volutpat dui maecenas tristique est et tempus semper est,39.93,,No,48.69,153,153,11/4/2019
+154,cras in purus eu magna vulputate luctus cum sociis natoque penatibus et magnis dis parturient montes,31.83,,Yes,64.15,154,154,12/23/2019
+155,ipsum integer a nibh in quis justo maecenas rhoncus aliquam,6.51,,No,40.84,155,155,6/18/2019
+156,felis sed lacus morbi sem mauris laoreet ut rhoncus aliquet,46.02,,Yes,40.59,156,156,9/22/2019
+157,cubilia curae duis faucibus accumsan odio curabitur convallis duis consequat dui nec nisi,39.45,,No,72.52,157,157,10/23/2019
+158,vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae nulla dapibus dolor vel est donec,18.95,,Yes,46.85,158,158,11/19/2019
+159,nunc vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae mauris viverra diam,55.47,,No,52.66,159,159,6/11/2019
+160,consectetuer eget rutrum at lorem integer tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum,11.82,,Yes,40.5,160,160,7/29/2019
+161,ridiculus mus etiam vel augue vestibulum rutrum rutrum neque aenean auctor gravida sem praesent id massa id,26.32,,Yes,49.06,161,161,5/2/2019
+162,nulla ac enim in tempor turpis nec euismod scelerisque quam turpis adipiscing lorem vitae mattis nibh,60.6,,Yes,63.71,162,162,5/8/2019
+163,elementum nullam varius nulla facilisi cras non velit nec nisi vulputate nonummy maecenas tincidunt lacus,34.76,,Yes,73.3,163,163,9/3/2019
+164,quis orci eget orci vehicula condimentum curabitur in libero ut massa volutpat convallis morbi odio,29.36,,Yes,46.29,164,164,7/25/2019
+165,justo etiam pretium iaculis justo in hac habitasse platea dictumst etiam faucibus cursus urna ut tellus nulla ut erat,4.58,,No,32.37,165,165,6/5/2019
+166,mi nulla ac enim in tempor turpis nec euismod scelerisque,34.82,,No,49.58,166,166,7/10/2019
+167,ipsum praesent blandit lacinia erat vestibulum sed magna at nunc commodo placerat praesent blandit,49.77,,Yes,62.24,167,167,10/11/2019
+168,maecenas pulvinar lobortis est phasellus sit amet erat nulla tempus vivamus in,29.81,,Yes,45.38,168,168,7/16/2019
+169,penatibus et magnis dis parturient montes nascetur ridiculus mus etiam vel augue vestibulum,29.12,,No,53.97,169,169,11/1/2019
+170,amet cursus id turpis integer aliquet massa id lobortis convallis tortor,73.26,,Yes,43.24,170,170,6/18/2019
+171,lorem vitae mattis nibh ligula nec sem duis aliquam convallis nunc proin at turpis a pede posuere nonummy integer,25.24,,Yes,34.02,171,171,7/13/2019
+172,pede justo eu massa donec dapibus duis at velit eu est,57.31,,Yes,52.06,172,172,10/24/2019
+173,tempus vel pede morbi porttitor lorem id ligula suspendisse ornare consequat lectus in est risus auctor sed tristique,47.96,,No,47.59,173,173,12/27/2019
+174,nisi at nibh in hac habitasse platea dictumst aliquam augue quam sollicitudin vitae,31.26,,No,64.09,174,174,7/15/2019
+175,neque vestibulum eget vulputate ut ultrices vel augue vestibulum ante ipsum primis in faucibus orci luctus et ultrices,11.57,,No,60.57,175,175,12/7/2019
+176,ultricies eu nibh quisque id justo sit amet sapien dignissim,36.36,,No,52.69,176,176,11/14/2019
+177,sapien quis libero nullam sit amet turpis elementum ligula vehicula consequat morbi a ipsum integer a nibh in quis,65.42,,Yes,50.69,177,177,5/27/2019
+178,donec quis orci eget orci vehicula condimentum curabitur in libero ut massa,79.96,,No,46.71,178,178,8/3/2019
+179,eget massa tempor convallis nulla neque libero convallis eget eleifend,46.79,,No,42.87,179,179,5/17/2019
+180,pulvinar sed nisl nunc rhoncus dui vel sem sed sagittis nam congue risus semper porta volutpat quam,49.11,,Yes,38.41,180,180,12/13/2019
+181,nibh fusce lacus purus aliquet at feugiat non pretium quis lectus suspendisse potenti in eleifend,29.94,,Yes,56.13,181,181,12/27/2019
+182,pede lobortis ligula sit amet eleifend pede libero quis orci nullam molestie nibh in lectus pellentesque at,14.11,,Yes,73.47,182,182,12/5/2019
+183,gravida sem praesent id massa id nisl venenatis lacinia aenean sit amet justo morbi ut odio cras,10.11,,Yes,56.92,183,183,6/6/2019
+184,volutpat in congue etiam justo etiam pretium iaculis justo in hac habitasse platea dictumst etiam faucibus cursus urna ut tellus,22.41,,No,47.17,184,184,7/13/2019
+185,eros vestibulum ac est lacinia nisi venenatis tristique fusce congue diam,10.83,,Yes,49.94,185,185,12/27/2019
+186,vulputate nonummy maecenas tincidunt lacus at velit vivamus vel nulla eget eros elementum,7.92,,Yes,68.63,186,186,7/20/2019
+187,imperdiet sapien urna pretium nisl ut volutpat sapien arcu sed augue,9.36,,Yes,33.3,187,187,6/14/2019
+188,et tempus semper est quam pharetra magna ac consequat metus sapien ut,69.74,,No,38.13,188,188,5/20/2019
+189,lorem integer tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum sed magna at nunc commodo placerat,76.06,,Yes,57.75,189,189,6/27/2019
+190,vestibulum rutrum rutrum neque aenean auctor gravida sem praesent id massa id nisl venenatis,39.1,,No,61.23,190,190,5/13/2019
+191,proin risus praesent lectus vestibulum quam sapien varius ut blandit non interdum in,61.3,,Yes,57.58,191,191,8/31/2019
+192,hendrerit at vulputate vitae nisl aenean lectus pellentesque eget nunc donec quis orci eget,60.07,,Yes,49.43,192,192,7/24/2019
+193,primis in faucibus orci luctus et ultrices posuere cubilia curae nulla dapibus dolor vel,24.73,,No,55.42,193,193,12/17/2019
+194,duis bibendum felis sed interdum venenatis turpis enim blandit mi in porttitor pede,11.29,,No,41.02,194,194,7/17/2019
+195,eget rutrum at lorem integer tincidunt ante vel ipsum praesent blandit lacinia,12.22,,No,66.0,195,195,10/15/2019
+196,pellentesque ultrices mattis odio donec vitae nisi nam ultrices libero non,52.82,,No,48.89,196,196,9/20/2019
+197,justo pellentesque viverra pede ac diam cras pellentesque volutpat dui maecenas tristique est et tempus semper est,70.97,,Yes,51.95,197,197,10/31/2019
+198,adipiscing lorem vitae mattis nibh ligula nec sem duis aliquam convallis nunc proin at turpis a pede posuere nonummy,10.23,,No,60.81,198,198,8/18/2019
+199,quis turpis eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis turpis sed ante vivamus,69.73,,No,50.08,199,199,10/21/2019
+200,interdum eu tincidunt in leo maecenas pulvinar lobortis est phasellus sit amet erat nulla tempus,12.6,,Yes,45.68,200,200,10/27/2019
+201,vitae quam suspendisse potenti nullam porttitor lacus at turpis donec,21.06,,No,46.15,201,201,6/24/2019
+202,fringilla rhoncus mauris enim leo rhoncus sed vestibulum sit amet cursus,45.23,,No,42.8,202,202,6/29/2019
+203,suscipit nulla elit ac nulla sed vel enim sit amet nunc viverra dapibus nulla suscipit ligula in lacus curabitur,14.15,,No,55.62,203,203,5/11/2019
+204,sem fusce consequat nulla nisl nunc nisl duis bibendum felis sed interdum,47.23,,No,40.94,204,204,12/15/2019
+205,morbi vestibulum velit id pretium iaculis diam erat fermentum justo nec condimentum neque sapien placerat ante nulla justo aliquam,28.22,,No,54.2,205,205,5/6/2019
+206,vivamus metus arcu adipiscing molestie hendrerit at vulputate vitae nisl aenean,48.32,,No,31.96,206,206,11/13/2019
+207,magna ac consequat metus sapien ut nunc vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia,12.19,,Yes,54.55,207,207,11/15/2019
+208,cras in purus eu magna vulputate luctus cum sociis natoque penatibus et,51.34,,No,42.9,208,208,12/1/2019
+209,volutpat erat quisque erat eros viverra eget congue eget semper rutrum nulla nunc purus,65.85,,Yes,51.5,209,209,11/29/2019
+210,sit amet turpis elementum ligula vehicula consequat morbi a ipsum integer,62.13,,No,54.21,210,210,11/7/2019
+211,nec dui luctus rutrum nulla tellus in sagittis dui vel nisl duis ac nibh fusce lacus purus aliquet at feugiat,55.11,,No,62.89,211,211,6/20/2019
+212,nullam molestie nibh in lectus pellentesque at nulla suspendisse potenti cras in purus,29.73,,No,62.58,212,212,8/12/2019
+213,erat tortor sollicitudin mi sit amet lobortis sapien sapien non,77.52,,No,53.55,213,213,5/10/2019
+214,magna bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt eu felis fusce posuere felis sed lacus,2.79,,Yes,60.2,214,214,6/30/2019
+215,ipsum ac tellus semper interdum mauris ullamcorper purus sit amet nulla quisque,54.22,,Yes,47.56,215,215,7/8/2019
+216,ligula pellentesque ultrices phasellus id sapien in sapien iaculis congue vivamus,75.94,,No,64.28,216,216,6/10/2019
+217,aliquam lacus morbi quis tortor id nulla ultrices aliquet maecenas leo odio condimentum id luctus,23.77,,Yes,35.68,217,217,12/11/2019
+218,bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt eu felis fusce posuere felis sed lacus morbi sem mauris,3.5,,No,51.66,218,218,8/30/2019
+219,dolor sit amet consectetuer adipiscing elit proin risus praesent lectus vestibulum quam sapien varius ut blandit non interdum in,63.91,,No,64.35,219,219,9/24/2019
+220,morbi ut odio cras mi pede malesuada in imperdiet et commodo vulputate justo in blandit,30.56,,No,58.95,220,220,5/3/2019
+221,enim sit amet nunc viverra dapibus nulla suscipit ligula in lacus curabitur at ipsum ac tellus,55.04,,Yes,57.27,221,221,5/4/2019
+222,aliquam non mauris morbi non lectus aliquam sit amet diam in magna bibendum imperdiet nullam orci pede venenatis non,66.92,,Yes,43.6,222,222,12/9/2019
+223,lorem id ligula suspendisse ornare consequat lectus in est risus auctor sed tristique in tempus sit amet,75.82,,Yes,72.49,223,223,6/20/2019
+224,consectetuer adipiscing elit proin interdum mauris non ligula pellentesque ultrices phasellus id sapien in sapien iaculis congue vivamus metus,70.2,,Yes,56.9,224,224,12/13/2019
+225,nulla ultrices aliquet maecenas leo odio condimentum id luctus nec molestie sed justo pellentesque viverra pede ac diam,57.85,,No,45.53,225,225,6/29/2019
+226,a odio in hac habitasse platea dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis molestie lorem,21.62,,Yes,34.15,226,226,10/12/2019
+227,porttitor lacus at turpis donec posuere metus vitae ipsum aliquam non mauris morbi non lectus,70.71,,Yes,64.34,227,227,12/13/2019
+228,quisque id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum,26.56,,Yes,55.65,228,228,5/13/2019
+229,mauris vulputate elementum nullam varius nulla facilisi cras non velit nec nisi vulputate nonummy maecenas tincidunt lacus at velit,14.67,,No,57.02,229,229,10/7/2019
+230,porttitor lacus at turpis donec posuere metus vitae ipsum aliquam non mauris morbi non lectus aliquam sit amet,37.98,,Yes,61.36,230,230,9/5/2019
+231,aliquet pulvinar sed nisl nunc rhoncus dui vel sem sed sagittis,30.82,,Yes,66.46,231,231,10/29/2019
+232,varius ut blandit non interdum in ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia,20.67,,Yes,49.31,232,232,7/10/2019
+233,volutpat eleifend donec ut dolor morbi vel lectus in quam fringilla rhoncus mauris enim leo rhoncus,54.09,,Yes,39.45,233,233,11/24/2019
+234,odio consequat varius integer ac leo pellentesque ultrices mattis odio donec vitae nisi nam ultrices libero non mattis pulvinar nulla,48.16,,Yes,32.22,234,234,7/12/2019
+235,turpis enim blandit mi in porttitor pede justo eu massa donec,43.12,,No,47.52,235,235,12/23/2019
+236,augue aliquam erat volutpat in congue etiam justo etiam pretium,34.56,,No,39.27,236,236,9/11/2019
+237,leo pellentesque ultrices mattis odio donec vitae nisi nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue a,0.72,,No,40.58,237,237,10/31/2019
+238,natoque penatibus et magnis dis parturient montes nascetur ridiculus mus etiam,45.14,,Yes,46.31,238,238,6/12/2019
+239,eget orci vehicula condimentum curabitur in libero ut massa volutpat convallis morbi odio odio elementum eu,16.72,,No,47.18,239,239,11/9/2019
+240,risus dapibus augue vel accumsan tellus nisi eu orci mauris lacinia sapien,26.0,,No,51.75,240,240,9/26/2019
+241,curae mauris viverra diam vitae quam suspendisse potenti nullam porttitor lacus at turpis donec,60.8,,No,42.82,241,241,5/27/2019
+242,purus aliquet at feugiat non pretium quis lectus suspendisse potenti in eleifend quam a odio in hac,32.2,,Yes,64.2,242,242,8/3/2019
+243,ullamcorper purus sit amet nulla quisque arcu libero rutrum ac lobortis vel dapibus at diam nam tristique,19.34,,Yes,50.51,243,243,7/31/2019
+244,nunc rhoncus dui vel sem sed sagittis nam congue risus semper porta volutpat quam,62.42,,No,50.74,244,244,10/22/2019
+245,curae duis faucibus accumsan odio curabitur convallis duis consequat dui nec nisi volutpat eleifend donec,21.04,,Yes,35.15,245,245,9/30/2019
+246,at velit vivamus vel nulla eget eros elementum pellentesque quisque porta volutpat erat quisque,70.0,,No,58.05,246,246,12/26/2019
+247,sem duis aliquam convallis nunc proin at turpis a pede posuere nonummy integer non velit donec,19.66,,No,44.68,247,247,11/30/2019
+248,massa donec dapibus duis at velit eu est congue elementum in hac habitasse platea dictumst,21.99,,Yes,51.52,248,248,9/28/2019
+249,eget eleifend luctus ultricies eu nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum primis in,18.35,,No,49.8,249,249,10/5/2019
+250,nulla sed vel enim sit amet nunc viverra dapibus nulla suscipit,48.33,,Yes,44.81,250,250,8/30/2019
+251,convallis nunc proin at turpis a pede posuere nonummy integer non,16.44,,Yes,69.85,251,251,12/24/2019
+252,amet sem fusce consequat nulla nisl nunc nisl duis bibendum felis sed interdum venenatis turpis enim blandit mi in porttitor,19.72,,Yes,41.84,252,252,7/10/2019
+253,libero ut massa volutpat convallis morbi odio odio elementum eu interdum eu tincidunt in leo,54.11,,No,45.45,253,253,12/22/2019
+254,pellentesque ultrices mattis odio donec vitae nisi nam ultrices libero non mattis pulvinar nulla,6.54,,Yes,54.97,254,254,6/18/2019
+255,dictumst etiam faucibus cursus urna ut tellus nulla ut erat id mauris vulputate,37.59,,No,42.6,255,255,5/20/2019
+256,odio in hac habitasse platea dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis molestie,77.91,,Yes,23.12,256,256,9/2/2019
+257,ultrices posuere cubilia curae duis faucibus accumsan odio curabitur convallis duis consequat dui nec nisi,11.37,,Yes,27.81,257,257,10/12/2019
+258,tempor convallis nulla neque libero convallis eget eleifend luctus ultricies eu nibh quisque id justo,22.5,,No,33.79,258,258,10/21/2019
+259,posuere metus vitae ipsum aliquam non mauris morbi non lectus aliquam sit amet diam in,53.65,,No,45.52,259,259,6/22/2019
+260,fusce lacus purus aliquet at feugiat non pretium quis lectus suspendisse potenti in eleifend,36.54,,No,49.67,260,260,7/18/2019
+261,penatibus et magnis dis parturient montes nascetur ridiculus mus etiam vel augue vestibulum rutrum,46.07,,No,64.02,261,261,7/15/2019
+262,sem duis aliquam convallis nunc proin at turpis a pede posuere nonummy integer non velit donec diam neque vestibulum eget,51.63,,No,29.59,262,262,10/18/2019
+263,nam nulla integer pede justo lacinia eget tincidunt eget tempus vel pede morbi porttitor lorem,63.61,,Yes,54.12,263,263,6/3/2019
+264,lobortis convallis tortor risus dapibus augue vel accumsan tellus nisi eu orci mauris lacinia sapien quis libero nullam sit amet,16.94,,Yes,53.35,264,264,12/21/2019
+265,eleifend luctus ultricies eu nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum primis in faucibus orci,26.57,,No,55.1,265,265,6/11/2019
+266,sed augue aliquam erat volutpat in congue etiam justo etiam pretium iaculis justo in hac habitasse platea dictumst etiam faucibus,47.98,,No,59.81,266,266,10/2/2019
+267,platea dictumst etiam faucibus cursus urna ut tellus nulla ut erat id mauris vulputate,10.87,,No,57.16,267,267,9/18/2019
+268,cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus etiam vel,37.99,,No,33.79,268,268,8/29/2019
+269,augue a suscipit nulla elit ac nulla sed vel enim sit amet nunc viverra,10.3,,Yes,64.63,269,269,9/3/2019
+270,et magnis dis parturient montes nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum neque aenean auctor gravida,45.24,,No,63.48,270,270,5/16/2019
+271,nisi volutpat eleifend donec ut dolor morbi vel lectus in quam fringilla rhoncus,47.65,,Yes,59.98,271,271,9/2/2019
+272,rutrum nulla tellus in sagittis dui vel nisl duis ac nibh fusce,25.86,,Yes,50.22,272,272,11/24/2019
+273,vitae nisi nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue,49.08,,No,55.17,273,273,10/6/2019
+274,nec euismod scelerisque quam turpis adipiscing lorem vitae mattis nibh ligula nec sem duis aliquam,31.71,,Yes,40.81,274,274,10/5/2019
+275,dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum at lorem integer,74.47,,No,44.38,275,275,6/22/2019
+276,et commodo vulputate justo in blandit ultrices enim lorem ipsum,15.15,,No,42.89,276,276,12/2/2019
+277,congue diam id ornare imperdiet sapien urna pretium nisl ut volutpat sapien arcu,44.82,,Yes,49.54,277,277,10/11/2019
+278,nec euismod scelerisque quam turpis adipiscing lorem vitae mattis nibh ligula nec sem duis aliquam convallis nunc proin at,65.56,,Yes,60.41,278,278,10/13/2019
+279,mauris enim leo rhoncus sed vestibulum sit amet cursus id turpis integer,18.13,,Yes,54.22,279,279,9/10/2019
+280,sapien arcu sed augue aliquam erat volutpat in congue etiam justo,76.78,,No,39.75,280,280,7/15/2019
+281,est quam pharetra magna ac consequat metus sapien ut nunc vestibulum ante ipsum primis in,74.6,,Yes,44.98,281,281,6/13/2019
+282,quam pede lobortis ligula sit amet eleifend pede libero quis orci nullam molestie,35.39,,No,51.4,282,282,6/21/2019
+283,ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae mauris viverra diam,62.05,,Yes,29.74,283,283,6/16/2019
+284,at velit eu est congue elementum in hac habitasse platea dictumst morbi vestibulum velit id pretium iaculis diam erat,61.55,,No,50.46,284,284,10/17/2019
+285,orci luctus et ultrices posuere cubilia curae mauris viverra diam vitae quam suspendisse potenti nullam porttitor,1.48,,Yes,54.07,285,285,10/15/2019
+286,aliquam convallis nunc proin at turpis a pede posuere nonummy integer non velit donec diam neque vestibulum eget vulputate,52.45,,Yes,50.35,286,286,10/12/2019
+287,pede morbi porttitor lorem id ligula suspendisse ornare consequat lectus,11.95,,No,38.82,287,287,7/9/2019
+288,fusce lacus purus aliquet at feugiat non pretium quis lectus suspendisse potenti in eleifend quam a odio,13.35,,No,51.18,288,288,10/8/2019
+289,imperdiet sapien urna pretium nisl ut volutpat sapien arcu sed augue aliquam erat volutpat in congue,43.14,,No,45.15,289,289,8/13/2019
+290,dolor sit amet consectetuer adipiscing elit proin interdum mauris non ligula pellentesque ultrices phasellus id sapien,44.14,,No,50.78,290,290,11/18/2019
+291,bibendum felis sed interdum venenatis turpis enim blandit mi in porttitor pede justo eu,71.73,,Yes,24.88,291,291,10/23/2019
+292,elit proin interdum mauris non ligula pellentesque ultrices phasellus id sapien in sapien iaculis congue vivamus,32.1,,Yes,50.82,292,292,12/9/2019
+293,integer a nibh in quis justo maecenas rhoncus aliquam lacus morbi quis tortor id nulla ultrices aliquet maecenas leo,67.3,,No,58.84,293,293,5/17/2019
+294,tincidunt nulla mollis molestie lorem quisque ut erat curabitur gravida nisi at nibh in hac habitasse platea,19.79,,Yes,37.5,294,294,8/2/2019
+295,venenatis tristique fusce congue diam id ornare imperdiet sapien urna pretium nisl ut volutpat,49.64,,Yes,46.29,295,295,12/22/2019
+296,ipsum ac tellus semper interdum mauris ullamcorper purus sit amet nulla quisque arcu,66.87,,Yes,67.5,296,296,6/20/2019
+297,dui maecenas tristique est et tempus semper est quam pharetra magna ac consequat metus,8.55,,Yes,47.8,297,297,9/27/2019
+298,sit amet eleifend pede libero quis orci nullam molestie nibh in lectus pellentesque at nulla suspendisse potenti cras in purus,70.9,,Yes,63.01,298,298,12/1/2019
+299,vitae ipsum aliquam non mauris morbi non lectus aliquam sit amet diam in magna bibendum,35.75,,No,33.91,299,299,9/23/2019
+300,vivamus vestibulum sagittis sapien cum sociis natoque penatibus et magnis dis parturient montes nascetur,14.23,,Yes,52.43,300,300,6/29/2019
+301,enim lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris non ligula pellentesque ultrices phasellus id sapien,0.0,,Yes,38.09,301,301,9/24/2019
+302,elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis turpis sed ante vivamus tortor,31.02,,Yes,32.12,302,302,9/22/2019
+303,ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae,57.58,,Yes,43.81,303,303,10/12/2019
+304,ac nibh fusce lacus purus aliquet at feugiat non pretium quis lectus suspendisse potenti in,30.88,,No,33.17,304,304,7/22/2019
+305,dis parturient montes nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum neque aenean auctor gravida sem praesent,15.98,,No,50.51,305,305,10/29/2019
+306,vel ipsum praesent blandit lacinia erat vestibulum sed magna at nunc commodo placerat praesent blandit nam nulla,71.5,,No,75.2,306,306,6/9/2019
+307,semper est quam pharetra magna ac consequat metus sapien ut,34.02,,Yes,50.82,307,307,6/25/2019
+308,pede ac diam cras pellentesque volutpat dui maecenas tristique est et tempus semper est quam pharetra magna ac consequat,70.62,,Yes,74.64,308,308,7/20/2019
+309,blandit ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum,44.71,,No,50.31,309,309,7/18/2019
+310,iaculis justo in hac habitasse platea dictumst etiam faucibus cursus urna ut tellus nulla ut erat id mauris vulputate,64.76,,No,59.97,310,310,7/5/2019
+311,viverra diam vitae quam suspendisse potenti nullam porttitor lacus at turpis donec,30.77,,No,43.87,311,311,12/20/2019
+312,potenti in eleifend quam a odio in hac habitasse platea dictumst,28.1,,No,50.11,312,312,11/15/2019
+313,volutpat dui maecenas tristique est et tempus semper est quam pharetra magna,64.93,,No,52.86,313,313,9/24/2019
+314,porttitor pede justo eu massa donec dapibus duis at velit,29.81,,No,50.24,314,314,9/13/2019
+315,justo in blandit ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris non,8.82,,Yes,57.25,315,315,12/4/2019
+316,ut tellus nulla ut erat id mauris vulputate elementum nullam varius nulla facilisi cras,5.24,,No,72.73,316,316,6/18/2019
+317,quis libero nullam sit amet turpis elementum ligula vehicula consequat morbi a ipsum integer a nibh in quis justo,48.13,,No,60.99,317,317,11/12/2019
+318,mus vivamus vestibulum sagittis sapien cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus etiam vel,34.49,,No,56.49,318,318,9/14/2019
+319,laoreet ut rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel sem sed,9.17,,Yes,58.37,319,319,6/30/2019
+320,turpis enim blandit mi in porttitor pede justo eu massa donec,2.42,,Yes,52.09,320,320,7/23/2019
+321,nulla mollis molestie lorem quisque ut erat curabitur gravida nisi at nibh in hac habitasse platea,0.87,,Yes,54.46,321,321,7/18/2019
+322,mauris ullamcorper purus sit amet nulla quisque arcu libero rutrum ac lobortis vel dapibus at diam nam tristique tortor,34.76,,Yes,53.72,322,322,8/10/2019
+323,posuere felis sed lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc,77.01,,Yes,56.27,323,323,5/21/2019
+324,ac neque duis bibendum morbi non quam nec dui luctus rutrum nulla tellus in sagittis,9.39,,No,56.61,324,324,10/5/2019
+325,nulla tellus in sagittis dui vel nisl duis ac nibh fusce lacus purus aliquet at,78.59,,Yes,54.7,325,325,8/7/2019
+326,commodo placerat praesent blandit nam nulla integer pede justo lacinia eget tincidunt eget tempus vel pede,2.87,,Yes,38.7,326,326,12/13/2019
+327,hac habitasse platea dictumst etiam faucibus cursus urna ut tellus nulla,31.76,,No,35.42,327,327,6/6/2019
+328,vestibulum rutrum rutrum neque aenean auctor gravida sem praesent id massa id nisl venenatis lacinia,54.13,,Yes,48.37,328,328,12/1/2019
+329,iaculis diam erat fermentum justo nec condimentum neque sapien placerat ante nulla justo aliquam,69.75,,Yes,63.07,329,329,11/17/2019
+330,justo in blandit ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris non ligula,49.21,,No,67.87,330,330,5/21/2019
+331,maecenas rhoncus aliquam lacus morbi quis tortor id nulla ultrices aliquet maecenas leo odio condimentum id,10.82,,Yes,34.47,331,331,7/31/2019
+332,feugiat et eros vestibulum ac est lacinia nisi venenatis tristique fusce congue,26.81,,No,56.83,332,332,9/6/2019
+333,vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae,41.62,,Yes,48.41,333,333,10/15/2019
+334,in sagittis dui vel nisl duis ac nibh fusce lacus,71.34,,No,50.22,334,334,5/19/2019
+335,integer pede justo lacinia eget tincidunt eget tempus vel pede morbi porttitor lorem,18.19,,Yes,63.19,335,335,11/27/2019
+336,ligula vehicula consequat morbi a ipsum integer a nibh in quis justo maecenas rhoncus aliquam lacus morbi,62.0,,No,46.24,336,336,7/28/2019
+337,turpis eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan,38.01,,No,67.61,337,337,10/18/2019
+338,metus sapien ut nunc vestibulum ante ipsum primis in faucibus,0.72,,Yes,36.14,338,338,11/8/2019
+339,aenean auctor gravida sem praesent id massa id nisl venenatis lacinia aenean sit amet justo,45.02,,Yes,56.22,339,339,8/24/2019
+340,iaculis justo in hac habitasse platea dictumst etiam faucibus cursus urna ut tellus nulla ut,67.7,,Yes,47.78,340,340,7/20/2019
+341,vehicula condimentum curabitur in libero ut massa volutpat convallis morbi odio odio elementum eu interdum eu tincidunt in leo,76.32,,Yes,55.55,341,341,9/10/2019
+342,dolor sit amet consectetuer adipiscing elit proin risus praesent lectus vestibulum quam,35.07,,Yes,41.62,342,342,11/1/2019
+343,sit amet nunc viverra dapibus nulla suscipit ligula in lacus curabitur at ipsum ac tellus semper interdum mauris,62.38,,No,52.46,343,343,11/12/2019
+344,mi integer ac neque duis bibendum morbi non quam nec dui luctus rutrum nulla tellus in,41.19,,Yes,43.33,344,344,12/20/2019
+345,duis at velit eu est congue elementum in hac habitasse platea dictumst morbi vestibulum velit id pretium,8.9,,Yes,51.3,345,345,6/8/2019
+346,sit amet nulla quisque arcu libero rutrum ac lobortis vel dapibus at diam,7.42,,No,60.93,346,346,7/26/2019
+347,luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur gravida,31.63,,Yes,30.72,347,347,12/19/2019
+348,phasellus sit amet erat nulla tempus vivamus in felis eu sapien cursus vestibulum proin,27.55,,Yes,47.17,348,348,12/13/2019
+349,molestie sed justo pellentesque viverra pede ac diam cras pellentesque volutpat dui maecenas tristique est et,28.03,,Yes,45.79,349,349,12/2/2019
+350,urna ut tellus nulla ut erat id mauris vulputate elementum nullam varius nulla facilisi cras non velit,47.26,,Yes,60.51,350,350,6/1/2019
+351,cursus urna ut tellus nulla ut erat id mauris vulputate elementum nullam varius nulla facilisi cras non velit nec,59.25,,No,52.84,351,351,12/28/2019
+352,ut nulla sed accumsan felis ut at dolor quis odio consequat varius integer ac leo pellentesque ultrices mattis,67.45,,No,52.01,352,352,5/15/2019
+353,tempor turpis nec euismod scelerisque quam turpis adipiscing lorem vitae mattis nibh ligula nec,59.6,,Yes,42.04,353,353,6/22/2019
+354,accumsan tortor quis turpis sed ante vivamus tortor duis mattis egestas metus aenean fermentum donec ut mauris eget massa,77.91,,No,37.48,354,354,9/18/2019
+355,mauris ullamcorper purus sit amet nulla quisque arcu libero rutrum ac lobortis vel dapibus at diam nam tristique,69.65,,Yes,37.62,355,355,5/2/2019
+356,ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus,0.59,,Yes,56.77,356,356,7/31/2019
+357,in tempus sit amet sem fusce consequat nulla nisl nunc nisl duis bibendum felis sed interdum venenatis turpis enim,11.95,,No,56.31,357,357,10/3/2019
+358,duis bibendum felis sed interdum venenatis turpis enim blandit mi in porttitor pede justo eu massa donec dapibus duis,72.45,,Yes,62.26,358,358,11/20/2019
+359,quis libero nullam sit amet turpis elementum ligula vehicula consequat morbi a ipsum integer a nibh,10.24,,No,24.41,359,359,8/11/2019
+360,nulla nunc purus phasellus in felis donec semper sapien a libero nam dui proin leo odio porttitor,43.86,,Yes,48.99,360,360,11/14/2019
+361,justo pellentesque viverra pede ac diam cras pellentesque volutpat dui maecenas,28.71,,No,57.74,361,361,8/11/2019
+362,justo in hac habitasse platea dictumst etiam faucibus cursus urna ut tellus,73.82,,No,49.22,362,362,6/5/2019
+363,integer a nibh in quis justo maecenas rhoncus aliquam lacus morbi quis tortor id nulla ultrices aliquet maecenas leo odio,19.92,,Yes,49.68,363,363,10/4/2019
+364,ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris non ligula pellentesque,67.01,,Yes,50.33,364,364,8/27/2019
+365,enim leo rhoncus sed vestibulum sit amet cursus id turpis integer aliquet massa id,17.05,,Yes,56.0,365,365,10/9/2019
+366,quisque id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere,16.42,,Yes,56.13,366,366,12/11/2019
+367,odio cras mi pede malesuada in imperdiet et commodo vulputate justo in blandit ultrices enim lorem,39.96,,Yes,39.39,367,367,12/5/2019
+368,libero nullam sit amet turpis elementum ligula vehicula consequat morbi a ipsum integer a nibh in quis justo maecenas,67.98,,Yes,48.54,368,368,5/13/2019
+369,sed vel enim sit amet nunc viverra dapibus nulla suscipit,75.39,,No,46.22,369,369,8/3/2019
+370,morbi ut odio cras mi pede malesuada in imperdiet et commodo vulputate justo in blandit ultrices enim,52.84,,Yes,53.53,370,370,7/13/2019
+371,mi sit amet lobortis sapien sapien non mi integer ac neque duis bibendum,62.11,,Yes,36.5,371,371,12/17/2019
+372,pede venenatis non sodales sed tincidunt eu felis fusce posuere felis sed lacus morbi sem mauris laoreet ut rhoncus,73.27,,No,59.86,372,372,6/20/2019
+373,mauris non ligula pellentesque ultrices phasellus id sapien in sapien,8.91,,Yes,37.73,373,373,9/14/2019
+374,nec molestie sed justo pellentesque viverra pede ac diam cras pellentesque volutpat dui maecenas tristique est et,65.08,,No,60.97,374,374,6/8/2019
+375,accumsan felis ut at dolor quis odio consequat varius integer ac leo pellentesque ultrices mattis odio donec vitae nisi nam,44.43,,No,32.83,375,375,10/3/2019
+376,nisi volutpat eleifend donec ut dolor morbi vel lectus in,39.0,,Yes,48.8,376,376,5/4/2019
+377,et magnis dis parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque penatibus,11.04,,Yes,52.33,377,377,12/9/2019
+378,neque libero convallis eget eleifend luctus ultricies eu nibh quisque id justo sit,25.97,,No,54.71,378,378,7/16/2019
+379,orci luctus et ultrices posuere cubilia curae duis faucibus accumsan odio,76.73,,No,56.11,379,379,8/19/2019
+380,eget tempus vel pede morbi porttitor lorem id ligula suspendisse ornare consequat lectus in est risus auctor sed,36.1,,Yes,51.46,380,380,10/15/2019
+381,nulla integer pede justo lacinia eget tincidunt eget tempus vel pede morbi porttitor lorem id ligula,33.94,,Yes,66.37,381,381,9/20/2019
+382,sit amet sem fusce consequat nulla nisl nunc nisl duis bibendum felis sed interdum,28.17,,No,55.17,382,382,7/14/2019
+383,vestibulum sagittis sapien cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus etiam vel augue,48.03,,Yes,37.94,383,383,9/2/2019
+384,nulla neque libero convallis eget eleifend luctus ultricies eu nibh quisque,46.73,,No,48.31,384,384,8/29/2019
+385,nulla nunc purus phasellus in felis donec semper sapien a libero nam dui proin leo odio porttitor,41.53,,No,60.86,385,385,7/3/2019
+386,est phasellus sit amet erat nulla tempus vivamus in felis eu sapien,20.02,,Yes,48.92,386,386,8/21/2019
+387,tincidunt lacus at velit vivamus vel nulla eget eros elementum pellentesque quisque porta,63.11,,Yes,33.48,387,387,5/28/2019
+388,massa tempor convallis nulla neque libero convallis eget eleifend luctus ultricies,57.11,,Yes,50.97,388,388,7/13/2019
+389,nulla ac enim in tempor turpis nec euismod scelerisque quam turpis adipiscing lorem vitae mattis nibh,69.49,,No,44.89,389,389,10/7/2019
+390,consectetuer eget rutrum at lorem integer tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum,45.76,,Yes,52.21,390,390,8/27/2019
+391,montes nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque penatibus et magnis dis,52.17,,No,41.25,391,391,6/3/2019
+392,ut massa quis augue luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur gravida nisi at nibh in hac,55.73,,No,49.88,392,392,9/29/2019
+393,ultrices erat tortor sollicitudin mi sit amet lobortis sapien sapien non mi integer ac neque,34.63,,No,46.34,393,393,10/1/2019
+394,eu mi nulla ac enim in tempor turpis nec euismod scelerisque quam turpis adipiscing lorem,53.69,,Yes,40.74,394,394,11/6/2019
+395,quis orci nullam molestie nibh in lectus pellentesque at nulla suspendisse potenti cras in purus eu,14.66,,Yes,51.46,395,395,7/19/2019
+396,felis eu sapien cursus vestibulum proin eu mi nulla ac enim in tempor turpis nec euismod,67.59,,Yes,45.23,396,396,5/31/2019
+397,commodo placerat praesent blandit nam nulla integer pede justo lacinia eget tincidunt,19.22,,No,61.25,397,397,8/12/2019
+398,lectus aliquam sit amet diam in magna bibendum imperdiet nullam orci pede venenatis non sodales sed,71.87,,Yes,44.18,398,398,8/3/2019
+399,cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque penatibus,63.74,,No,58.0,399,399,9/21/2019
+400,imperdiet nullam orci pede venenatis non sodales sed tincidunt eu felis fusce posuere felis sed lacus morbi sem mauris laoreet,71.34,,No,62.9,400,400,8/10/2019
+401,phasellus id sapien in sapien iaculis congue vivamus metus arcu adipiscing molestie hendrerit at vulputate vitae nisl,33.81,,Yes,54.16,401,401,12/13/2019
+402,convallis duis consequat dui nec nisi volutpat eleifend donec ut dolor morbi vel lectus in quam fringilla,1.47,,Yes,43.19,402,402,11/17/2019
+403,turpis donec posuere metus vitae ipsum aliquam non mauris morbi non lectus aliquam sit amet diam in magna bibendum imperdiet,76.7,,Yes,54.53,403,403,5/3/2019
+404,non mauris morbi non lectus aliquam sit amet diam in magna bibendum imperdiet nullam orci pede,45.73,,No,60.04,404,404,10/24/2019
+405,nullam sit amet turpis elementum ligula vehicula consequat morbi a ipsum integer a nibh,49.05,,Yes,58.92,405,405,5/9/2019
+406,eget semper rutrum nulla nunc purus phasellus in felis donec semper sapien a libero nam dui proin leo,47.29,,Yes,62.43,406,406,11/30/2019
+407,quam pede lobortis ligula sit amet eleifend pede libero quis orci nullam molestie nibh in lectus pellentesque at nulla,8.64,,Yes,62.3,407,407,7/29/2019
+408,in faucibus orci luctus et ultrices posuere cubilia curae nulla dapibus dolor vel est donec,24.75,,No,42.58,408,408,11/6/2019
+409,nulla suscipit ligula in lacus curabitur at ipsum ac tellus semper interdum mauris ullamcorper purus,12.39,,No,77.2,409,409,12/28/2019
+410,arcu sed augue aliquam erat volutpat in congue etiam justo etiam pretium iaculis justo in hac habitasse platea,49.99,,No,46.74,410,410,6/23/2019
+411,pellentesque ultrices mattis odio donec vitae nisi nam ultrices libero non mattis pulvinar nulla pede,33.21,,No,43.62,411,411,7/28/2019
+412,cubilia curae mauris viverra diam vitae quam suspendisse potenti nullam porttitor lacus at turpis donec posuere metus vitae ipsum,14.4,,Yes,53.96,412,412,7/20/2019
+413,tortor quis turpis sed ante vivamus tortor duis mattis egestas metus aenean fermentum donec ut mauris eget massa,72.07,,No,36.86,413,413,7/21/2019
+414,imperdiet sapien urna pretium nisl ut volutpat sapien arcu sed augue aliquam erat volutpat,75.83,,No,49.13,414,414,10/20/2019
+415,condimentum curabitur in libero ut massa volutpat convallis morbi odio odio elementum eu interdum eu tincidunt in leo,59.3,,No,56.36,415,415,12/6/2019
+416,in leo maecenas pulvinar lobortis est phasellus sit amet erat nulla,57.82,,Yes,49.75,416,416,5/17/2019
+417,porttitor pede justo eu massa donec dapibus duis at velit eu est congue elementum in hac habitasse platea dictumst morbi,1.91,,Yes,51.01,417,417,7/7/2019
+418,felis sed interdum venenatis turpis enim blandit mi in porttitor pede justo eu massa,4.6,,No,37.32,418,418,7/22/2019
+419,et commodo vulputate justo in blandit ultrices enim lorem ipsum dolor sit,0.44,,Yes,41.29,419,419,8/11/2019
+420,venenatis tristique fusce congue diam id ornare imperdiet sapien urna pretium,60.2,,Yes,40.87,420,420,12/29/2019
+421,platea dictumst maecenas ut massa quis augue luctus tincidunt nulla,34.21,,No,38.81,421,421,9/30/2019
+422,felis eu sapien cursus vestibulum proin eu mi nulla ac enim in tempor turpis nec euismod scelerisque quam,44.93,,No,43.81,422,422,9/1/2019
+423,praesent blandit nam nulla integer pede justo lacinia eget tincidunt,51.69,,Yes,58.29,423,423,5/24/2019
+424,quam a odio in hac habitasse platea dictumst maecenas ut massa quis augue luctus tincidunt nulla,73.13,,No,51.24,424,424,12/16/2019
+425,eu mi nulla ac enim in tempor turpis nec euismod scelerisque quam turpis adipiscing lorem vitae mattis,65.65,,No,44.81,425,425,8/3/2019
+426,luctus et ultrices posuere cubilia curae duis faucibus accumsan odio curabitur convallis duis,9.79,,No,38.66,426,426,7/23/2019
+427,ut massa quis augue luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur gravida nisi,52.32,,No,42.55,427,427,6/2/2019
+428,cubilia curae mauris viverra diam vitae quam suspendisse potenti nullam porttitor lacus at turpis donec posuere metus vitae ipsum,78.67,,No,51.97,428,428,5/24/2019
+429,eleifend pede libero quis orci nullam molestie nibh in lectus,69.34,,No,44.18,429,429,10/4/2019
+430,in lacus curabitur at ipsum ac tellus semper interdum mauris ullamcorper purus,5.79,,Yes,55.62,430,430,8/3/2019
+431,venenatis non sodales sed tincidunt eu felis fusce posuere felis sed,26.14,,Yes,64.91,431,431,8/6/2019
+432,non quam nec dui luctus rutrum nulla tellus in sagittis dui vel nisl duis ac nibh fusce lacus purus,35.87,,Yes,60.07,432,432,10/12/2019
+433,donec vitae nisi nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue a suscipit nulla,22.33,,No,41.48,433,433,8/15/2019
+434,convallis tortor risus dapibus augue vel accumsan tellus nisi eu orci mauris lacinia sapien quis libero nullam sit amet turpis,16.51,,Yes,43.18,434,434,8/12/2019
+435,nullam porttitor lacus at turpis donec posuere metus vitae ipsum aliquam non,36.46,,Yes,60.43,435,435,6/7/2019
+436,accumsan felis ut at dolor quis odio consequat varius integer ac leo pellentesque ultrices mattis odio donec,23.61,,Yes,54.45,436,436,12/6/2019
+437,vestibulum quam sapien varius ut blandit non interdum in ante vestibulum ante ipsum,71.69,,Yes,48.37,437,437,9/2/2019
+438,pellentesque ultrices mattis odio donec vitae nisi nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue a,58.35,,Yes,41.63,438,438,11/21/2019
+439,pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet lobortis,51.31,,Yes,32.46,439,439,9/26/2019
+440,lorem id ligula suspendisse ornare consequat lectus in est risus auctor sed tristique in,35.3,,Yes,50.54,440,440,7/29/2019
+441,urna pretium nisl ut volutpat sapien arcu sed augue aliquam erat volutpat in congue etiam justo etiam pretium iaculis,34.57,,No,59.14,441,441,9/10/2019
+442,sed vel enim sit amet nunc viverra dapibus nulla suscipit ligula in lacus curabitur,59.68,,No,64.2,442,442,8/9/2019
+443,sed tristique in tempus sit amet sem fusce consequat nulla nisl nunc nisl duis,62.26,,No,49.86,443,443,7/27/2019
+444,neque vestibulum eget vulputate ut ultrices vel augue vestibulum ante ipsum primis in faucibus,10.46,,No,47.87,444,444,10/7/2019
+445,eu massa donec dapibus duis at velit eu est congue elementum in hac habitasse,14.13,,Yes,48.78,445,445,5/8/2019
+446,turpis enim blandit mi in porttitor pede justo eu massa,13.48,,Yes,59.2,446,446,7/22/2019
+447,dolor sit amet consectetuer adipiscing elit proin risus praesent lectus,9.75,,Yes,54.64,447,447,12/12/2019
+448,amet justo morbi ut odio cras mi pede malesuada in imperdiet,8.94,,Yes,56.34,448,448,8/29/2019
+449,vitae ipsum aliquam non mauris morbi non lectus aliquam sit amet diam in magna bibendum imperdiet nullam orci,21.36,,No,49.5,449,449,7/13/2019
+450,ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae nulla dapibus dolor vel est,32.15,,No,30.29,450,450,5/14/2019
+451,vel nisl duis ac nibh fusce lacus purus aliquet at feugiat non,57.92,,Yes,62.4,451,451,8/8/2019
+452,in tempus sit amet sem fusce consequat nulla nisl nunc nisl duis,37.36,,No,33.79,452,452,5/4/2019
+453,vivamus vel nulla eget eros elementum pellentesque quisque porta volutpat erat quisque erat eros viverra eget congue eget semper,11.36,,Yes,44.51,453,453,9/22/2019
+454,dui luctus rutrum nulla tellus in sagittis dui vel nisl duis,54.92,,Yes,55.43,454,454,7/30/2019
+455,mi nulla ac enim in tempor turpis nec euismod scelerisque quam,2.15,,No,66.06,455,455,10/7/2019
+456,quam sapien varius ut blandit non interdum in ante vestibulum,39.39,,No,58.47,456,456,10/25/2019
+457,mauris morbi non lectus aliquam sit amet diam in magna bibendum imperdiet nullam orci pede venenatis non sodales sed,9.6,,No,61.52,457,457,8/10/2019
+458,dapibus augue vel accumsan tellus nisi eu orci mauris lacinia sapien quis libero nullam sit amet turpis elementum ligula,69.72,,No,48.68,458,458,11/1/2019
+459,ac consequat metus sapien ut nunc vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere,67.69,,Yes,51.45,459,459,7/1/2019
+460,lorem integer tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum,36.47,,No,35.77,460,460,9/2/2019
+461,auctor sed tristique in tempus sit amet sem fusce consequat nulla nisl,76.76,,Yes,48.93,461,461,8/13/2019
+462,aliquam lacus morbi quis tortor id nulla ultrices aliquet maecenas leo odio condimentum,35.5,,Yes,55.38,462,462,11/1/2019
+463,platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt,33.64,,Yes,34.83,463,463,9/13/2019
+464,vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet lobortis sapien sapien non mi integer ac neque duis,63.48,,Yes,41.1,464,464,9/22/2019
+465,luctus et ultrices posuere cubilia curae nulla dapibus dolor vel est donec odio justo sollicitudin,19.73,,Yes,43.01,465,465,12/28/2019
+466,tellus in sagittis dui vel nisl duis ac nibh fusce lacus,63.44,,No,35.94,466,466,10/29/2019
+467,pretium quis lectus suspendisse potenti in eleifend quam a odio in hac habitasse platea dictumst maecenas,57.38,,Yes,46.03,467,467,5/4/2019
+468,metus sapien ut nunc vestibulum ante ipsum primis in faucibus orci luctus et,11.89,,Yes,54.26,468,468,12/12/2019
+469,mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel sem sed sagittis nam congue,69.5,,Yes,42.7,469,469,9/8/2019
+470,ac leo pellentesque ultrices mattis odio donec vitae nisi nam ultrices libero non mattis pulvinar nulla pede ullamcorper,26.5,,Yes,48.73,470,470,9/3/2019
+471,nullam sit amet turpis elementum ligula vehicula consequat morbi a ipsum integer a nibh in quis justo maecenas rhoncus aliquam,4.41,,Yes,37.54,471,471,11/10/2019
+472,felis donec semper sapien a libero nam dui proin leo odio porttitor id consequat in consequat,2.57,,No,64.1,472,472,10/22/2019
+473,quis augue luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur gravida nisi,49.91,,No,39.75,473,473,8/4/2019
+474,amet sapien dignissim vestibulum vestibulum ante ipsum primis in faucibus orci luctus,57.29,,No,62.52,474,474,7/27/2019
+475,massa volutpat convallis morbi odio odio elementum eu interdum eu tincidunt in leo maecenas pulvinar lobortis est phasellus sit amet,59.23,,No,35.93,475,475,9/21/2019
+476,integer ac leo pellentesque ultrices mattis odio donec vitae nisi nam,0.96,,No,54.73,476,476,8/30/2019
+477,orci vehicula condimentum curabitur in libero ut massa volutpat convallis morbi odio odio,69.01,,No,53.13,477,477,6/24/2019
+478,diam cras pellentesque volutpat dui maecenas tristique est et tempus,66.02,,Yes,54.06,478,478,10/11/2019
+479,curae duis faucibus accumsan odio curabitur convallis duis consequat dui nec nisi volutpat eleifend donec ut dolor morbi vel,74.21,,No,53.68,479,479,8/9/2019
+480,sed nisl nunc rhoncus dui vel sem sed sagittis nam,77.71,,Yes,45.94,480,480,10/10/2019
+481,id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum primis in faucibus orci luctus,75.93,,Yes,56.01,481,481,5/24/2019
+482,nec dui luctus rutrum nulla tellus in sagittis dui vel nisl duis ac nibh fusce lacus purus aliquet at feugiat,45.13,,Yes,42.41,482,482,12/27/2019
+483,duis at velit eu est congue elementum in hac habitasse platea dictumst morbi vestibulum velit id pretium,40.31,,Yes,50.01,483,483,6/11/2019
+484,commodo vulputate justo in blandit ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum,43.54,,Yes,54.58,484,484,8/15/2019
+485,sed interdum venenatis turpis enim blandit mi in porttitor pede justo eu,74.63,,No,45.13,485,485,5/4/2019
+486,amet nulla quisque arcu libero rutrum ac lobortis vel dapibus at diam nam,61.6,,Yes,43.94,486,486,7/1/2019
+487,natoque penatibus et magnis dis parturient montes nascetur ridiculus mus etiam vel augue,56.58,,Yes,42.68,487,487,7/14/2019
+488,ornare consequat lectus in est risus auctor sed tristique in tempus sit amet sem fusce,33.4,,No,65.85,488,488,12/26/2019
+489,dolor sit amet consectetuer adipiscing elit proin risus praesent lectus vestibulum quam sapien varius ut blandit non interdum,38.67,,Yes,43.77,489,489,9/4/2019
+490,nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue a suscipit nulla elit ac nulla sed vel,27.29,,Yes,62.48,490,490,7/7/2019
+491,quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum sit amet,49.38,,Yes,55.37,491,491,10/26/2019
+492,eros suspendisse accumsan tortor quis turpis sed ante vivamus tortor duis mattis,60.55,,Yes,36.48,492,492,5/24/2019
+493,eu orci mauris lacinia sapien quis libero nullam sit amet turpis elementum ligula vehicula consequat morbi,14.14,,Yes,60.01,493,493,9/18/2019
+494,vel ipsum praesent blandit lacinia erat vestibulum sed magna at nunc commodo,44.58,,No,39.43,494,494,7/8/2019
+495,augue vel accumsan tellus nisi eu orci mauris lacinia sapien quis,44.79,,Yes,45.99,495,495,7/10/2019
+496,blandit non interdum in ante vestibulum ante ipsum primis in faucibus orci luctus et,21.72,,Yes,57.8,496,496,10/1/2019
+497,praesent lectus vestibulum quam sapien varius ut blandit non interdum in ante vestibulum,6.6,,Yes,39.15,497,497,9/2/2019
+498,ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae nulla dapibus dolor,8.53,,No,49.72,498,498,12/30/2019
+499,risus auctor sed tristique in tempus sit amet sem fusce consequat nulla nisl nunc nisl duis bibendum felis,63.31,,No,59.51,499,499,11/29/2019
+500,nulla ut erat id mauris vulputate elementum nullam varius nulla,37.21,,No,39.57,500,500,6/24/2019
+501,venenatis non sodales sed tincidunt eu felis fusce posuere felis sed lacus morbi sem mauris laoreet,75.98,,Yes,47.13,501,501,6/23/2019
+502,consequat varius integer ac leo pellentesque ultrices mattis odio donec vitae,73.89,,Yes,51.4,502,502,11/20/2019
+503,ipsum integer a nibh in quis justo maecenas rhoncus aliquam lacus morbi quis tortor id nulla ultrices,14.91,,No,54.89,503,503,11/27/2019
+504,hendrerit at vulputate vitae nisl aenean lectus pellentesque eget nunc donec quis orci eget orci vehicula condimentum curabitur in,52.8,,No,61.36,504,504,11/8/2019
+505,erat id mauris vulputate elementum nullam varius nulla facilisi cras non,10.36,,No,35.93,505,505,7/6/2019
+506,congue risus semper porta volutpat quam pede lobortis ligula sit amet eleifend pede,63.77,,Yes,52.41,506,506,5/19/2019
+507,ac diam cras pellentesque volutpat dui maecenas tristique est et tempus semper est quam pharetra magna,20.14,,Yes,63.29,507,507,7/8/2019
+508,cubilia curae duis faucibus accumsan odio curabitur convallis duis consequat dui nec nisi volutpat eleifend donec ut dolor,19.73,,Yes,44.63,508,508,10/2/2019
+509,donec vitae nisi nam ultrices libero non mattis pulvinar nulla,64.01,,Yes,53.3,509,509,10/1/2019
+510,amet consectetuer adipiscing elit proin interdum mauris non ligula pellentesque ultrices phasellus id sapien in sapien,63.62,,Yes,38.13,510,510,6/7/2019
+511,posuere felis sed lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc rhoncus dui,68.24,,No,53.7,511,511,5/16/2019
+512,augue luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur gravida nisi at nibh,42.34,,Yes,70.62,512,512,8/19/2019
+513,erat quisque erat eros viverra eget congue eget semper rutrum nulla nunc purus phasellus in felis,22.18,,Yes,52.67,513,513,9/21/2019
+514,ut blandit non interdum in ante vestibulum ante ipsum primis in faucibus orci luctus et,21.52,,Yes,41.51,514,514,6/19/2019
+515,rutrum nulla tellus in sagittis dui vel nisl duis ac nibh fusce lacus purus,67.64,,No,48.16,515,515,8/18/2019
+516,nisl ut volutpat sapien arcu sed augue aliquam erat volutpat in congue etiam justo etiam pretium iaculis justo in,39.96,,Yes,42.46,516,516,12/30/2019
+517,praesent blandit nam nulla integer pede justo lacinia eget tincidunt eget tempus,44.44,,Yes,36.78,517,517,10/13/2019
+518,viverra pede ac diam cras pellentesque volutpat dui maecenas tristique est et tempus semper est quam,38.82,,No,52.53,518,518,9/27/2019
+519,justo sit amet sapien dignissim vestibulum vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae,53.86,,No,52.33,519,519,11/15/2019
+520,mollis molestie lorem quisque ut erat curabitur gravida nisi at nibh in hac habitasse platea dictumst aliquam,3.38,,Yes,45.33,520,520,7/25/2019
+521,gravida sem praesent id massa id nisl venenatis lacinia aenean,29.93,,Yes,60.47,521,521,5/6/2019
+522,potenti nullam porttitor lacus at turpis donec posuere metus vitae ipsum aliquam non mauris morbi non,26.67,,No,49.02,522,522,5/12/2019
+523,integer tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum sed magna at nunc commodo placerat praesent blandit,53.83,,Yes,58.84,523,523,12/21/2019
+524,sit amet sapien dignissim vestibulum vestibulum ante ipsum primis in faucibus orci,55.78,,No,56.9,524,524,7/17/2019
+525,ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae mauris viverra diam vitae quam suspendisse potenti nullam,52.06,,Yes,44.7,525,525,8/30/2019
+526,odio odio elementum eu interdum eu tincidunt in leo maecenas pulvinar lobortis est phasellus,14.26,,Yes,60.81,526,526,11/17/2019
+527,enim leo rhoncus sed vestibulum sit amet cursus id turpis integer,20.91,,Yes,36.49,527,527,9/18/2019
+528,non velit nec nisi vulputate nonummy maecenas tincidunt lacus at velit,76.3,,No,45.51,528,528,5/16/2019
+529,velit eu est congue elementum in hac habitasse platea dictumst morbi vestibulum velit id pretium iaculis diam erat fermentum,57.25,,No,40.74,529,529,11/7/2019
+530,vehicula condimentum curabitur in libero ut massa volutpat convallis morbi odio odio elementum,28.99,,No,44.82,530,530,7/22/2019
+531,congue eget semper rutrum nulla nunc purus phasellus in felis donec,49.33,,No,42.17,531,531,9/23/2019
+532,sit amet consectetuer adipiscing elit proin risus praesent lectus vestibulum quam sapien varius ut blandit non interdum,40.39,,No,60.27,532,532,8/1/2019
+533,erat curabitur gravida nisi at nibh in hac habitasse platea dictumst aliquam,23.56,,Yes,56.1,533,533,6/13/2019
+534,non quam nec dui luctus rutrum nulla tellus in sagittis dui vel nisl duis ac nibh fusce lacus purus aliquet,71.03,,No,57.7,534,534,12/18/2019
+535,id massa id nisl venenatis lacinia aenean sit amet justo morbi ut odio cras mi,74.41,,Yes,46.78,535,535,10/3/2019
+536,donec ut dolor morbi vel lectus in quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum,38.64,,No,60.36,536,536,12/29/2019
+537,ullamcorper augue a suscipit nulla elit ac nulla sed vel enim sit amet nunc,75.27,,No,57.16,537,537,5/9/2019
+538,nulla dapibus dolor vel est donec odio justo sollicitudin ut suscipit a feugiat et,33.01,,No,66.7,538,538,10/9/2019
+539,orci luctus et ultrices posuere cubilia curae duis faucibus accumsan odio curabitur convallis duis,32.46,,No,40.11,539,539,5/23/2019
+540,dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis molestie lorem quisque ut,12.66,,No,54.68,540,540,8/25/2019
+541,imperdiet sapien urna pretium nisl ut volutpat sapien arcu sed,58.51,,Yes,53.78,541,541,6/26/2019
+542,eu massa donec dapibus duis at velit eu est congue elementum in hac,31.3,,No,50.78,542,542,6/10/2019
+543,vel nisl duis ac nibh fusce lacus purus aliquet at feugiat non pretium quis lectus suspendisse potenti in eleifend,51.63,,Yes,45.13,543,543,8/23/2019
+544,dolor sit amet consectetuer adipiscing elit proin risus praesent lectus vestibulum quam,37.89,,Yes,40.03,544,544,5/12/2019
+545,congue risus semper porta volutpat quam pede lobortis ligula sit amet eleifend,21.11,,No,48.15,545,545,5/21/2019
+546,massa tempor convallis nulla neque libero convallis eget eleifend luctus ultricies eu nibh quisque id justo,42.81,,No,51.1,546,546,12/14/2019
+547,quisque porta volutpat erat quisque erat eros viverra eget congue eget semper rutrum nulla nunc purus phasellus in felis,24.09,,No,43.05,547,547,7/24/2019
+548,sit amet justo morbi ut odio cras mi pede malesuada in imperdiet,5.69,,Yes,42.67,548,548,7/23/2019
+549,nunc rhoncus dui vel sem sed sagittis nam congue risus semper porta volutpat,35.83,,No,56.82,549,549,6/23/2019
+550,luctus et ultrices posuere cubilia curae nulla dapibus dolor vel est donec odio justo sollicitudin ut suscipit a feugiat et,61.82,,No,33.66,550,550,5/5/2019
+551,pede lobortis ligula sit amet eleifend pede libero quis orci nullam molestie nibh in lectus pellentesque at nulla suspendisse potenti,67.33,,Yes,46.18,551,551,11/21/2019
+552,ipsum aliquam non mauris morbi non lectus aliquam sit amet,43.98,,Yes,47.42,552,552,12/5/2019
+553,orci nullam molestie nibh in lectus pellentesque at nulla suspendisse,63.63,,No,39.1,553,553,10/1/2019
+554,accumsan felis ut at dolor quis odio consequat varius integer,29.06,,No,60.86,554,554,12/22/2019
+555,eget nunc donec quis orci eget orci vehicula condimentum curabitur in libero ut,6.47,,No,45.35,555,555,7/24/2019
+556,odio elementum eu interdum eu tincidunt in leo maecenas pulvinar lobortis est phasellus sit amet erat nulla tempus,44.22,,No,49.09,556,556,6/28/2019
+557,elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis turpis sed,41.65,,No,61.72,557,557,5/24/2019
+558,duis at velit eu est congue elementum in hac habitasse platea dictumst,49.75,,No,55.64,558,558,12/18/2019
+559,cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum,50.33,,No,56.07,559,559,6/30/2019
+560,lacinia eget tincidunt eget tempus vel pede morbi porttitor lorem,0.5,,Yes,53.71,560,560,5/29/2019
+561,erat fermentum justo nec condimentum neque sapien placerat ante nulla justo,18.87,,No,36.03,561,561,9/13/2019
+562,sapien cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum neque,57.01,,No,57.85,562,562,12/14/2019
+563,orci pede venenatis non sodales sed tincidunt eu felis fusce posuere,29.23,,Yes,48.33,563,563,8/16/2019
+564,praesent blandit lacinia erat vestibulum sed magna at nunc commodo placerat praesent blandit nam nulla,64.06,,Yes,39.44,564,564,10/7/2019
+565,tincidunt eu felis fusce posuere felis sed lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc rhoncus,59.59,,No,65.74,565,565,7/23/2019
+566,sapien urna pretium nisl ut volutpat sapien arcu sed augue aliquam erat volutpat,67.89,,Yes,43.24,566,566,5/22/2019
+567,pede justo lacinia eget tincidunt eget tempus vel pede morbi porttitor lorem id ligula,62.56,,Yes,41.66,567,567,8/23/2019
+568,mi integer ac neque duis bibendum morbi non quam nec,8.12,,No,60.18,568,568,5/10/2019
+569,auctor gravida sem praesent id massa id nisl venenatis lacinia aenean sit amet justo morbi ut odio cras mi,59.49,,Yes,48.42,569,569,12/17/2019
+570,orci luctus et ultrices posuere cubilia curae nulla dapibus dolor vel est donec odio justo sollicitudin ut suscipit a feugiat,40.59,,No,49.68,570,570,12/23/2019
+571,faucibus accumsan odio curabitur convallis duis consequat dui nec nisi volutpat eleifend donec ut,35.7,,Yes,54.71,571,571,8/10/2019
+572,id nulla ultrices aliquet maecenas leo odio condimentum id luctus nec molestie sed justo pellentesque viverra pede ac diam cras,29.25,,No,53.18,572,572,10/31/2019
+573,in faucibus orci luctus et ultrices posuere cubilia curae mauris viverra,44.52,,No,39.19,573,573,12/25/2019
+574,quisque porta volutpat erat quisque erat eros viverra eget congue eget semper rutrum nulla nunc,27.34,,Yes,42.75,574,574,8/30/2019
+575,ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices erat,78.96,,No,52.9,575,575,11/21/2019
+576,nec sem duis aliquam convallis nunc proin at turpis a pede posuere nonummy integer non velit donec,30.04,,No,45.34,576,576,10/25/2019
+577,eget eleifend luctus ultricies eu nibh quisque id justo sit amet sapien dignissim,26.41,,Yes,53.24,577,577,5/10/2019
+578,gravida sem praesent id massa id nisl venenatis lacinia aenean sit amet justo,9.8,,Yes,50.83,578,578,10/21/2019
+579,sollicitudin ut suscipit a feugiat et eros vestibulum ac est lacinia nisi,4.33,,Yes,51.8,579,579,8/14/2019
+580,nulla tempus vivamus in felis eu sapien cursus vestibulum proin eu,20.74,,Yes,46.89,580,580,11/16/2019
+581,rhoncus mauris enim leo rhoncus sed vestibulum sit amet cursus id turpis integer,41.62,,Yes,41.31,581,581,8/14/2019
+582,nullam varius nulla facilisi cras non velit nec nisi vulputate,54.32,,No,60.15,582,582,7/2/2019
+583,suspendisse potenti in eleifend quam a odio in hac habitasse platea dictumst maecenas ut massa,3.92,,Yes,54.87,583,583,6/26/2019
+584,consequat in consequat ut nulla sed accumsan felis ut at dolor quis odio consequat varius integer ac leo pellentesque ultrices,75.76,,Yes,38.73,584,584,6/10/2019
+585,lectus pellentesque at nulla suspendisse potenti cras in purus eu magna vulputate luctus cum sociis natoque penatibus,0.07,,No,49.6,585,585,12/17/2019
+586,in est risus auctor sed tristique in tempus sit amet sem fusce consequat nulla nisl nunc nisl duis bibendum,16.53,,No,20.55,586,586,6/1/2019
+587,maecenas tristique est et tempus semper est quam pharetra magna ac consequat,62.97,,Yes,63.59,587,587,6/11/2019
+588,at nulla suspendisse potenti cras in purus eu magna vulputate luctus cum sociis natoque penatibus et,13.11,,No,30.23,588,588,6/1/2019
+589,lacinia sapien quis libero nullam sit amet turpis elementum ligula vehicula consequat morbi,8.89,,Yes,44.7,589,589,11/26/2019
+590,lorem vitae mattis nibh ligula nec sem duis aliquam convallis nunc proin at,47.11,,Yes,31.38,590,590,11/1/2019
+591,in hac habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum at lorem integer,64.45,,No,59.1,591,591,6/4/2019
+592,mus etiam vel augue vestibulum rutrum rutrum neque aenean auctor gravida sem praesent id massa id nisl venenatis lacinia,58.68,,Yes,38.51,592,592,10/8/2019
+593,libero convallis eget eleifend luctus ultricies eu nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum ante,59.16,,Yes,33.78,593,593,5/6/2019
+594,suspendisse ornare consequat lectus in est risus auctor sed tristique in tempus sit amet sem,8.61,,Yes,37.77,594,594,5/27/2019
+595,aliquet at feugiat non pretium quis lectus suspendisse potenti in eleifend quam a odio in hac habitasse platea,70.7,,No,40.94,595,595,7/13/2019
+596,diam id ornare imperdiet sapien urna pretium nisl ut volutpat sapien arcu sed augue aliquam erat,57.23,,Yes,53.89,596,596,8/11/2019
+597,ullamcorper augue a suscipit nulla elit ac nulla sed vel enim sit amet nunc viverra,3.5,,No,40.69,597,597,6/29/2019
+598,quis libero nullam sit amet turpis elementum ligula vehicula consequat morbi a ipsum integer a nibh in,69.26,,No,34.51,598,598,9/26/2019
+599,est risus auctor sed tristique in tempus sit amet sem fusce consequat nulla nisl nunc nisl duis,36.89,,Yes,53.89,599,599,11/18/2019
+600,porttitor pede justo eu massa donec dapibus duis at velit eu est congue,27.81,,Yes,47.54,600,600,12/29/2019
+601,eget nunc donec quis orci eget orci vehicula condimentum curabitur in libero ut massa volutpat convallis morbi odio odio elementum,73.51,,No,38.02,601,601,10/14/2019
+602,consequat in consequat ut nulla sed accumsan felis ut at dolor quis odio consequat varius integer ac leo pellentesque ultrices,74.07,,Yes,45.66,602,602,10/17/2019
+603,rutrum at lorem integer tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum sed,8.08,,Yes,47.37,603,603,9/14/2019
+604,integer pede justo lacinia eget tincidunt eget tempus vel pede morbi porttitor lorem id ligula suspendisse ornare consequat,79.38,,No,47.15,604,604,7/12/2019
+605,velit id pretium iaculis diam erat fermentum justo nec condimentum,44.76,,Yes,55.38,605,605,7/30/2019
+606,commodo vulputate justo in blandit ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris,53.56,,Yes,46.59,606,606,10/6/2019
+607,tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum sed magna at nunc commodo placerat praesent blandit nam nulla integer,37.56,,Yes,43.35,607,607,8/2/2019
+608,suspendisse potenti cras in purus eu magna vulputate luctus cum sociis natoque penatibus et magnis dis,3.72,,No,37.75,608,608,6/5/2019
+609,nunc commodo placerat praesent blandit nam nulla integer pede justo,77.59,,No,50.82,609,609,7/18/2019
+610,interdum mauris ullamcorper purus sit amet nulla quisque arcu libero rutrum ac lobortis vel dapibus at,53.19,,No,48.1,610,610,10/20/2019
+611,dolor morbi vel lectus in quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum sit amet cursus,50.3,,No,50.21,611,611,9/2/2019
+612,purus aliquet at feugiat non pretium quis lectus suspendisse potenti in eleifend,57.89,,No,36.58,612,612,11/17/2019
+613,ut at dolor quis odio consequat varius integer ac leo pellentesque ultrices mattis odio donec vitae nisi nam ultrices libero,68.45,,No,51.51,613,613,6/12/2019
+614,nulla justo aliquam quis turpis eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor,52.77,,Yes,55.08,614,614,7/4/2019
+615,pede venenatis non sodales sed tincidunt eu felis fusce posuere felis sed lacus,71.44,,Yes,48.99,615,615,12/2/2019
+616,volutpat quam pede lobortis ligula sit amet eleifend pede libero quis orci,75.18,,No,36.52,616,616,12/19/2019
+617,etiam faucibus cursus urna ut tellus nulla ut erat id mauris vulputate elementum,65.21,,Yes,42.96,617,617,11/23/2019
+618,facilisi cras non velit nec nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus vel nulla eget eros elementum,50.61,,No,41.36,618,618,5/15/2019
+619,justo nec condimentum neque sapien placerat ante nulla justo aliquam quis turpis eget,28.51,,Yes,42.6,619,619,8/27/2019
+620,ultrices posuere cubilia curae mauris viverra diam vitae quam suspendisse potenti nullam,1.44,,No,33.25,620,620,5/30/2019
+621,porttitor lacus at turpis donec posuere metus vitae ipsum aliquam,48.57,,Yes,42.09,621,621,8/4/2019
+622,mi nulla ac enim in tempor turpis nec euismod scelerisque quam turpis adipiscing lorem vitae,41.18,,No,57.05,622,622,10/21/2019
+623,porttitor id consequat in consequat ut nulla sed accumsan felis ut at dolor quis odio consequat varius integer,46.84,,Yes,54.14,623,623,9/23/2019
+624,tortor duis mattis egestas metus aenean fermentum donec ut mauris eget massa tempor convallis nulla,53.75,,No,35.81,624,624,8/19/2019
+625,orci vehicula condimentum curabitur in libero ut massa volutpat convallis morbi odio odio elementum eu interdum eu,55.19,,No,65.43,625,625,5/6/2019
+626,odio condimentum id luctus nec molestie sed justo pellentesque viverra pede,41.38,,Yes,56.33,626,626,9/6/2019
+627,risus dapibus augue vel accumsan tellus nisi eu orci mauris lacinia sapien quis libero nullam sit amet turpis elementum ligula,20.12,,Yes,45.34,627,627,9/2/2019
+628,tristique fusce congue diam id ornare imperdiet sapien urna pretium,9.48,,Yes,42.13,628,628,11/23/2019
+629,odio curabitur convallis duis consequat dui nec nisi volutpat eleifend donec ut dolor morbi vel lectus,60.21,,No,51.19,629,629,12/3/2019
+630,pellentesque viverra pede ac diam cras pellentesque volutpat dui maecenas,37.97,,No,37.38,630,630,10/29/2019
+631,maecenas tincidunt lacus at velit vivamus vel nulla eget eros,50.5,,Yes,40.54,631,631,5/13/2019
+632,augue vestibulum rutrum rutrum neque aenean auctor gravida sem praesent id massa id nisl,4.15,,Yes,71.12,632,632,8/15/2019
+633,velit donec diam neque vestibulum eget vulputate ut ultrices vel augue vestibulum,69.97,,Yes,47.43,633,633,10/29/2019
+634,mus etiam vel augue vestibulum rutrum rutrum neque aenean auctor,72.56,,Yes,28.47,634,634,12/9/2019
+635,integer ac neque duis bibendum morbi non quam nec dui luctus rutrum nulla tellus in sagittis dui,62.92,,Yes,47.43,635,635,7/6/2019
+636,vestibulum sagittis sapien cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus etiam vel,64.51,,Yes,32.02,636,636,12/26/2019
+637,amet nulla quisque arcu libero rutrum ac lobortis vel dapibus at diam nam tristique tortor eu,20.13,,No,47.55,637,637,5/8/2019
+638,aliquam quis turpis eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis turpis sed,49.94,,Yes,51.31,638,638,5/2/2019
+639,rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel sem sed sagittis nam congue,50.18,,No,25.33,639,639,11/10/2019
+640,mi pede malesuada in imperdiet et commodo vulputate justo in blandit ultrices enim,41.63,,No,54.15,640,640,7/4/2019
+641,felis sed interdum venenatis turpis enim blandit mi in porttitor pede justo eu massa donec dapibus duis at velit eu,57.98,,No,55.31,641,641,9/10/2019
+642,non mi integer ac neque duis bibendum morbi non quam nec dui luctus rutrum,65.94,,Yes,51.53,642,642,10/14/2019
+643,turpis eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis turpis sed,26.13,,Yes,66.8,643,643,10/20/2019
+644,lectus in est risus auctor sed tristique in tempus sit amet sem fusce consequat nulla nisl nunc,31.43,,No,68.46,644,644,5/16/2019
+645,vel est donec odio justo sollicitudin ut suscipit a feugiat et eros vestibulum ac est lacinia nisi venenatis,73.27,,Yes,58.1,645,645,8/18/2019
+646,id ligula suspendisse ornare consequat lectus in est risus auctor sed tristique in tempus sit amet sem,30.68,,Yes,51.13,646,646,10/14/2019
+647,et ultrices posuere cubilia curae duis faucibus accumsan odio curabitur convallis duis,63.21,,Yes,31.97,647,647,10/2/2019
+648,porttitor lorem id ligula suspendisse ornare consequat lectus in est risus auctor sed tristique in tempus,74.0,,No,27.81,648,648,8/20/2019
+649,donec semper sapien a libero nam dui proin leo odio porttitor id consequat in consequat ut nulla sed accumsan felis,8.95,,No,63.62,649,649,6/28/2019
+650,nulla sed accumsan felis ut at dolor quis odio consequat varius integer ac leo pellentesque ultrices mattis odio donec,42.26,,Yes,42.57,650,650,7/7/2019
+651,cubilia curae nulla dapibus dolor vel est donec odio justo sollicitudin ut suscipit,45.89,,Yes,50.38,651,651,9/2/2019
+652,eget tincidunt eget tempus vel pede morbi porttitor lorem id ligula suspendisse,60.48,,No,58.94,652,652,9/21/2019
+653,quisque arcu libero rutrum ac lobortis vel dapibus at diam nam,8.07,,No,34.07,653,653,12/13/2019
+654,vitae consectetuer eget rutrum at lorem integer tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum sed magna,7.69,,Yes,53.81,654,654,12/12/2019
+655,tortor quis turpis sed ante vivamus tortor duis mattis egestas metus aenean fermentum,37.06,,Yes,36.99,655,655,11/12/2019
+656,risus semper porta volutpat quam pede lobortis ligula sit amet eleifend pede libero quis,61.44,,No,44.21,656,656,11/3/2019
+657,tellus in sagittis dui vel nisl duis ac nibh fusce lacus purus aliquet at feugiat,6.92,,Yes,66.36,657,657,7/14/2019
+658,nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque,37.15,,Yes,31.19,658,658,10/13/2019
+659,tortor sollicitudin mi sit amet lobortis sapien sapien non mi integer ac neque duis bibendum,8.14,,Yes,68.87,659,659,5/15/2019
+660,habitasse platea dictumst etiam faucibus cursus urna ut tellus nulla ut erat,77.33,,Yes,70.86,660,660,6/16/2019
+661,rutrum nulla nunc purus phasellus in felis donec semper sapien a libero,50.09,,Yes,32.24,661,661,6/12/2019
+662,amet sem fusce consequat nulla nisl nunc nisl duis bibendum,19.01,,No,46.66,662,662,12/23/2019
+663,consectetuer adipiscing elit proin risus praesent lectus vestibulum quam sapien varius ut blandit non interdum,27.03,,No,50.33,663,663,11/25/2019
+664,eget tincidunt eget tempus vel pede morbi porttitor lorem id ligula suspendisse ornare consequat lectus in est risus auctor,13.04,,Yes,45.11,664,664,10/19/2019
+665,at nulla suspendisse potenti cras in purus eu magna vulputate luctus cum sociis natoque,71.32,,No,63.01,665,665,6/30/2019
+666,commodo placerat praesent blandit nam nulla integer pede justo lacinia eget tincidunt eget tempus,36.02,,No,31.19,666,666,6/2/2019
+667,dui maecenas tristique est et tempus semper est quam pharetra magna ac consequat metus sapien ut nunc vestibulum ante ipsum,65.09,,No,53.58,667,667,9/3/2019
+668,lacinia aenean sit amet justo morbi ut odio cras mi,67.6,,No,38.85,668,668,12/29/2019
+669,ut rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel sem sed sagittis,66.55,,No,48.52,669,669,5/19/2019
+670,in purus eu magna vulputate luctus cum sociis natoque penatibus et magnis dis parturient montes,77.24,,Yes,36.95,670,670,6/29/2019
+671,nisl ut volutpat sapien arcu sed augue aliquam erat volutpat in congue etiam justo etiam,3.42,,Yes,46.68,671,671,12/16/2019
+672,non pretium quis lectus suspendisse potenti in eleifend quam a odio in hac habitasse platea dictumst maecenas ut massa,27.67,,No,60.37,672,672,7/4/2019
+673,nulla eget eros elementum pellentesque quisque porta volutpat erat quisque erat eros,15.84,,No,69.89,673,673,7/15/2019
+674,nisi volutpat eleifend donec ut dolor morbi vel lectus in quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum sit,33.86,,Yes,43.37,674,674,5/12/2019
+675,quis orci nullam molestie nibh in lectus pellentesque at nulla suspendisse potenti cras in purus eu magna,77.93,,Yes,29.98,675,675,8/5/2019
+676,ultrices posuere cubilia curae mauris viverra diam vitae quam suspendisse potenti nullam porttitor lacus at turpis,38.23,,Yes,62.46,676,676,7/23/2019
+677,quam sapien varius ut blandit non interdum in ante vestibulum ante ipsum,71.15,,No,46.96,677,677,5/17/2019
+678,felis eu sapien cursus vestibulum proin eu mi nulla ac enim,38.02,,No,42.5,678,678,6/19/2019
+679,augue vel accumsan tellus nisi eu orci mauris lacinia sapien quis libero nullam sit amet turpis elementum ligula,44.38,,Yes,57.16,679,679,10/16/2019
+680,leo pellentesque ultrices mattis odio donec vitae nisi nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue a suscipit,3.66,,No,49.74,680,680,11/19/2019
+681,diam neque vestibulum eget vulputate ut ultrices vel augue vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere,66.9,,No,42.02,681,681,5/24/2019
+682,curabitur at ipsum ac tellus semper interdum mauris ullamcorper purus sit amet nulla quisque arcu libero rutrum,36.64,,Yes,53.61,682,682,7/13/2019
+683,vestibulum eget vulputate ut ultrices vel augue vestibulum ante ipsum primis in faucibus,79.3,,No,39.53,683,683,5/4/2019
+684,sed justo pellentesque viverra pede ac diam cras pellentesque volutpat dui,7.0,,Yes,51.57,684,684,7/13/2019
+685,vitae nisi nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue a suscipit nulla elit ac nulla sed vel,0.61,,Yes,40.02,685,685,6/20/2019
+686,porttitor lorem id ligula suspendisse ornare consequat lectus in est,9.27,,No,51.92,686,686,11/17/2019
+687,proin leo odio porttitor id consequat in consequat ut nulla sed accumsan,15.24,,No,32.31,687,687,8/31/2019
+688,in imperdiet et commodo vulputate justo in blandit ultrices enim lorem ipsum dolor,79.52,,Yes,61.31,688,688,6/8/2019
+689,tortor quis turpis sed ante vivamus tortor duis mattis egestas metus aenean,21.8,,Yes,54.45,689,689,9/23/2019
+690,libero non mattis pulvinar nulla pede ullamcorper augue a suscipit nulla elit ac nulla sed,54.91,,No,59.94,690,690,8/7/2019
+691,ipsum integer a nibh in quis justo maecenas rhoncus aliquam lacus morbi quis tortor id,8.21,,No,40.99,691,691,11/13/2019
+692,primis in faucibus orci luctus et ultrices posuere cubilia curae duis faucibus accumsan,33.26,,Yes,41.44,692,692,9/2/2019
+693,venenatis tristique fusce congue diam id ornare imperdiet sapien urna pretium nisl ut volutpat sapien arcu sed augue aliquam erat,38.55,,Yes,56.86,693,693,11/3/2019
+694,vestibulum proin eu mi nulla ac enim in tempor turpis nec euismod scelerisque quam turpis adipiscing,68.43,,Yes,40.65,694,694,6/18/2019
+695,eu sapien cursus vestibulum proin eu mi nulla ac enim in tempor turpis nec,34.26,,Yes,43.46,695,695,7/16/2019
+696,potenti nullam porttitor lacus at turpis donec posuere metus vitae ipsum aliquam non mauris morbi non,36.69,,No,58.0,696,696,10/19/2019
+697,etiam faucibus cursus urna ut tellus nulla ut erat id mauris vulputate elementum nullam varius nulla facilisi cras,31.07,,No,40.53,697,697,5/11/2019
+698,rhoncus dui vel sem sed sagittis nam congue risus semper porta volutpat quam pede lobortis ligula sit amet eleifend,65.08,,Yes,46.08,698,698,5/6/2019
+699,vitae ipsum aliquam non mauris morbi non lectus aliquam sit amet diam,10.39,,Yes,60.12,699,699,9/5/2019
+700,potenti in eleifend quam a odio in hac habitasse platea dictumst maecenas ut,46.64,,No,25.53,700,700,10/19/2019
+701,eu nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum primis in faucibus orci luctus,18.7,,No,52.85,701,701,6/27/2019
+702,turpis enim blandit mi in porttitor pede justo eu massa donec dapibus duis at velit,78.4,,No,40.25,702,702,12/1/2019
+703,amet sapien dignissim vestibulum vestibulum ante ipsum primis in faucibus orci luctus,36.93,,Yes,55.63,703,703,5/10/2019
+704,integer tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum sed magna at nunc commodo,55.83,,No,50.84,704,704,10/28/2019
+705,volutpat quam pede lobortis ligula sit amet eleifend pede libero quis,66.39,,Yes,52.09,705,705,5/30/2019
+706,elit ac nulla sed vel enim sit amet nunc viverra dapibus nulla suscipit ligula in lacus curabitur at ipsum ac,19.58,,No,52.82,706,706,5/19/2019
+707,lectus pellentesque at nulla suspendisse potenti cras in purus eu magna vulputate luctus cum sociis,23.96,,No,55.15,707,707,9/1/2019
+708,aliquet pulvinar sed nisl nunc rhoncus dui vel sem sed,28.99,,No,56.5,708,708,11/29/2019
+709,maecenas ut massa quis augue luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur gravida nisi,45.17,,Yes,22.33,709,709,9/10/2019
+710,consectetuer eget rutrum at lorem integer tincidunt ante vel ipsum praesent blandit lacinia erat,8.45,,No,42.28,710,710,7/17/2019
+711,urna ut tellus nulla ut erat id mauris vulputate elementum nullam varius,8.45,,Yes,68.06,711,711,10/14/2019
+712,leo odio condimentum id luctus nec molestie sed justo pellentesque viverra,7.82,,Yes,53.26,712,712,10/19/2019
+713,dignissim vestibulum vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae,72.94,,No,57.18,713,713,11/17/2019
+714,ultrices posuere cubilia curae nulla dapibus dolor vel est donec odio justo sollicitudin,12.45,,No,53.87,714,714,10/18/2019
+715,duis consequat dui nec nisi volutpat eleifend donec ut dolor morbi vel lectus in quam fringilla rhoncus,49.83,,No,28.87,715,715,5/29/2019
+716,in imperdiet et commodo vulputate justo in blandit ultrices enim lorem,43.85,,Yes,47.17,716,716,6/27/2019
+717,amet turpis elementum ligula vehicula consequat morbi a ipsum integer,32.71,,No,51.85,717,717,8/31/2019
+718,condimentum neque sapien placerat ante nulla justo aliquam quis turpis eget elit sodales scelerisque mauris sit amet,16.26,,No,44.44,718,718,6/17/2019
+719,nunc proin at turpis a pede posuere nonummy integer non velit donec diam,49.88,,Yes,51.71,719,719,9/12/2019
+720,pellentesque volutpat dui maecenas tristique est et tempus semper est quam pharetra,6.29,,Yes,49.07,720,720,10/8/2019
+721,enim in tempor turpis nec euismod scelerisque quam turpis adipiscing lorem,15.1,,Yes,61.51,721,721,6/22/2019
+722,sapien cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus etiam vel augue vestibulum rutrum,30.46,,No,46.32,722,722,10/6/2019
+723,lobortis est phasellus sit amet erat nulla tempus vivamus in felis eu sapien cursus,32.75,,No,28.96,723,723,6/9/2019
+724,lorem integer tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum sed magna at nunc commodo placerat praesent blandit,69.19,,No,52.68,724,724,9/9/2019
+725,donec ut mauris eget massa tempor convallis nulla neque libero convallis eget,64.88,,No,41.59,725,725,11/17/2019
+726,pede posuere nonummy integer non velit donec diam neque vestibulum eget vulputate ut,72.23,,No,57.74,726,726,6/19/2019
+727,congue diam id ornare imperdiet sapien urna pretium nisl ut volutpat sapien arcu sed,45.0,,No,62.19,727,727,12/26/2019
+728,nisl duis ac nibh fusce lacus purus aliquet at feugiat non pretium quis lectus suspendisse potenti in,56.6,,No,57.71,728,728,9/22/2019
+729,ac enim in tempor turpis nec euismod scelerisque quam turpis adipiscing lorem vitae mattis nibh ligula nec,33.05,,No,41.26,729,729,7/8/2019
+730,nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum primis in faucibus orci luctus,72.77,,No,50.97,730,730,12/11/2019
+731,sodales sed tincidunt eu felis fusce posuere felis sed lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar,17.93,,Yes,46.43,731,731,11/16/2019
+732,orci luctus et ultrices posuere cubilia curae duis faucibus accumsan odio curabitur convallis duis consequat dui nec nisi,64.13,,Yes,44.85,732,732,5/14/2019
+733,in porttitor pede justo eu massa donec dapibus duis at velit eu,39.47,,Yes,42.93,733,733,5/19/2019
+734,venenatis non sodales sed tincidunt eu felis fusce posuere felis sed lacus morbi sem mauris laoreet ut rhoncus,38.77,,No,51.13,734,734,5/31/2019
+735,consequat lectus in est risus auctor sed tristique in tempus sit,43.38,,No,35.7,735,735,7/24/2019
+736,tristique fusce congue diam id ornare imperdiet sapien urna pretium nisl ut volutpat sapien arcu sed augue aliquam erat volutpat,68.06,,Yes,57.47,736,736,12/26/2019
+737,ut blandit non interdum in ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere,36.01,,No,50.4,737,737,8/26/2019
+738,ipsum aliquam non mauris morbi non lectus aliquam sit amet diam in magna bibendum imperdiet nullam orci,66.29,,No,43.51,738,738,7/24/2019
+739,nulla ac enim in tempor turpis nec euismod scelerisque quam turpis adipiscing lorem vitae mattis nibh,60.08,,Yes,55.26,739,739,9/13/2019
+740,ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae mauris viverra diam vitae quam suspendisse potenti nullam,11.96,,No,37.38,740,740,8/18/2019
+741,aliquam lacus morbi quis tortor id nulla ultrices aliquet maecenas leo odio condimentum id luctus nec molestie sed justo,34.24,,No,58.0,741,741,5/23/2019
+742,vulputate luctus cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus,33.87,,Yes,44.47,742,742,9/23/2019
+743,ante nulla justo aliquam quis turpis eget elit sodales scelerisque mauris,66.69,,Yes,29.06,743,743,10/24/2019
+744,aliquet maecenas leo odio condimentum id luctus nec molestie sed justo,55.47,,Yes,51.85,744,744,11/13/2019
+745,malesuada in imperdiet et commodo vulputate justo in blandit ultrices enim lorem ipsum,33.68,,Yes,51.24,745,745,10/26/2019
+746,hendrerit at vulputate vitae nisl aenean lectus pellentesque eget nunc donec,11.4,,No,45.62,746,746,9/18/2019
+747,sapien quis libero nullam sit amet turpis elementum ligula vehicula,65.93,,Yes,57.56,747,747,5/16/2019
+748,ac enim in tempor turpis nec euismod scelerisque quam turpis,63.84,,Yes,50.7,748,748,8/17/2019
+749,at turpis donec posuere metus vitae ipsum aliquam non mauris morbi non lectus,61.27,,Yes,56.52,749,749,11/7/2019
+750,tortor duis mattis egestas metus aenean fermentum donec ut mauris eget massa tempor convallis nulla neque libero convallis,47.0,,Yes,56.55,750,750,9/1/2019
+751,sapien a libero nam dui proin leo odio porttitor id,1.47,,No,67.98,751,751,9/1/2019
+752,nibh in hac habitasse platea dictumst aliquam augue quam sollicitudin vitae,63.48,,No,26.6,752,752,6/11/2019
+753,nullam orci pede venenatis non sodales sed tincidunt eu felis fusce posuere felis sed lacus morbi sem mauris laoreet ut,68.03,,No,67.45,753,753,5/13/2019
+754,lacinia erat vestibulum sed magna at nunc commodo placerat praesent blandit nam nulla integer,30.81,,No,48.92,754,754,10/14/2019
+755,quam a odio in hac habitasse platea dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis molestie lorem,33.77,,Yes,68.32,755,755,11/7/2019
+756,dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt ante vel ipsum praesent blandit lacinia,24.83,,No,47.83,756,756,6/24/2019
+757,luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur gravida nisi at,27.95,,No,46.73,757,757,8/7/2019
+758,turpis nec euismod scelerisque quam turpis adipiscing lorem vitae mattis nibh ligula nec sem,43.38,,No,41.15,758,758,7/12/2019
+759,quam suspendisse potenti nullam porttitor lacus at turpis donec posuere metus vitae ipsum aliquam non mauris morbi non lectus,3.42,,No,67.91,759,759,9/6/2019
+760,viverra dapibus nulla suscipit ligula in lacus curabitur at ipsum ac tellus semper,54.12,,Yes,64.61,760,760,5/22/2019
+761,varius ut blandit non interdum in ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae,9.28,,No,66.77,761,761,8/23/2019
+762,lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris non ligula pellentesque ultrices phasellus,16.22,,No,36.97,762,762,7/19/2019
+763,sem duis aliquam convallis nunc proin at turpis a pede posuere nonummy integer non velit,29.4,,Yes,58.42,763,763,7/6/2019
+764,ullamcorper augue a suscipit nulla elit ac nulla sed vel enim sit amet nunc,32.3,,No,64.64,764,764,11/30/2019
+765,proin risus praesent lectus vestibulum quam sapien varius ut blandit non interdum,75.52,,Yes,49.25,765,765,11/13/2019
+766,in tempus sit amet sem fusce consequat nulla nisl nunc,50.57,,No,47.23,766,766,8/27/2019
+767,nam nulla integer pede justo lacinia eget tincidunt eget tempus vel,29.58,,No,53.94,767,767,9/27/2019
+768,imperdiet sapien urna pretium nisl ut volutpat sapien arcu sed augue aliquam erat volutpat in congue etiam justo etiam pretium,57.78,,Yes,43.08,768,768,12/24/2019
+769,luctus et ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet lobortis sapien,72.85,,No,44.83,769,769,10/14/2019
+770,placerat ante nulla justo aliquam quis turpis eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis,35.97,,Yes,67.31,770,770,7/24/2019
+771,vestibulum ac est lacinia nisi venenatis tristique fusce congue diam id ornare imperdiet,23.7,,Yes,55.8,771,771,7/21/2019
+772,faucibus cursus urna ut tellus nulla ut erat id mauris vulputate elementum nullam varius nulla facilisi cras non velit,58.08,,No,53.91,772,772,12/4/2019
+773,vitae mattis nibh ligula nec sem duis aliquam convallis nunc proin at turpis a pede posuere nonummy,52.47,,Yes,50.1,773,773,8/23/2019
+774,in consequat ut nulla sed accumsan felis ut at dolor quis odio consequat varius integer ac,14.6,,No,45.93,774,774,7/24/2019
+775,dis parturient montes nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum neque aenean auctor gravida sem praesent id massa,37.43,,Yes,40.16,775,775,12/10/2019
+776,varius nulla facilisi cras non velit nec nisi vulputate nonummy maecenas tincidunt lacus,30.17,,Yes,59.57,776,776,7/5/2019
+777,sit amet nunc viverra dapibus nulla suscipit ligula in lacus curabitur at ipsum ac tellus semper,17.6,,Yes,66.51,777,777,8/8/2019
+778,non mauris morbi non lectus aliquam sit amet diam in magna bibendum imperdiet,13.02,,No,52.4,778,778,8/5/2019
+779,vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae,37.75,,No,53.31,779,779,10/31/2019
+780,posuere cubilia curae nulla dapibus dolor vel est donec odio justo sollicitudin,62.8,,Yes,35.77,780,780,10/4/2019
+781,quam sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum sed,43.86,,No,51.57,781,781,11/18/2019
+782,platea dictumst morbi vestibulum velit id pretium iaculis diam erat fermentum justo nec condimentum neque sapien placerat ante nulla,25.91,,No,38.13,782,782,11/22/2019
+783,mollis molestie lorem quisque ut erat curabitur gravida nisi at nibh in hac habitasse,55.98,,Yes,47.42,783,783,8/16/2019
+784,ultrices posuere cubilia curae nulla dapibus dolor vel est donec odio justo sollicitudin ut suscipit a feugiat et eros vestibulum,40.74,,Yes,65.72,784,784,7/25/2019
+785,diam neque vestibulum eget vulputate ut ultrices vel augue vestibulum ante ipsum primis in faucibus orci luctus,59.43,,Yes,47.8,785,785,11/23/2019
+786,urna ut tellus nulla ut erat id mauris vulputate elementum nullam,31.36,,No,71.77,786,786,10/21/2019
+787,dapibus dolor vel est donec odio justo sollicitudin ut suscipit a feugiat et eros,43.71,,No,46.92,787,787,11/1/2019
+788,rutrum ac lobortis vel dapibus at diam nam tristique tortor eu pede,59.25,,No,43.73,788,788,6/22/2019
+789,parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien cum,55.52,,Yes,43.72,789,789,10/15/2019
+790,faucibus orci luctus et ultrices posuere cubilia curae duis faucibus accumsan odio curabitur,13.47,,Yes,53.87,790,790,9/9/2019
+791,nulla ac enim in tempor turpis nec euismod scelerisque quam turpis adipiscing,47.03,,Yes,67.08,791,791,7/16/2019
+792,convallis nulla neque libero convallis eget eleifend luctus ultricies eu nibh quisque id justo sit amet sapien,23.94,,No,61.04,792,792,11/20/2019
+793,penatibus et magnis dis parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis,63.69,,No,43.07,793,793,5/24/2019
+794,cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque,39.36,,No,46.56,794,794,7/21/2019
+795,congue elementum in hac habitasse platea dictumst morbi vestibulum velit id,17.84,,Yes,34.15,795,795,12/7/2019
+796,neque aenean auctor gravida sem praesent id massa id nisl venenatis,48.47,,Yes,62.35,796,796,12/23/2019
+797,tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum sed magna,22.76,,Yes,42.18,797,797,9/29/2019
+798,sagittis nam congue risus semper porta volutpat quam pede lobortis ligula,36.43,,No,49.78,798,798,5/10/2019
+799,cras mi pede malesuada in imperdiet et commodo vulputate justo in blandit ultrices enim lorem ipsum dolor sit amet consectetuer,61.64,,Yes,47.04,799,799,11/17/2019
+800,curabitur in libero ut massa volutpat convallis morbi odio odio elementum eu interdum eu tincidunt in leo maecenas pulvinar lobortis,30.88,,Yes,44.18,800,800,5/4/2019
+801,fusce posuere felis sed lacus morbi sem mauris laoreet ut rhoncus,63.92,,Yes,60.84,801,801,8/4/2019
+802,id nisl venenatis lacinia aenean sit amet justo morbi ut odio cras mi,78.11,,No,47.65,802,802,6/30/2019
+803,orci pede venenatis non sodales sed tincidunt eu felis fusce posuere felis sed lacus morbi sem mauris laoreet ut,74.91,,Yes,47.66,803,803,5/13/2019
+804,commodo vulputate justo in blandit ultrices enim lorem ipsum dolor sit,4.58,,Yes,58.75,804,804,9/16/2019
+805,id nulla ultrices aliquet maecenas leo odio condimentum id luctus nec molestie sed justo pellentesque viverra,34.35,,No,45.34,805,805,8/7/2019
+806,libero non mattis pulvinar nulla pede ullamcorper augue a suscipit nulla elit,11.41,,Yes,43.09,806,806,8/17/2019
+807,non quam nec dui luctus rutrum nulla tellus in sagittis dui vel nisl duis ac nibh fusce lacus,59.37,,Yes,57.5,807,807,10/13/2019
+808,rutrum nulla nunc purus phasellus in felis donec semper sapien a,31.44,,Yes,49.05,808,808,9/16/2019
+809,nulla sed vel enim sit amet nunc viverra dapibus nulla suscipit ligula in lacus,72.68,,No,43.3,809,809,10/20/2019
+810,vehicula consequat morbi a ipsum integer a nibh in quis justo maecenas rhoncus,62.88,,No,23.43,810,810,10/23/2019
+811,nulla eget eros elementum pellentesque quisque porta volutpat erat quisque erat eros viverra eget congue eget semper,59.45,,Yes,45.84,811,811,7/16/2019
+812,maecenas pulvinar lobortis est phasellus sit amet erat nulla tempus vivamus in felis eu sapien cursus,14.48,,Yes,50.36,812,812,12/16/2019
+813,viverra eget congue eget semper rutrum nulla nunc purus phasellus in felis,14.58,,Yes,65.02,813,813,10/4/2019
+814,quam suspendisse potenti nullam porttitor lacus at turpis donec posuere metus vitae ipsum aliquam non mauris morbi non lectus aliquam,74.51,,Yes,61.83,814,814,10/1/2019
+815,leo pellentesque ultrices mattis odio donec vitae nisi nam ultrices libero non,23.3,,No,57.98,815,815,8/13/2019
+816,convallis nulla neque libero convallis eget eleifend luctus ultricies eu nibh quisque id justo sit,67.49,,No,49.35,816,816,9/30/2019
+817,quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum sit amet cursus id turpis integer aliquet,1.71,,Yes,46.16,817,817,8/21/2019
+818,in sapien iaculis congue vivamus metus arcu adipiscing molestie hendrerit at vulputate vitae,29.9,,No,63.39,818,818,7/7/2019
+819,lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris non ligula pellentesque ultrices phasellus,75.59,,Yes,48.52,819,819,9/27/2019
+820,imperdiet et commodo vulputate justo in blandit ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum,27.63,,No,45.94,820,820,8/2/2019
+821,dui maecenas tristique est et tempus semper est quam pharetra magna ac consequat metus sapien ut,28.95,,No,54.73,821,821,5/16/2019
+822,ultrices erat tortor sollicitudin mi sit amet lobortis sapien sapien non mi integer ac neque duis bibendum morbi,4.07,,Yes,41.62,822,822,8/1/2019
+823,nunc purus phasellus in felis donec semper sapien a libero nam dui,34.06,,Yes,51.4,823,823,12/2/2019
+824,aliquam lacus morbi quis tortor id nulla ultrices aliquet maecenas leo odio condimentum id luctus nec molestie sed,25.03,,Yes,55.83,824,824,12/28/2019
+825,maecenas pulvinar lobortis est phasellus sit amet erat nulla tempus vivamus in felis eu sapien cursus,33.99,,Yes,48.0,825,825,7/31/2019
+826,mauris non ligula pellentesque ultrices phasellus id sapien in sapien iaculis congue vivamus metus arcu adipiscing molestie hendrerit,64.52,,No,40.99,826,826,10/31/2019
+827,pretium quis lectus suspendisse potenti in eleifend quam a odio in hac habitasse platea dictumst maecenas ut,3.83,,No,39.45,827,827,7/16/2019
+828,ut nunc vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae mauris,39.64,,Yes,58.75,828,828,10/10/2019
+829,sem duis aliquam convallis nunc proin at turpis a pede posuere,77.94,,No,50.91,829,829,12/10/2019
+830,parturient montes nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum neque,17.83,,Yes,32.11,830,830,6/25/2019
+831,duis at velit eu est congue elementum in hac habitasse platea dictumst morbi,13.7,,No,43.64,831,831,5/20/2019
+832,mauris ullamcorper purus sit amet nulla quisque arcu libero rutrum ac lobortis vel dapibus at diam nam,79.83,,Yes,52.98,832,832,7/18/2019
+833,dapibus duis at velit eu est congue elementum in hac habitasse platea dictumst,53.82,,No,64.0,833,833,6/18/2019
+834,justo in hac habitasse platea dictumst etiam faucibus cursus urna,27.3,,No,38.79,834,834,6/4/2019
+835,tempus sit amet sem fusce consequat nulla nisl nunc nisl duis bibendum,17.89,,No,44.17,835,835,12/27/2019
+836,cubilia curae mauris viverra diam vitae quam suspendisse potenti nullam porttitor lacus at turpis donec posuere metus,54.47,,No,36.53,836,836,11/12/2019
+837,donec odio justo sollicitudin ut suscipit a feugiat et eros vestibulum ac est lacinia nisi,17.97,,Yes,56.6,837,837,10/27/2019
+838,placerat praesent blandit nam nulla integer pede justo lacinia eget tincidunt eget tempus vel pede morbi porttitor lorem,32.18,,No,56.9,838,838,8/25/2019
+839,a ipsum integer a nibh in quis justo maecenas rhoncus aliquam lacus morbi quis tortor id nulla ultrices aliquet maecenas,39.99,,No,44.54,839,839,11/27/2019
+840,amet sapien dignissim vestibulum vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia,35.48,,Yes,45.85,840,840,11/9/2019
+841,vel nulla eget eros elementum pellentesque quisque porta volutpat erat quisque erat eros,8.93,,Yes,52.46,841,841,12/2/2019
+842,non ligula pellentesque ultrices phasellus id sapien in sapien iaculis congue,63.29,,Yes,42.72,842,842,11/9/2019
+843,ultrices phasellus id sapien in sapien iaculis congue vivamus metus arcu adipiscing molestie hendrerit at vulputate vitae nisl aenean,28.87,,Yes,28.91,843,843,7/2/2019
+844,metus aenean fermentum donec ut mauris eget massa tempor convallis nulla neque libero convallis eget eleifend luctus ultricies,61.15,,Yes,37.83,844,844,10/16/2019
+845,justo in blandit ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris,32.36,,No,59.73,845,845,5/4/2019
+846,nullam sit amet turpis elementum ligula vehicula consequat morbi a ipsum integer a nibh in,71.73,,Yes,51.36,846,846,6/9/2019
+847,est congue elementum in hac habitasse platea dictumst morbi vestibulum velit id pretium iaculis diam erat fermentum justo,48.08,,No,47.26,847,847,5/15/2019
+848,enim lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris non ligula pellentesque ultrices,36.58,,No,53.02,848,848,11/27/2019
+849,lacus curabitur at ipsum ac tellus semper interdum mauris ullamcorper purus sit amet nulla quisque arcu libero,24.22,,Yes,59.94,849,849,8/14/2019
+850,fermentum justo nec condimentum neque sapien placerat ante nulla justo aliquam quis turpis eget elit sodales scelerisque,28.08,,No,47.37,850,850,10/5/2019
+851,nec dui luctus rutrum nulla tellus in sagittis dui vel,55.12,,Yes,57.89,851,851,8/13/2019
+852,ut blandit non interdum in ante vestibulum ante ipsum primis in faucibus,22.2,,No,57.64,852,852,7/26/2019
+853,curabitur gravida nisi at nibh in hac habitasse platea dictumst aliquam augue quam,19.24,,No,61.73,853,853,9/24/2019
+854,nisl ut volutpat sapien arcu sed augue aliquam erat volutpat in congue etiam justo etiam pretium iaculis,20.41,,No,71.27,854,854,9/13/2019
+855,blandit non interdum in ante vestibulum ante ipsum primis in faucibus orci luctus,45.94,,Yes,41.52,855,855,6/24/2019
+856,in hac habitasse platea dictumst etiam faucibus cursus urna ut tellus nulla ut erat id mauris vulputate,17.3,,No,42.4,856,856,10/5/2019
+857,rutrum at lorem integer tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum sed magna at nunc,3.33,,No,47.35,857,857,8/2/2019
+858,pede ac diam cras pellentesque volutpat dui maecenas tristique est et tempus semper est,55.45,,Yes,43.44,858,858,7/5/2019
+859,non ligula pellentesque ultrices phasellus id sapien in sapien iaculis congue vivamus metus arcu,0.08,,Yes,53.16,859,859,7/4/2019
+860,volutpat sapien arcu sed augue aliquam erat volutpat in congue etiam justo etiam pretium iaculis justo in hac habitasse,39.31,,No,59.54,860,860,11/22/2019
+861,parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque penatibus,6.38,,Yes,45.77,861,861,11/29/2019
+862,erat curabitur gravida nisi at nibh in hac habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer,14.97,,Yes,41.55,862,862,7/29/2019
+863,at nunc commodo placerat praesent blandit nam nulla integer pede justo lacinia,55.75,,Yes,51.4,863,863,5/24/2019
+864,libero ut massa volutpat convallis morbi odio odio elementum eu interdum eu tincidunt,15.97,,Yes,38.06,864,864,9/12/2019
+865,dictumst etiam faucibus cursus urna ut tellus nulla ut erat id,1.63,,Yes,40.38,865,865,8/23/2019
+866,vestibulum proin eu mi nulla ac enim in tempor turpis nec,53.94,,Yes,36.03,866,866,7/9/2019
+867,dui vel nisl duis ac nibh fusce lacus purus aliquet at feugiat non pretium quis lectus suspendisse potenti in eleifend,44.34,,Yes,35.12,867,867,8/25/2019
+868,quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum sit amet cursus id turpis integer aliquet massa id lobortis,52.93,,Yes,53.39,868,868,5/25/2019
+869,felis fusce posuere felis sed lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc,20.69,,Yes,63.78,869,869,7/23/2019
+870,magnis dis parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque,5.86,,No,40.23,870,870,6/14/2019
+871,in sapien iaculis congue vivamus metus arcu adipiscing molestie hendrerit at vulputate vitae nisl aenean lectus pellentesque eget nunc,74.56,,Yes,36.85,871,871,9/27/2019
+872,nonummy maecenas tincidunt lacus at velit vivamus vel nulla eget eros elementum pellentesque quisque porta volutpat,27.76,,No,66.66,872,872,8/26/2019
+873,adipiscing molestie hendrerit at vulputate vitae nisl aenean lectus pellentesque eget nunc donec quis orci eget orci vehicula condimentum curabitur,67.39,,No,43.67,873,873,9/13/2019
+874,nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum primis in,58.4,,No,43.12,874,874,6/17/2019
+875,risus auctor sed tristique in tempus sit amet sem fusce consequat,45.07,,No,45.55,875,875,10/26/2019
+876,nisi nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue a suscipit nulla elit ac,12.68,,No,52.9,876,876,12/30/2019
+877,vel augue vestibulum rutrum rutrum neque aenean auctor gravida sem praesent id massa id nisl,71.75,,Yes,38.75,877,877,7/24/2019
+878,neque sapien placerat ante nulla justo aliquam quis turpis eget elit sodales scelerisque mauris sit,0.67,,No,40.97,878,878,7/25/2019
+879,ut suscipit a feugiat et eros vestibulum ac est lacinia nisi venenatis tristique fusce congue diam,47.57,,Yes,65.73,879,879,5/18/2019
+880,erat fermentum justo nec condimentum neque sapien placerat ante nulla justo aliquam quis turpis eget elit sodales scelerisque,19.95,,Yes,47.23,880,880,11/25/2019
+881,metus sapien ut nunc vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae,69.07,,Yes,51.2,881,881,5/18/2019
+882,mi integer ac neque duis bibendum morbi non quam nec dui luctus rutrum nulla tellus,66.93,,Yes,31.22,882,882,6/24/2019
+883,feugiat et eros vestibulum ac est lacinia nisi venenatis tristique,58.65,,Yes,40.92,883,883,9/12/2019
+884,orci luctus et ultrices posuere cubilia curae duis faucibus accumsan odio,63.73,,Yes,52.09,884,884,8/18/2019
+885,sollicitudin mi sit amet lobortis sapien sapien non mi integer ac,79.38,,No,68.24,885,885,12/2/2019
+886,eget eleifend luctus ultricies eu nibh quisque id justo sit amet,42.32,,Yes,55.62,886,886,9/22/2019
+887,at nulla suspendisse potenti cras in purus eu magna vulputate luctus cum,19.55,,No,49.42,887,887,10/2/2019
+888,aliquam augue quam sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt ante,8.62,,Yes,49.8,888,888,10/31/2019
+889,ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae duis faucibus accumsan,27.6,,Yes,69.01,889,889,11/20/2019
+890,venenatis turpis enim blandit mi in porttitor pede justo eu massa donec dapibus duis at velit eu est,2.41,,Yes,53.43,890,890,10/21/2019
+891,et commodo vulputate justo in blandit ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum,44.15,,Yes,39.4,891,891,6/22/2019
+892,turpis nec euismod scelerisque quam turpis adipiscing lorem vitae mattis nibh ligula nec sem duis aliquam,7.95,,Yes,44.2,892,892,10/10/2019
+893,eleifend luctus ultricies eu nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum primis in,57.23,,Yes,31.38,893,893,8/4/2019
+894,vel nulla eget eros elementum pellentesque quisque porta volutpat erat quisque erat eros viverra eget,78.37,,No,55.36,894,894,5/3/2019
+895,nunc viverra dapibus nulla suscipit ligula in lacus curabitur at ipsum ac tellus semper interdum mauris,49.96,,Yes,39.57,895,895,9/2/2019
+896,lectus in est risus auctor sed tristique in tempus sit amet sem fusce consequat nulla nisl nunc nisl duis,11.2,,No,53.51,896,896,9/15/2019
+897,vel est donec odio justo sollicitudin ut suscipit a feugiat et eros vestibulum ac est lacinia nisi venenatis tristique,54.98,,Yes,44.46,897,897,12/27/2019
+898,ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae duis faucibus accumsan odio curabitur convallis,22.19,,No,52.04,898,898,10/27/2019
+899,commodo vulputate justo in blandit ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing elit proin,13.87,,Yes,32.77,899,899,6/28/2019
+900,posuere cubilia curae nulla dapibus dolor vel est donec odio justo sollicitudin,54.92,,Yes,47.54,900,900,6/9/2019
+901,non sodales sed tincidunt eu felis fusce posuere felis sed lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed,36.39,,No,57.46,901,901,12/24/2019
+902,nulla facilisi cras non velit nec nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus vel nulla,26.58,,Yes,50.24,902,902,8/15/2019
+903,at turpis a pede posuere nonummy integer non velit donec diam neque,35.54,,Yes,50.8,903,903,8/16/2019
+904,libero convallis eget eleifend luctus ultricies eu nibh quisque id justo sit amet sapien,18.9,,Yes,51.53,904,904,6/27/2019
+905,volutpat dui maecenas tristique est et tempus semper est quam pharetra magna ac consequat metus sapien ut nunc vestibulum,40.88,,Yes,50.85,905,905,8/16/2019
+906,eleifend donec ut dolor morbi vel lectus in quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum sit,1.08,,No,61.51,906,906,5/10/2019
+907,neque sapien placerat ante nulla justo aliquam quis turpis eget elit sodales,57.62,,Yes,52.05,907,907,6/2/2019
+908,consequat in consequat ut nulla sed accumsan felis ut at dolor,13.51,,Yes,47.43,908,908,9/13/2019
+909,volutpat sapien arcu sed augue aliquam erat volutpat in congue etiam justo etiam pretium iaculis,54.03,,No,51.62,909,909,9/23/2019
+910,praesent lectus vestibulum quam sapien varius ut blandit non interdum in ante vestibulum ante ipsum,72.57,,Yes,56.23,910,910,7/18/2019
+911,ut tellus nulla ut erat id mauris vulputate elementum nullam varius nulla facilisi cras non velit,60.47,,No,66.06,911,911,9/8/2019
+912,enim sit amet nunc viverra dapibus nulla suscipit ligula in lacus curabitur at,23.4,,No,48.75,912,912,11/6/2019
+913,natoque penatibus et magnis dis parturient montes nascetur ridiculus mus etiam vel augue,21.62,,No,37.24,913,913,8/19/2019
+914,et magnis dis parturient montes nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum neque,9.81,,No,48.96,914,914,10/27/2019
+915,purus phasellus in felis donec semper sapien a libero nam,5.36,,Yes,37.64,915,915,5/24/2019
+916,quam sapien varius ut blandit non interdum in ante vestibulum ante ipsum,78.55,,Yes,56.92,916,916,11/8/2019
+917,felis eu sapien cursus vestibulum proin eu mi nulla ac enim in tempor turpis nec euismod scelerisque quam turpis adipiscing,36.52,,No,51.5,917,917,5/15/2019
+918,sed vestibulum sit amet cursus id turpis integer aliquet massa id lobortis convallis,47.92,,Yes,34.54,918,918,7/30/2019
+919,varius integer ac leo pellentesque ultrices mattis odio donec vitae nisi nam ultrices libero non mattis pulvinar nulla,30.52,,Yes,54.52,919,919,6/16/2019
+920,sollicitudin ut suscipit a feugiat et eros vestibulum ac est lacinia nisi venenatis tristique fusce congue diam id ornare imperdiet,13.48,,No,50.73,920,920,6/4/2019
+921,blandit non interdum in ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae,69.04,,Yes,32.34,921,921,7/15/2019
+922,praesent blandit nam nulla integer pede justo lacinia eget tincidunt eget tempus vel pede,10.38,,Yes,61.03,922,922,11/7/2019
+923,morbi porttitor lorem id ligula suspendisse ornare consequat lectus in est,34.67,,Yes,49.4,923,923,6/10/2019
+924,erat volutpat in congue etiam justo etiam pretium iaculis justo in hac habitasse platea,76.84,,Yes,46.87,924,924,12/23/2019
+925,hendrerit at vulputate vitae nisl aenean lectus pellentesque eget nunc donec quis orci eget orci vehicula condimentum curabitur,25.75,,Yes,55.41,925,925,11/4/2019
+926,interdum mauris ullamcorper purus sit amet nulla quisque arcu libero rutrum ac,50.16,,Yes,34.62,926,926,11/19/2019
+927,tristique est et tempus semper est quam pharetra magna ac,51.18,,Yes,37.77,927,927,9/10/2019
+928,non ligula pellentesque ultrices phasellus id sapien in sapien iaculis congue vivamus metus arcu adipiscing molestie hendrerit at vulputate,62.79,,Yes,57.54,928,928,5/31/2019
+929,dapibus nulla suscipit ligula in lacus curabitur at ipsum ac tellus semper interdum mauris ullamcorper purus sit amet nulla,69.96,,No,67.03,929,929,6/27/2019
+930,elementum ligula vehicula consequat morbi a ipsum integer a nibh in quis,9.42,,No,24.61,930,930,9/19/2019
+931,quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum sit amet cursus id turpis integer aliquet,22.25,,Yes,66.95,931,931,6/4/2019
+932,odio consequat varius integer ac leo pellentesque ultrices mattis odio donec vitae nisi nam ultrices libero non,3.47,,No,40.98,932,932,5/23/2019
+933,potenti cras in purus eu magna vulputate luctus cum sociis natoque penatibus et magnis dis parturient montes,65.07,,Yes,56.67,933,933,9/18/2019
+934,gravida nisi at nibh in hac habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum,22.63,,Yes,54.48,934,934,9/2/2019
+935,sagittis dui vel nisl duis ac nibh fusce lacus purus aliquet at,30.83,,No,61.73,935,935,11/5/2019
+936,curabitur at ipsum ac tellus semper interdum mauris ullamcorper purus sit amet,63.19,,Yes,39.73,936,936,6/22/2019
+937,ac enim in tempor turpis nec euismod scelerisque quam turpis adipiscing lorem vitae mattis,24.87,,No,40.69,937,937,9/17/2019
+938,tellus in sagittis dui vel nisl duis ac nibh fusce lacus purus aliquet at,5.66,,Yes,51.96,938,938,5/30/2019
+939,dis parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque,43.84,,Yes,53.39,939,939,8/17/2019
+940,lectus in quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum sit,38.21,,No,54.39,940,940,12/10/2019
+941,sed magna at nunc commodo placerat praesent blandit nam nulla integer pede justo lacinia eget tincidunt eget tempus vel,48.52,,No,47.36,941,941,9/21/2019
+942,in felis eu sapien cursus vestibulum proin eu mi nulla ac enim in,78.33,,No,44.68,942,942,11/1/2019
+943,posuere nonummy integer non velit donec diam neque vestibulum eget vulputate ut ultrices vel augue vestibulum ante ipsum,35.7,,Yes,37.53,943,943,9/6/2019
+944,libero nam dui proin leo odio porttitor id consequat in consequat ut nulla sed accumsan felis ut at dolor,2.28,,Yes,42.16,944,944,11/4/2019
+945,bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt eu felis fusce posuere felis sed lacus morbi,75.99,,No,54.42,945,945,8/24/2019
+946,sed sagittis nam congue risus semper porta volutpat quam pede lobortis ligula sit amet eleifend pede libero quis,6.91,,Yes,54.13,946,946,7/3/2019
+947,ipsum aliquam non mauris morbi non lectus aliquam sit amet diam in magna bibendum imperdiet,4.18,,Yes,46.76,947,947,11/15/2019
+948,felis sed interdum venenatis turpis enim blandit mi in porttitor pede justo eu massa donec dapibus,47.09,,Yes,45.52,948,948,11/24/2019
+949,sapien quis libero nullam sit amet turpis elementum ligula vehicula consequat morbi a ipsum integer a,20.22,,Yes,68.58,949,949,12/7/2019
+950,in quis justo maecenas rhoncus aliquam lacus morbi quis tortor id nulla ultrices aliquet maecenas,66.74,,Yes,38.84,950,950,12/7/2019
+951,faucibus orci luctus et ultrices posuere cubilia curae duis faucibus accumsan,6.61,,No,44.74,951,951,8/10/2019
+952,feugiat et eros vestibulum ac est lacinia nisi venenatis tristique,48.28,,No,58.2,952,952,5/25/2019
+953,nulla eget eros elementum pellentesque quisque porta volutpat erat quisque erat eros,25.64,,No,44.68,953,953,12/21/2019
+954,etiam faucibus cursus urna ut tellus nulla ut erat id mauris vulputate elementum nullam varius nulla facilisi cras non velit,49.3,,No,49.58,954,954,5/29/2019
+955,id nulla ultrices aliquet maecenas leo odio condimentum id luctus nec molestie sed justo pellentesque viverra pede ac,30.51,,No,52.87,955,955,7/2/2019
+956,nulla sed vel enim sit amet nunc viverra dapibus nulla suscipit ligula in lacus,52.08,,No,40.49,956,956,11/7/2019
+957,duis consequat dui nec nisi volutpat eleifend donec ut dolor morbi vel lectus in quam,2.68,,No,45.64,957,957,8/10/2019
+958,pellentesque viverra pede ac diam cras pellentesque volutpat dui maecenas tristique est et tempus,62.13,,No,45.99,958,958,10/1/2019
+959,habitasse platea dictumst morbi vestibulum velit id pretium iaculis diam erat fermentum justo nec condimentum neque sapien placerat,51.52,,No,44.03,959,959,8/5/2019
+960,ultrices posuere cubilia curae mauris viverra diam vitae quam suspendisse potenti nullam porttitor lacus at turpis donec,63.88,,Yes,42.61,960,960,6/4/2019
+961,duis ac nibh fusce lacus purus aliquet at feugiat non pretium quis lectus,27.43,,Yes,54.97,961,961,11/5/2019
+962,etiam justo etiam pretium iaculis justo in hac habitasse platea dictumst etiam faucibus cursus,4.53,,Yes,72.3,962,962,5/21/2019
+963,orci luctus et ultrices posuere cubilia curae nulla dapibus dolor vel est donec odio justo,43.76,,No,29.97,963,963,6/15/2019
+964,vivamus tortor duis mattis egestas metus aenean fermentum donec ut mauris eget massa tempor,53.38,,No,50.62,964,964,5/20/2019
+965,proin eu mi nulla ac enim in tempor turpis nec euismod,75.45,,No,47.81,965,965,7/19/2019
+966,velit eu est congue elementum in hac habitasse platea dictumst morbi vestibulum velit id pretium iaculis diam erat fermentum justo,12.3,,No,59.82,966,966,10/23/2019
+967,donec dapibus duis at velit eu est congue elementum in hac,32.57,,Yes,60.79,967,967,6/26/2019
+968,ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae duis faucibus accumsan odio,64.4,,Yes,44.26,968,968,7/15/2019
+969,ligula vehicula consequat morbi a ipsum integer a nibh in quis justo maecenas rhoncus aliquam lacus morbi quis tortor,9.35,,Yes,31.11,969,969,11/27/2019
+970,aliquam sit amet diam in magna bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt eu,38.61,,No,61.46,970,970,7/2/2019
+971,ac enim in tempor turpis nec euismod scelerisque quam turpis adipiscing lorem vitae mattis nibh ligula nec sem duis,31.77,,Yes,37.82,971,971,8/25/2019
+972,in hac habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget,17.02,,Yes,54.35,972,972,8/24/2019
+973,duis bibendum morbi non quam nec dui luctus rutrum nulla tellus in sagittis dui vel nisl duis ac nibh fusce,13.52,,No,46.6,973,973,10/31/2019
+974,justo pellentesque viverra pede ac diam cras pellentesque volutpat dui maecenas tristique est et,63.2,,No,46.82,974,974,6/8/2019
+975,fusce congue diam id ornare imperdiet sapien urna pretium nisl,37.98,,Yes,48.66,975,975,9/8/2019
+976,ligula sit amet eleifend pede libero quis orci nullam molestie nibh,60.71,,Yes,55.45,976,976,10/10/2019
+977,suspendisse accumsan tortor quis turpis sed ante vivamus tortor duis mattis egestas metus aenean fermentum donec ut mauris eget,8.89,,Yes,67.25,977,977,5/21/2019
+978,in congue etiam justo etiam pretium iaculis justo in hac,8.15,,No,53.8,978,978,8/1/2019
+979,eleifend donec ut dolor morbi vel lectus in quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum sit amet,78.44,,No,55.71,979,979,12/28/2019
+980,neque libero convallis eget eleifend luctus ultricies eu nibh quisque id,45.43,,No,45.78,980,980,9/3/2019
+981,tincidunt eget tempus vel pede morbi porttitor lorem id ligula suspendisse ornare consequat lectus in est risus auctor sed,77.59,,Yes,56.73,981,981,5/4/2019
+982,penatibus et magnis dis parturient montes nascetur ridiculus mus etiam vel augue,51.32,,No,55.5,982,982,6/24/2019
+983,fermentum donec ut mauris eget massa tempor convallis nulla neque libero,4.03,,No,55.79,983,983,5/13/2019
+984,non quam nec dui luctus rutrum nulla tellus in sagittis dui vel nisl duis ac nibh fusce lacus,41.9,,Yes,42.29,984,984,12/3/2019
+985,vivamus metus arcu adipiscing molestie hendrerit at vulputate vitae nisl aenean lectus pellentesque eget nunc donec,27.71,,Yes,35.31,985,985,10/6/2019
+986,risus semper porta volutpat quam pede lobortis ligula sit amet,60.31,,Yes,50.04,986,986,11/15/2019
+987,mauris viverra diam vitae quam suspendisse potenti nullam porttitor lacus at turpis,46.29,,No,52.99,987,987,12/13/2019
+988,justo in blandit ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing,56.52,,No,66.75,988,988,7/19/2019
+989,sem sed sagittis nam congue risus semper porta volutpat quam pede lobortis ligula,0.65,,Yes,67.38,989,989,12/9/2019
+990,cursus vestibulum proin eu mi nulla ac enim in tempor turpis nec euismod scelerisque quam turpis adipiscing lorem vitae,6.48,,No,47.33,990,990,5/21/2019
+991,vulputate ut ultrices vel augue vestibulum ante ipsum primis in faucibus orci luctus et,75.55,,Yes,52.76,991,991,9/18/2019
+992,ac tellus semper interdum mauris ullamcorper purus sit amet nulla quisque arcu libero,46.64,,No,30.44,992,992,10/11/2019
+993,eleifend donec ut dolor morbi vel lectus in quam fringilla rhoncus mauris,67.76,,Yes,45.19,993,993,6/29/2019
+994,et ultrices posuere cubilia curae mauris viverra diam vitae quam suspendisse potenti nullam porttitor lacus at turpis donec posuere,18.76,,No,37.29,994,994,8/24/2019
+995,sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque penatibus,52.35,,Yes,54.31,995,995,9/13/2019
+996,sapien in sapien iaculis congue vivamus metus arcu adipiscing molestie hendrerit at vulputate vitae nisl,71.44,,No,28.33,996,996,7/15/2019
+997,aliquam quis turpis eget elit sodales scelerisque mauris sit amet eros suspendisse,31.17,,Yes,56.68,997,997,8/28/2019
+998,rutrum nulla nunc purus phasellus in felis donec semper sapien,78.81,,No,48.44,998,998,5/4/2019
+999,nunc purus phasellus in felis donec semper sapien a libero nam dui proin leo odio porttitor id,62.48,,Yes,37.31,999,999,11/20/2019
+1000,rutrum at lorem integer tincidunt ante vel ipsum praesent blandit lacinia,3.12,,No,46.04,1000,1000,9/19/2019
